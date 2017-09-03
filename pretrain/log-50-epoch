@@ -1,0 +1,3035 @@
+/home/liulj/anaconda2/bin/python /home/liulj/Desktop/Downloads/py-MDNet-master/pretrain/train_mdnet.py
+==== Start Cycle 0 ====
+Cycle  0, K  0 (36), Loss 181.525, Prec 0.156, Time 2.682
+Cycle  0, K  1 ( 3), Loss 196.640, Prec 0.219, Time 0.233
+Cycle  0, K  2 (27), Loss 150.491, Prec 0.250, Time 0.226
+Cycle  0, K  3 ( 9), Loss 180.864, Prec 0.281, Time 0.311
+Cycle  0, K  4 (32), Loss 224.107, Prec 0.219, Time 0.236
+Cycle  0, K  5 (40), Loss 124.140, Prec 0.344, Time 0.256
+Cycle  0, K  6 (43), Loss 179.192, Prec 0.312, Time 0.256
+Cycle  0, K  7 (31), Loss 206.035, Prec 0.375, Time 0.198
+Cycle  0, K  8 (51), Loss 196.414, Prec 0.219, Time 0.326
+Cycle  0, K  9 (20), Loss 163.686, Prec 0.219, Time 0.400
+Cycle  0, K 10 ( 8), Loss 212.526, Prec 0.375, Time 0.281
+Cycle  0, K 11 (35), Loss 167.604, Prec 0.312, Time 0.507
+Cycle  0, K 12 (47), Loss 115.936, Prec 0.375, Time 0.404
+Cycle  0, K 13 (26), Loss 245.015, Prec 0.281, Time 0.254
+Cycle  0, K 14 ( 6), Loss 322.657, Prec 0.188, Time 0.356
+Cycle  0, K 15 ( 1), Loss 152.642, Prec 0.375, Time 0.350
+Cycle  0, K 16 (33), Loss 150.810, Prec 0.250, Time 0.271
+Cycle  0, K 17 (18), Loss 161.682, Prec 0.312, Time 0.449
+Cycle  0, K 18 (56), Loss 230.561, Prec 0.156, Time 0.338
+Cycle  0, K 19 (11), Loss 245.511, Prec 0.188, Time 0.335
+Cycle  0, K 20 (55), Loss 139.018, Prec 0.312, Time 0.297
+Cycle  0, K 21 ( 0), Loss 153.418, Prec 0.281, Time 0.267
+Cycle  0, K 22 (16), Loss 173.457, Prec 0.219, Time 0.211
+Cycle  0, K 23 (39), Loss 129.018, Prec 0.188, Time 0.259
+Cycle  0, K 24 (14), Loss 152.863, Prec 0.312, Time 0.289
+Cycle  0, K 25 (42), Loss 140.426, Prec 0.281, Time 0.311
+Cycle  0, K 26 (30), Loss 155.407, Prec 0.188, Time 0.395
+Cycle  0, K 27 ( 4), Loss 152.613, Prec 0.219, Time 0.277
+Cycle  0, K 28 (46), Loss 159.067, Prec 0.312, Time 0.233
+Cycle  0, K 29 (53), Loss 142.089, Prec 0.188, Time 0.247
+Cycle  0, K 30 ( 2), Loss 142.151, Prec 0.188, Time 0.763
+Cycle  0, K 31 (25), Loss 161.232, Prec 0.312, Time 0.345
+Cycle  0, K 32 (38), Loss 190.330, Prec 0.281, Time 0.219
+Cycle  0, K 33 (13), Loss 158.651, Prec 0.281, Time 0.196
+Cycle  0, K 34 (45), Loss 251.859, Prec 0.281, Time 0.469
+Cycle  0, K 35 (50), Loss 305.522, Prec 0.156, Time 0.276
+Cycle  0, K 36 (24), Loss 241.379, Prec 0.188, Time 0.232
+Cycle  0, K 37 (23), Loss 226.297, Prec 0.406, Time 0.228
+Cycle  0, K 38 (17), Loss 262.674, Prec 0.250, Time 0.242
+Cycle  0, K 39 (44), Loss 336.673, Prec 0.312, Time 0.367
+Cycle  0, K 40 (57), Loss 232.782, Prec 0.219, Time 0.228
+Cycle  0, K 41 (15), Loss 183.289, Prec 0.281, Time 0.272
+Cycle  0, K 42 (12), Loss 200.329, Prec 0.281, Time 0.239
+Cycle  0, K 43 (41), Loss 159.153, Prec 0.219, Time 0.252
+Cycle  0, K 44 (49), Loss 146.497, Prec 0.312, Time 0.210
+Cycle  0, K 45 ( 5), Loss 267.137, Prec 0.219, Time 0.243
+Cycle  0, K 46 (22), Loss 133.846, Prec 0.188, Time 0.339
+Cycle  0, K 47 (29), Loss 158.532, Prec 0.281, Time 0.213
+Cycle  0, K 48 (21), Loss 145.824, Prec 0.188, Time 0.513
+Cycle  0, K 49 (19), Loss 165.898, Prec 0.344, Time 0.238
+Cycle  0, K 50 (54), Loss 239.898, Prec 0.312, Time 0.356
+Cycle  0, K 51 (10), Loss 114.060, Prec 0.281, Time 0.277
+Cycle  0, K 52 (34), Loss 240.226, Prec 0.188, Time 0.278
+Cycle  0, K 53 (37), Loss 147.699, Prec 0.312, Time 0.245
+Cycle  0, K 54 (48), Loss 246.468, Prec 0.281, Time 0.770
+Cycle  0, K 55 (28), Loss 198.861, Prec 0.250, Time 0.278
+Cycle  0, K 56 ( 7), Loss 112.379, Prec 0.219, Time 0.241
+Cycle  0, K 57 (52), Loss 151.101, Prec 0.156, Time 0.249
+Mean Precision: 0.260
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 1 ====
+Cycle  1, K  0 (55), Loss 107.218, Prec 0.312, Time 0.324
+Cycle  1, K  1 (18), Loss 76.485, Prec 0.406, Time 0.333
+Cycle  1, K  2 (54), Loss 115.718, Prec 0.312, Time 0.363
+Cycle  1, K  3 (19), Loss 110.667, Prec 0.312, Time 0.247
+Cycle  1, K  4 ( 3), Loss 64.005, Prec 0.531, Time 0.228
+Cycle  1, K  5 (12), Loss 94.118, Prec 0.312, Time 0.319
+Cycle  1, K  6 (21), Loss 126.149, Prec 0.156, Time 0.537
+Cycle  1, K  7 (49), Loss 96.183, Prec 0.406, Time 0.224
+Cycle  1, K  8 (17), Loss 124.142, Prec 0.219, Time 0.242
+Cycle  1, K  9 (34), Loss 126.759, Prec 0.188, Time 0.268
+Cycle  1, K 10 (33), Loss 93.869, Prec 0.344, Time 0.256
+Cycle  1, K 11 ( 9), Loss 93.162, Prec 0.531, Time 0.293
+Cycle  1, K 12 (56), Loss 79.581, Prec 0.406, Time 0.388
+Cycle  1, K 13 (52), Loss 89.953, Prec 0.344, Time 0.226
+Cycle  1, K 14 (51), Loss 83.427, Prec 0.469, Time 0.315
+Cycle  1, K 15 (20), Loss 104.346, Prec 0.281, Time 0.424
+Cycle  1, K 16 (38), Loss 74.656, Prec 0.375, Time 0.229
+Cycle  1, K 17 (48), Loss 126.424, Prec 0.375, Time 0.775
+Cycle  1, K 18 (29), Loss 76.867, Prec 0.375, Time 0.232
+Cycle  1, K 19 (26), Loss 108.554, Prec 0.188, Time 0.226
+Cycle  1, K 20 ( 1), Loss 112.674, Prec 0.344, Time 0.325
+Cycle  1, K 21 (27), Loss 113.694, Prec 0.281, Time 0.220
+Cycle  1, K 22 (14), Loss 74.533, Prec 0.375, Time 0.334
+Cycle  1, K 23 (31), Loss 97.485, Prec 0.406, Time 0.227
+Cycle  1, K 24 (24), Loss 83.382, Prec 0.438, Time 0.269
+Cycle  1, K 25 ( 2), Loss 121.892, Prec 0.281, Time 0.798
+Cycle  1, K 26 (41), Loss 107.790, Prec 0.250, Time 0.274
+Cycle  1, K 27 (57), Loss 74.127, Prec 0.250, Time 0.292
+Cycle  1, K 28 (50), Loss 111.013, Prec 0.281, Time 0.274
+Cycle  1, K 29 (10), Loss 90.892, Prec 0.344, Time 0.296
+Cycle  1, K 30 (11), Loss 110.595, Prec 0.312, Time 0.285
+Cycle  1, K 31 (53), Loss 82.725, Prec 0.406, Time 0.232
+Cycle  1, K 32 (43), Loss 85.257, Prec 0.406, Time 0.304
+Cycle  1, K 33 (13), Loss 93.557, Prec 0.281, Time 0.202
+Cycle  1, K 34 ( 5), Loss 106.410, Prec 0.250, Time 0.243
+Cycle  1, K 35 (30), Loss 88.312, Prec 0.219, Time 0.401
+Cycle  1, K 36 ( 8), Loss 102.716, Prec 0.219, Time 0.308
+Cycle  1, K 37 (16), Loss 115.847, Prec 0.281, Time 0.230
+Cycle  1, K 38 ( 7), Loss 102.362, Prec 0.219, Time 0.235
+Cycle  1, K 39 ( 6), Loss 99.328, Prec 0.312, Time 0.367
+Cycle  1, K 40 (22), Loss 87.873, Prec 0.344, Time 0.332
+Cycle  1, K 41 ( 0), Loss 83.179, Prec 0.344, Time 0.244
+Cycle  1, K 42 (23), Loss 111.294, Prec 0.281, Time 0.238
+Cycle  1, K 43 (32), Loss 73.713, Prec 0.281, Time 0.223
+Cycle  1, K 44 (46), Loss 68.509, Prec 0.344, Time 0.195
+Cycle  1, K 45 (35), Loss 69.467, Prec 0.469, Time 0.747
+Cycle  1, K 46 (25), Loss 74.223, Prec 0.375, Time 0.422
+Cycle  1, K 47 (28), Loss 113.536, Prec 0.250, Time 0.257
+Cycle  1, K 48 (37), Loss 69.903, Prec 0.594, Time 0.251
+Cycle  1, K 49 (42), Loss 82.663, Prec 0.406, Time 0.298
+Cycle  1, K 50 (40), Loss 92.547, Prec 0.312, Time 0.297
+Cycle  1, K 51 (45), Loss 102.203, Prec 0.219, Time 0.449
+Cycle  1, K 52 (44), Loss 126.586, Prec 0.250, Time 0.416
+Cycle  1, K 53 (15), Loss 85.118, Prec 0.469, Time 0.302
+Cycle  1, K 54 (47), Loss 107.551, Prec 0.219, Time 0.399
+Cycle  1, K 55 (39), Loss 87.712, Prec 0.250, Time 0.353
+Cycle  1, K 56 (36), Loss 82.254, Prec 0.375, Time 0.260
+Cycle  1, K 57 ( 4), Loss 92.672, Prec 0.375, Time 0.277
+Mean Precision: 0.330
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 2 ====
+Cycle  2, K  0 (10), Loss 86.099, Prec 0.281, Time 0.465
+Cycle  2, K  1 (13), Loss 86.245, Prec 0.156, Time 0.198
+Cycle  2, K  2 (52), Loss 74.921, Prec 0.281, Time 0.229
+Cycle  2, K  3 (15), Loss 90.856, Prec 0.375, Time 0.283
+Cycle  2, K  4 ( 9), Loss 69.965, Prec 0.344, Time 0.285
+Cycle  2, K  5 (39), Loss 83.977, Prec 0.344, Time 0.250
+Cycle  2, K  6 (38), Loss 71.764, Prec 0.312, Time 0.231
+Cycle  2, K  7 (33), Loss 69.069, Prec 0.406, Time 0.287
+Cycle  2, K  8 (32), Loss 57.861, Prec 0.469, Time 0.233
+Cycle  2, K  9 ( 5), Loss 72.216, Prec 0.281, Time 0.232
+Cycle  2, K 10 (51), Loss 71.465, Prec 0.344, Time 0.309
+Cycle  2, K 11 (18), Loss 48.605, Prec 0.625, Time 0.304
+Cycle  2, K 12 (41), Loss 91.094, Prec 0.469, Time 0.243
+Cycle  2, K 13 (22), Loss 89.337, Prec 0.250, Time 0.303
+Cycle  2, K 14 (27), Loss 99.257, Prec 0.219, Time 0.211
+Cycle  2, K 15 (11), Loss 78.308, Prec 0.344, Time 0.287
+Cycle  2, K 16 (46), Loss 44.715, Prec 0.594, Time 0.205
+Cycle  2, K 17 ( 1), Loss 72.032, Prec 0.406, Time 0.357
+Cycle  2, K 18 (44), Loss 77.658, Prec 0.406, Time 0.385
+Cycle  2, K 19 ( 8), Loss 61.188, Prec 0.344, Time 0.314
+Cycle  2, K 20 (48), Loss 71.308, Prec 0.344, Time 0.776
+Cycle  2, K 21 (12), Loss 58.723, Prec 0.500, Time 0.249
+Cycle  2, K 22 ( 6), Loss 69.629, Prec 0.375, Time 0.317
+Cycle  2, K 23 (26), Loss 70.084, Prec 0.469, Time 0.260
+Cycle  2, K 24 (45), Loss 89.386, Prec 0.281, Time 0.438
+Cycle  2, K 25 ( 0), Loss 83.627, Prec 0.344, Time 0.223
+Cycle  2, K 26 (34), Loss 82.946, Prec 0.312, Time 0.257
+Cycle  2, K 27 (16), Loss 73.101, Prec 0.469, Time 0.209
+Cycle  2, K 28 (43), Loss 64.235, Prec 0.531, Time 0.255
+Cycle  2, K 29 (19), Loss 78.409, Prec 0.438, Time 0.222
+Cycle  2, K 30 (17), Loss 76.241, Prec 0.219, Time 0.235
+Cycle  2, K 31 (14), Loss 72.997, Prec 0.344, Time 0.251
+Cycle  2, K 32 (36), Loss 69.763, Prec 0.438, Time 0.287
+Cycle  2, K 33 ( 2), Loss 70.011, Prec 0.469, Time 0.831
+Cycle  2, K 34 (29), Loss 47.122, Prec 0.469, Time 0.222
+Cycle  2, K 35 (23), Loss 82.219, Prec 0.344, Time 0.250
+Cycle  2, K 36 (30), Loss 69.380, Prec 0.438, Time 0.382
+Cycle  2, K 37 (37), Loss 63.463, Prec 0.438, Time 0.257
+Cycle  2, K 38 ( 4), Loss 66.847, Prec 0.406, Time 0.296
+Cycle  2, K 39 (35), Loss 54.493, Prec 0.500, Time 0.648
+Cycle  2, K 40 ( 7), Loss 83.075, Prec 0.312, Time 0.238
+Cycle  2, K 41 (53), Loss 73.477, Prec 0.375, Time 0.244
+Cycle  2, K 42 (42), Loss 46.916, Prec 0.500, Time 0.311
+Cycle  2, K 43 (50), Loss 72.339, Prec 0.375, Time 0.262
+Cycle  2, K 44 (54), Loss 80.914, Prec 0.500, Time 0.355
+Cycle  2, K 45 (47), Loss 69.563, Prec 0.312, Time 0.389
+Cycle  2, K 46 (20), Loss 85.214, Prec 0.250, Time 0.507
+Cycle  2, K 47 (31), Loss 65.345, Prec 0.438, Time 0.208
+Cycle  2, K 48 (25), Loss 75.846, Prec 0.393, Time 0.403
+Cycle  2, K 49 (49), Loss 58.938, Prec 0.531, Time 0.211
+Cycle  2, K 50 (55), Loss 64.423, Prec 0.469, Time 0.298
+Cycle  2, K 51 (57), Loss 70.414, Prec 0.281, Time 0.227
+Cycle  2, K 52 (21), Loss 85.609, Prec 0.406, Time 0.527
+Cycle  2, K 53 (56), Loss 46.987, Prec 0.469, Time 0.365
+Cycle  2, K 54 (24), Loss 80.953, Prec 0.406, Time 0.263
+Cycle  2, K 55 ( 3), Loss 71.203, Prec 0.344, Time 0.228
+Cycle  2, K 56 (40), Loss 51.663, Prec 0.531, Time 0.250
+Cycle  2, K 57 (28), Loss 97.675, Prec 0.375, Time 0.275
+Mean Precision: 0.390
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 3 ====
+Cycle  3, K  0 (35), Loss 45.774, Prec 0.656, Time 0.772
+Cycle  3, K  1 (13), Loss 68.048, Prec 0.375, Time 0.206
+Cycle  3, K  2 (23), Loss 51.387, Prec 0.500, Time 0.224
+Cycle  3, K  3 (28), Loss 104.865, Prec 0.312, Time 0.241
+Cycle  3, K  4 (51), Loss 49.113, Prec 0.531, Time 0.303
+Cycle  3, K  5 (15), Loss 66.290, Prec 0.562, Time 0.265
+Cycle  3, K  6 (38), Loss 45.353, Prec 0.500, Time 0.241
+Cycle  3, K  7 (56), Loss 44.511, Prec 0.469, Time 0.363
+Cycle  3, K  8 (42), Loss 37.232, Prec 0.500, Time 0.241
+Cycle  3, K  9 (43), Loss 38.485, Prec 0.688, Time 0.204
+Cycle  3, K 10 (52), Loss 57.584, Prec 0.406, Time 0.256
+Cycle  3, K 11 (34), Loss 74.775, Prec 0.500, Time 0.280
+Cycle  3, K 12 (33), Loss 72.105, Prec 0.438, Time 0.253
+Cycle  3, K 13 (17), Loss 61.623, Prec 0.312, Time 0.222
+Cycle  3, K 14 (14), Loss 61.430, Prec 0.312, Time 0.344
+Cycle  3, K 15 (50), Loss 48.163, Prec 0.625, Time 0.280
+Cycle  3, K 16 (25), Loss 65.115, Prec 0.438, Time 0.378
+Cycle  3, K 17 (30), Loss 73.398, Prec 0.375, Time 0.387
+Cycle  3, K 18 (49), Loss 42.413, Prec 0.656, Time 0.226
+Cycle  3, K 19 (47), Loss 74.505, Prec 0.250, Time 0.362
+Cycle  3, K 20 ( 6), Loss 50.340, Prec 0.438, Time 0.327
+Cycle  3, K 21 ( 0), Loss 96.572, Prec 0.250, Time 0.244
+Cycle  3, K 22 (44), Loss 71.710, Prec 0.406, Time 0.276
+Cycle  3, K 23 ( 2), Loss 71.161, Prec 0.406, Time 0.770
+Cycle  3, K 24 (16), Loss 67.779, Prec 0.406, Time 0.293
+Cycle  3, K 25 (20), Loss 70.472, Prec 0.406, Time 0.453
+Cycle  3, K 26 (32), Loss 59.961, Prec 0.438, Time 0.218
+Cycle  3, K 27 (54), Loss 57.141, Prec 0.469, Time 0.378
+Cycle  3, K 28 (31), Loss 50.134, Prec 0.531, Time 0.214
+Cycle  3, K 29 (12), Loss 36.461, Prec 0.625, Time 0.337
+Cycle  3, K 30 ( 9), Loss 48.683, Prec 0.531, Time 0.278
+Cycle  3, K 31 (10), Loss 57.393, Prec 0.438, Time 0.299
+Cycle  3, K 32 (48), Loss 55.608, Prec 0.594, Time 0.614
+Cycle  3, K 33 (53), Loss 56.986, Prec 0.562, Time 0.218
+Cycle  3, K 34 (19), Loss 63.923, Prec 0.438, Time 0.327
+Cycle  3, K 35 ( 3), Loss 43.232, Prec 0.562, Time 0.222
+Cycle  3, K 36 (22), Loss 80.761, Prec 0.344, Time 0.344
+Cycle  3, K 37 ( 4), Loss 64.115, Prec 0.562, Time 0.287
+Cycle  3, K 38 (29), Loss 49.552, Prec 0.562, Time 0.212
+Cycle  3, K 39 (24), Loss 73.084, Prec 0.406, Time 0.254
+Cycle  3, K 40 (27), Loss 66.439, Prec 0.344, Time 0.219
+Cycle  3, K 41 ( 8), Loss 60.533, Prec 0.469, Time 0.313
+Cycle  3, K 42 (18), Loss 26.840, Prec 0.781, Time 0.320
+Cycle  3, K 43 ( 1), Loss 64.904, Prec 0.469, Time 0.335
+Cycle  3, K 44 (37), Loss 41.591, Prec 0.750, Time 0.250
+Cycle  3, K 45 (41), Loss 83.499, Prec 0.312, Time 0.254
+Cycle  3, K 46 (11), Loss 64.458, Prec 0.500, Time 0.335
+Cycle  3, K 47 (40), Loss 51.284, Prec 0.594, Time 0.267
+Cycle  3, K 48 (39), Loss 89.839, Prec 0.094, Time 0.282
+Cycle  3, K 49 (21), Loss 73.977, Prec 0.406, Time 0.553
+Cycle  3, K 50 (46), Loss 29.313, Prec 0.750, Time 0.219
+Cycle  3, K 51 ( 5), Loss 69.995, Prec 0.375, Time 0.258
+Cycle  3, K 52 (45), Loss 57.035, Prec 0.375, Time 0.426
+Cycle  3, K 53 (55), Loss 56.897, Prec 0.531, Time 0.335
+Cycle  3, K 54 (26), Loss 78.258, Prec 0.438, Time 0.262
+Cycle  3, K 55 (57), Loss 63.717, Prec 0.250, Time 0.259
+Cycle  3, K 56 (36), Loss 75.178, Prec 0.375, Time 0.311
+Cycle  3, K 57 ( 7), Loss 90.372, Prec 0.312, Time 0.251
+Mean Precision: 0.464
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 4 ====
+Cycle  4, K  0 (14), Loss 50.308, Prec 0.500, Time 0.426
+Cycle  4, K  1 (46), Loss 25.389, Prec 0.719, Time 0.207
+Cycle  4, K  2 (32), Loss 26.788, Prec 0.688, Time 0.243
+Cycle  4, K  3 (55), Loss 52.139, Prec 0.438, Time 0.307
+Cycle  4, K  4 ( 7), Loss 84.604, Prec 0.156, Time 0.237
+Cycle  4, K  5 (45), Loss 76.420, Prec 0.375, Time 0.610
+Cycle  4, K  6 ( 2), Loss 56.044, Prec 0.464, Time 0.836
+Cycle  4, K  7 (29), Loss 34.404, Prec 0.469, Time 0.235
+Cycle  4, K  8 ( 9), Loss 49.309, Prec 0.500, Time 0.290
+Cycle  4, K  9 (50), Loss 52.405, Prec 0.531, Time 0.293
+Cycle  4, K 10 (27), Loss 56.494, Prec 0.531, Time 0.228
+Cycle  4, K 11 (39), Loss 65.711, Prec 0.344, Time 0.283
+Cycle  4, K 12 (42), Loss 33.816, Prec 0.719, Time 0.260
+Cycle  4, K 13 (16), Loss 50.395, Prec 0.594, Time 0.216
+Cycle  4, K 14 (34), Loss 49.400, Prec 0.500, Time 0.270
+Cycle  4, K 15 (44), Loss 53.699, Prec 0.594, Time 0.321
+Cycle  4, K 16 (56), Loss 21.375, Prec 0.719, Time 0.414
+Cycle  4, K 17 (24), Loss 59.372, Prec 0.438, Time 0.260
+Cycle  4, K 18 (12), Loss 23.742, Prec 0.750, Time 0.279
+Cycle  4, K 19 (18), Loss 33.420, Prec 0.719, Time 0.359
+Cycle  4, K 20 (49), Loss 22.635, Prec 0.781, Time 0.220
+Cycle  4, K 21 (54), Loss 69.503, Prec 0.594, Time 0.376
+Cycle  4, K 22 (47), Loss 55.344, Prec 0.469, Time 0.423
+Cycle  4, K 23 (40), Loss 48.987, Prec 0.531, Time 0.267
+Cycle  4, K 24 (53), Loss 49.001, Prec 0.594, Time 0.245
+Cycle  4, K 25 (36), Loss 55.751, Prec 0.344, Time 0.300
+Cycle  4, K 26 (20), Loss 50.088, Prec 0.594, Time 0.469
+Cycle  4, K 27 ( 1), Loss 56.447, Prec 0.531, Time 0.395
+Cycle  4, K 28 (22), Loss 60.836, Prec 0.500, Time 0.425
+Cycle  4, K 29 (41), Loss 50.892, Prec 0.469, Time 0.266
+Cycle  4, K 30 (15), Loss 46.653, Prec 0.562, Time 0.304
+Cycle  4, K 31 ( 4), Loss 67.282, Prec 0.469, Time 0.336
+Cycle  4, K 32 (10), Loss 45.555, Prec 0.531, Time 0.344
+Cycle  4, K 33 ( 8), Loss 47.143, Prec 0.500, Time 0.338
+Cycle  4, K 34 (38), Loss 61.407, Prec 0.406, Time 0.274
+Cycle  4, K 35 ( 0), Loss 67.384, Prec 0.281, Time 0.240
+Cycle  4, K 36 (11), Loss 47.657, Prec 0.500, Time 0.314
+Cycle  4, K 37 (28), Loss 69.681, Prec 0.438, Time 0.263
+Cycle  4, K 38 (52), Loss 34.268, Prec 0.562, Time 0.295
+Cycle  4, K 39 (43), Loss 42.787, Prec 0.656, Time 0.241
+Cycle  4, K 40 ( 5), Loss 67.549, Prec 0.281, Time 0.258
+Cycle  4, K 41 (48), Loss 44.298, Prec 0.562, Time 0.743
+Cycle  4, K 42 ( 3), Loss 26.643, Prec 0.812, Time 0.242
+Cycle  4, K 43 (57), Loss 47.510, Prec 0.469, Time 0.237
+Cycle  4, K 44 (19), Loss 46.121, Prec 0.562, Time 0.291
+Cycle  4, K 45 (51), Loss 40.101, Prec 0.594, Time 0.335
+Cycle  4, K 46 (31), Loss 41.950, Prec 0.500, Time 0.228
+Cycle  4, K 47 (25), Loss 66.674, Prec 0.531, Time 0.427
+Cycle  4, K 48 ( 6), Loss 35.681, Prec 0.688, Time 0.356
+Cycle  4, K 49 (30), Loss 58.109, Prec 0.469, Time 0.402
+Cycle  4, K 50 (37), Loss 24.988, Prec 0.812, Time 0.275
+Cycle  4, K 51 (21), Loss 84.640, Prec 0.469, Time 0.468
+Cycle  4, K 52 (35), Loss 33.340, Prec 0.688, Time 0.585
+Cycle  4, K 53 (33), Loss 74.949, Prec 0.344, Time 0.241
+Cycle  4, K 54 (17), Loss 44.606, Prec 0.469, Time 0.244
+Cycle  4, K 55 (26), Loss 73.248, Prec 0.375, Time 0.224
+Cycle  4, K 56 (13), Loss 51.060, Prec 0.469, Time 0.211
+Cycle  4, K 57 (23), Loss 63.523, Prec 0.312, Time 0.231
+Mean Precision: 0.525
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 5 ====
+Cycle  5, K  0 ( 2), Loss 79.918, Prec 0.531, Time 0.943
+Cycle  5, K  1 (31), Loss 31.509, Prec 0.531, Time 0.226
+Cycle  5, K  2 (13), Loss 49.942, Prec 0.594, Time 0.176
+Cycle  5, K  3 (14), Loss 33.850, Prec 0.656, Time 0.312
+Cycle  5, K  4 (25), Loss 32.198, Prec 0.562, Time 0.427
+Cycle  5, K  5 ( 0), Loss 57.378, Prec 0.375, Time 0.206
+Cycle  5, K  6 (40), Loss 39.771, Prec 0.562, Time 0.241
+Cycle  5, K  7 (39), Loss 51.052, Prec 0.469, Time 0.256
+Cycle  5, K  8 (51), Loss 28.327, Prec 0.688, Time 0.302
+Cycle  5, K  9 (45), Loss 55.458, Prec 0.531, Time 0.319
+Cycle  5, K 10 (52), Loss 47.113, Prec 0.500, Time 0.223
+Cycle  5, K 11 (56), Loss 13.378, Prec 0.875, Time 0.381
+Cycle  5, K 12 (23), Loss 44.670, Prec 0.562, Time 0.224
+Cycle  5, K 13 (33), Loss 39.304, Prec 0.688, Time 0.320
+Cycle  5, K 14 (37), Loss 17.233, Prec 0.812, Time 0.270
+Cycle  5, K 15 ( 9), Loss 41.392, Prec 0.656, Time 0.292
+Cycle  5, K 16 (19), Loss 46.374, Prec 0.594, Time 0.229
+Cycle  5, K 17 (47), Loss 48.015, Prec 0.656, Time 0.371
+Cycle  5, K 18 (21), Loss 60.067, Prec 0.500, Time 0.526
+Cycle  5, K 19 ( 8), Loss 35.097, Prec 0.656, Time 0.274
+Cycle  5, K 20 (50), Loss 36.869, Prec 0.656, Time 0.272
+Cycle  5, K 21 (11), Loss 17.164, Prec 0.875, Time 0.331
+Cycle  5, K 22 (44), Loss 39.633, Prec 0.500, Time 0.312
+Cycle  5, K 23 (29), Loss 13.212, Prec 0.750, Time 0.232
+Cycle  5, K 24 (28), Loss 66.186, Prec 0.562, Time 0.261
+Cycle  5, K 25 (38), Loss 41.294, Prec 0.531, Time 0.241
+Cycle  5, K 26 (24), Loss 48.492, Prec 0.562, Time 0.228
+Cycle  5, K 27 (32), Loss 33.412, Prec 0.656, Time 0.225
+Cycle  5, K 28 (22), Loss 35.412, Prec 0.750, Time 0.347
+Cycle  5, K 29 (48), Loss 30.942, Prec 0.688, Time 0.859
+Cycle  5, K 30 ( 4), Loss 50.660, Prec 0.656, Time 0.290
+Cycle  5, K 31 (49), Loss 8.135, Prec 0.938, Time 0.220
+Cycle  5, K 32 (53), Loss 38.069, Prec 0.625, Time 0.234
+Cycle  5, K 33 (46), Loss 11.071, Prec 0.844, Time 0.205
+Cycle  5, K 34 (17), Loss 38.725, Prec 0.375, Time 0.246
+Cycle  5, K 35 ( 6), Loss 29.635, Prec 0.688, Time 0.329
+Cycle  5, K 36 (20), Loss 43.656, Prec 0.688, Time 0.454
+Cycle  5, K 37 ( 5), Loss 70.823, Prec 0.375, Time 0.233
+Cycle  5, K 38 ( 1), Loss 31.712, Prec 0.625, Time 0.370
+Cycle  5, K 39 ( 7), Loss 74.187, Prec 0.469, Time 0.248
+Cycle  5, K 40 (16), Loss 41.002, Prec 0.688, Time 0.235
+Cycle  5, K 41 (12), Loss 16.062, Prec 0.844, Time 0.260
+Cycle  5, K 42 (26), Loss 62.381, Prec 0.406, Time 0.248
+Cycle  5, K 43 (57), Loss 39.625, Prec 0.562, Time 0.244
+Cycle  5, K 44 (27), Loss 57.994, Prec 0.438, Time 0.231
+Cycle  5, K 45 (30), Loss 32.049, Prec 0.594, Time 0.398
+Cycle  5, K 46 (41), Loss 54.289, Prec 0.500, Time 0.258
+Cycle  5, K 47 ( 3), Loss 14.488, Prec 0.844, Time 0.232
+Cycle  5, K 48 (55), Loss 45.700, Prec 0.531, Time 0.306
+Cycle  5, K 49 (15), Loss 35.470, Prec 0.656, Time 0.282
+Cycle  5, K 50 (10), Loss 34.349, Prec 0.719, Time 0.328
+Cycle  5, K 51 (42), Loss 12.980, Prec 0.844, Time 0.277
+Cycle  5, K 52 (18), Loss 20.436, Prec 0.844, Time 0.311
+Cycle  5, K 53 (43), Loss 31.881, Prec 0.688, Time 0.213
+Cycle  5, K 54 (36), Loss 58.731, Prec 0.500, Time 0.288
+Cycle  5, K 55 (34), Loss 63.552, Prec 0.562, Time 0.283
+Cycle  5, K 56 (35), Loss 23.055, Prec 0.844, Time 0.594
+Cycle  5, K 57 (54), Loss 49.978, Prec 0.500, Time 0.409
+Mean Precision: 0.627
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 6 ====
+Cycle  6, K  0 (52), Loss 21.004, Prec 0.750, Time 0.411
+Cycle  6, K  1 (26), Loss 53.941, Prec 0.406, Time 0.228
+Cycle  6, K  2 (33), Loss 34.852, Prec 0.719, Time 0.272
+Cycle  6, K  3 ( 9), Loss 14.825, Prec 0.812, Time 0.312
+Cycle  6, K  4 (16), Loss 27.435, Prec 0.812, Time 0.229
+Cycle  6, K  5 (21), Loss 51.513, Prec 0.438, Time 0.667
+Cycle  6, K  6 (10), Loss 43.658, Prec 0.562, Time 0.341
+Cycle  6, K  7 (45), Loss 48.824, Prec 0.594, Time 0.572
+Cycle  6, K  8 (46), Loss 8.191, Prec 0.938, Time 0.208
+Cycle  6, K  9 (11), Loss 12.813, Prec 0.719, Time 0.316
+Cycle  6, K 10 (41), Loss 59.937, Prec 0.594, Time 0.290
+Cycle  6, K 11 (30), Loss 39.672, Prec 0.656, Time 0.410
+Cycle  6, K 12 (48), Loss 33.766, Prec 0.719, Time 0.671
+Cycle  6, K 13 (47), Loss 48.957, Prec 0.625, Time 0.434
+Cycle  6, K 14 (13), Loss 41.375, Prec 0.688, Time 0.211
+Cycle  6, K 15 (32), Loss 32.140, Prec 0.656, Time 0.234
+Cycle  6, K 16 (12), Loss 15.175, Prec 0.906, Time 0.252
+Cycle  6, K 17 (51), Loss 19.401, Prec 0.844, Time 0.352
+Cycle  6, K 18 (43), Loss 38.573, Prec 0.781, Time 0.226
+Cycle  6, K 19 (55), Loss 39.585, Prec 0.656, Time 0.304
+Cycle  6, K 20 ( 0), Loss 52.903, Prec 0.344, Time 0.241
+Cycle  6, K 21 (27), Loss 68.654, Prec 0.406, Time 0.199
+Cycle  6, K 22 (22), Loss 36.220, Prec 0.625, Time 0.350
+Cycle  6, K 23 ( 8), Loss 37.103, Prec 0.625, Time 0.274
+Cycle  6, K 24 (35), Loss 18.459, Prec 0.812, Time 0.692
+Cycle  6, K 25 (38), Loss 34.385, Prec 0.594, Time 0.258
+Cycle  6, K 26 ( 5), Loss 48.944, Prec 0.562, Time 0.282
+Cycle  6, K 27 (31), Loss 16.570, Prec 0.812, Time 0.259
+Cycle  6, K 28 (53), Loss 31.436, Prec 0.625, Time 0.231
+Cycle  6, K 29 (17), Loss 32.481, Prec 0.531, Time 0.243
+Cycle  6, K 30 (29), Loss 11.005, Prec 0.812, Time 0.233
+Cycle  6, K 31 (20), Loss 41.829, Prec 0.688, Time 0.479
+Cycle  6, K 32 (18), Loss 13.617, Prec 0.875, Time 0.311
+Cycle  6, K 33 (39), Loss 53.101, Prec 0.562, Time 0.271
+Cycle  6, K 34 (24), Loss 59.277, Prec 0.562, Time 0.282
+Cycle  6, K 35 (36), Loss 47.024, Prec 0.594, Time 0.262
+Cycle  6, K 36 (28), Loss 58.031, Prec 0.531, Time 0.259
+Cycle  6, K 37 (15), Loss 38.923, Prec 0.656, Time 0.276
+Cycle  6, K 38 (54), Loss 49.484, Prec 0.531, Time 0.337
+Cycle  6, K 39 ( 3), Loss 10.773, Prec 0.875, Time 0.231
+Cycle  6, K 40 (19), Loss 35.439, Prec 0.781, Time 0.246
+Cycle  6, K 41 (23), Loss 31.113, Prec 0.750, Time 0.225
+Cycle  6, K 42 (34), Loss 61.027, Prec 0.594, Time 0.284
+Cycle  6, K 43 ( 2), Loss 42.213, Prec 0.531, Time 0.695
+Cycle  6, K 44 (56), Loss 15.890, Prec 0.875, Time 0.365
+Cycle  6, K 45 (40), Loss 30.741, Prec 0.594, Time 0.299
+Cycle  6, K 46 (57), Loss 26.865, Prec 0.625, Time 0.236
+Cycle  6, K 47 (14), Loss 27.165, Prec 0.688, Time 0.325
+Cycle  6, K 48 ( 6), Loss 19.862, Prec 0.781, Time 0.300
+Cycle  6, K 49 (25), Loss 53.452, Prec 0.625, Time 0.384
+Cycle  6, K 50 ( 4), Loss 51.163, Prec 0.625, Time 0.365
+Cycle  6, K 51 (44), Loss 31.163, Prec 0.719, Time 0.369
+Cycle  6, K 52 (49), Loss 13.371, Prec 0.906, Time 0.236
+Cycle  6, K 53 ( 1), Loss 35.524, Prec 0.594, Time 0.365
+Cycle  6, K 54 (50), Loss 15.973, Prec 0.875, Time 0.270
+Cycle  6, K 55 (42), Loss 10.675, Prec 0.906, Time 0.279
+Cycle  6, K 56 ( 7), Loss 98.998, Prec 0.281, Time 0.221
+Cycle  6, K 57 (37), Loss 9.702, Prec 0.844, Time 0.291
+Mean Precision: 0.674
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 7 ====
+Cycle  7, K  0 (19), Loss 34.999, Prec 0.750, Time 0.447
+Cycle  7, K  1 (23), Loss 36.002, Prec 0.656, Time 0.277
+Cycle  7, K  2 (52), Loss 19.928, Prec 0.781, Time 0.270
+Cycle  7, K  3 (20), Loss 33.092, Prec 0.750, Time 0.424
+Cycle  7, K  4 (31), Loss 14.291, Prec 0.875, Time 0.203
+Cycle  7, K  5 (53), Loss 32.762, Prec 0.750, Time 0.228
+Cycle  7, K  6 (32), Loss 15.860, Prec 0.781, Time 0.227
+Cycle  7, K  7 (35), Loss 20.076, Prec 0.812, Time 0.672
+Cycle  7, K  8 (33), Loss 37.285, Prec 0.750, Time 0.248
+Cycle  7, K  9 (51), Loss 14.609, Prec 0.844, Time 0.296
+Cycle  7, K 10 ( 4), Loss 40.510, Prec 0.594, Time 0.281
+Cycle  7, K 11 (10), Loss 37.325, Prec 0.688, Time 0.347
+Cycle  7, K 12 (47), Loss 47.090, Prec 0.562, Time 0.401
+Cycle  7, K 13 ( 2), Loss 50.165, Prec 0.531, Time 0.751
+Cycle  7, K 14 (11), Loss 20.221, Prec 0.812, Time 0.319
+Cycle  7, K 15 (43), Loss 22.709, Prec 0.781, Time 0.235
+Cycle  7, K 16 (15), Loss 28.552, Prec 0.750, Time 0.299
+Cycle  7, K 17 (46), Loss 9.008, Prec 0.875, Time 0.207
+Cycle  7, K 18 (54), Loss 42.419, Prec 0.625, Time 0.398
+Cycle  7, K 19 (25), Loss 40.453, Prec 0.719, Time 0.458
+Cycle  7, K 20 (39), Loss 52.446, Prec 0.562, Time 0.283
+Cycle  7, K 21 (40), Loss 28.915, Prec 0.719, Time 0.264
+Cycle  7, K 22 (12), Loss 16.627, Prec 0.906, Time 0.251
+Cycle  7, K 23 (41), Loss 45.958, Prec 0.656, Time 0.293
+Cycle  7, K 24 ( 5), Loss 36.860, Prec 0.625, Time 0.240
+Cycle  7, K 25 ( 6), Loss 17.764, Prec 0.844, Time 0.340
+Cycle  7, K 26 (44), Loss 43.422, Prec 0.688, Time 0.441
+Cycle  7, K 27 (14), Loss 24.749, Prec 0.750, Time 0.295
+Cycle  7, K 28 (45), Loss 52.754, Prec 0.469, Time 0.545
+Cycle  7, K 29 (49), Loss 7.888, Prec 0.938, Time 0.222
+Cycle  7, K 30 (42), Loss 6.551, Prec 0.844, Time 0.332
+Cycle  7, K 31 (29), Loss 9.051, Prec 0.906, Time 0.233
+Cycle  7, K 32 (13), Loss 30.725, Prec 0.781, Time 0.262
+Cycle  7, K 33 (38), Loss 27.116, Prec 0.719, Time 0.276
+Cycle  7, K 34 (24), Loss 39.320, Prec 0.812, Time 0.275
+Cycle  7, K 35 ( 8), Loss 22.996, Prec 0.688, Time 0.272
+Cycle  7, K 36 (57), Loss 25.611, Prec 0.688, Time 0.236
+Cycle  7, K 37 (48), Loss 17.960, Prec 0.781, Time 0.695
+Cycle  7, K 38 ( 9), Loss 27.419, Prec 0.812, Time 0.329
+Cycle  7, K 39 (36), Loss 32.168, Prec 0.656, Time 0.284
+Cycle  7, K 40 (22), Loss 41.765, Prec 0.688, Time 0.352
+Cycle  7, K 41 (17), Loss 50.971, Prec 0.531, Time 0.270
+Cycle  7, K 42 (37), Loss 9.939, Prec 0.906, Time 0.262
+Cycle  7, K 43 (26), Loss 51.063, Prec 0.531, Time 0.244
+Cycle  7, K 44 (30), Loss 26.353, Prec 0.812, Time 0.399
+Cycle  7, K 45 (50), Loss 15.398, Prec 0.875, Time 0.290
+Cycle  7, K 46 (34), Loss 43.346, Prec 0.688, Time 0.267
+Cycle  7, K 47 (21), Loss 47.951, Prec 0.625, Time 0.538
+Cycle  7, K 48 ( 0), Loss 53.022, Prec 0.594, Time 0.246
+Cycle  7, K 49 (18), Loss 17.988, Prec 0.906, Time 0.323
+Cycle  7, K 50 (16), Loss 26.184, Prec 0.812, Time 0.232
+Cycle  7, K 51 (28), Loss 46.444, Prec 0.531, Time 0.280
+Cycle  7, K 52 (27), Loss 50.951, Prec 0.469, Time 0.222
+Cycle  7, K 53 ( 7), Loss 95.196, Prec 0.281, Time 0.231
+Cycle  7, K 54 (56), Loss 10.849, Prec 0.906, Time 0.424
+Cycle  7, K 55 ( 3), Loss 6.072, Prec 0.906, Time 0.232
+Cycle  7, K 56 ( 1), Loss 31.633, Prec 0.750, Time 0.389
+Cycle  7, K 57 (55), Loss 56.102, Prec 0.688, Time 0.307
+Mean Precision: 0.725
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 8 ====
+Cycle  8, K  0 (56), Loss 7.255, Prec 0.844, Time 0.428
+Cycle  8, K  1 (55), Loss 39.610, Prec 0.625, Time 0.281
+Cycle  8, K  2 ( 3), Loss 7.224, Prec 0.938, Time 0.202
+Cycle  8, K  3 (35), Loss 14.571, Prec 0.844, Time 0.587
+Cycle  8, K  4 (27), Loss 47.565, Prec 0.562, Time 0.199
+Cycle  8, K  5 (24), Loss 41.603, Prec 0.656, Time 0.269
+Cycle  8, K  6 (23), Loss 23.512, Prec 0.688, Time 0.266
+Cycle  8, K  7 (26), Loss 32.647, Prec 0.688, Time 0.272
+Cycle  8, K  8 (51), Loss 10.254, Prec 0.938, Time 0.361
+Cycle  8, K  9 (12), Loss 14.340, Prec 0.844, Time 0.336
+Cycle  8, K 10 (14), Loss 15.510, Prec 0.844, Time 0.299
+Cycle  8, K 11 (30), Loss 24.634, Prec 0.750, Time 0.370
+Cycle  8, K 12 (43), Loss 22.815, Prec 0.812, Time 0.230
+Cycle  8, K 13 ( 0), Loss 38.359, Prec 0.594, Time 0.221
+Cycle  8, K 14 (34), Loss 25.076, Prec 0.812, Time 0.264
+Cycle  8, K 15 (28), Loss 64.696, Prec 0.625, Time 0.256
+Cycle  8, K 16 (18), Loss 18.663, Prec 0.875, Time 0.300
+Cycle  8, K 17 (22), Loss 20.948, Prec 0.688, Time 0.343
+Cycle  8, K 18 (21), Loss 59.728, Prec 0.562, Time 0.513
+Cycle  8, K 19 ( 5), Loss 45.271, Prec 0.594, Time 0.217
+Cycle  8, K 20 (20), Loss 36.815, Prec 0.688, Time 0.423
+Cycle  8, K 21 (32), Loss 11.180, Prec 0.781, Time 0.212
+Cycle  8, K 22 (54), Loss 41.110, Prec 0.750, Time 0.342
+Cycle  8, K 23 ( 8), Loss 33.460, Prec 0.844, Time 0.253
+Cycle  8, K 24 (46), Loss 16.009, Prec 0.938, Time 0.194
+Cycle  8, K 25 ( 6), Loss 13.227, Prec 0.844, Time 0.309
+Cycle  8, K 26 (50), Loss 21.685, Prec 0.812, Time 0.273
+Cycle  8, K 27 (47), Loss 37.238, Prec 0.656, Time 0.386
+Cycle  8, K 28 (42), Loss 12.124, Prec 0.969, Time 0.276
+Cycle  8, K 29 ( 4), Loss 29.923, Prec 0.750, Time 0.322
+Cycle  8, K 30 (33), Loss 30.359, Prec 0.688, Time 0.252
+Cycle  8, K 31 (36), Loss 40.987, Prec 0.750, Time 0.292
+Cycle  8, K 32 (38), Loss 21.452, Prec 0.750, Time 0.230
+Cycle  8, K 33 (17), Loss 23.204, Prec 0.656, Time 0.230
+Cycle  8, K 34 (19), Loss 32.192, Prec 0.781, Time 0.223
+Cycle  8, K 35 (48), Loss 11.932, Prec 0.844, Time 0.717
+Cycle  8, K 36 (45), Loss 34.677, Prec 0.594, Time 0.466
+Cycle  8, K 37 (57), Loss 35.687, Prec 0.719, Time 0.224
+Cycle  8, K 38 (13), Loss 33.600, Prec 0.688, Time 0.215
+Cycle  8, K 39 (15), Loss 20.872, Prec 0.781, Time 0.258
+Cycle  8, K 40 (37), Loss 7.211, Prec 0.938, Time 0.266
+Cycle  8, K 41 (31), Loss 8.691, Prec 0.906, Time 0.209
+Cycle  8, K 42 (16), Loss 23.499, Prec 0.812, Time 0.244
+Cycle  8, K 43 (52), Loss 20.494, Prec 0.812, Time 0.270
+Cycle  8, K 44 (10), Loss 28.203, Prec 0.812, Time 0.268
+Cycle  8, K 45 (39), Loss 50.322, Prec 0.500, Time 0.276
+Cycle  8, K 46 (29), Loss 4.358, Prec 0.938, Time 0.244
+Cycle  8, K 47 (53), Loss 33.186, Prec 0.844, Time 0.220
+Cycle  8, K 48 ( 9), Loss 22.306, Prec 0.812, Time 0.291
+Cycle  8, K 49 ( 7), Loss 74.334, Prec 0.375, Time 0.228
+Cycle  8, K 50 (41), Loss 21.897, Prec 0.750, Time 0.248
+Cycle  8, K 51 (40), Loss 24.802, Prec 0.719, Time 0.257
+Cycle  8, K 52 ( 2), Loss 51.207, Prec 0.469, Time 0.668
+Cycle  8, K 53 (49), Loss 63.332, Prec 0.812, Time 0.223
+Cycle  8, K 54 (11), Loss 25.558, Prec 0.719, Time 0.341
+Cycle  8, K 55 ( 1), Loss 34.645, Prec 0.719, Time 0.392
+Cycle  8, K 56 (44), Loss 32.772, Prec 0.781, Time 0.302
+Cycle  8, K 57 (25), Loss 52.143, Prec 0.656, Time 0.366
+Mean Precision: 0.749
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 9 ====
+Cycle  9, K  0 (53), Loss 12.449, Prec 0.812, Time 0.435
+Cycle  9, K  1 (45), Loss 22.938, Prec 0.750, Time 0.392
+Cycle  9, K  2 (23), Loss 16.201, Prec 0.719, Time 0.276
+Cycle  9, K  3 (17), Loss 35.411, Prec 0.656, Time 0.257
+Cycle  9, K  4 (22), Loss 25.713, Prec 0.812, Time 0.358
+Cycle  9, K  5 ( 7), Loss 87.025, Prec 0.281, Time 0.236
+Cycle  9, K  6 (16), Loss 34.641, Prec 0.844, Time 0.233
+Cycle  9, K  7 (43), Loss 17.437, Prec 0.875, Time 0.225
+Cycle  9, K  8 ( 8), Loss 44.790, Prec 0.656, Time 0.241
+Cycle  9, K  9 (18), Loss 14.482, Prec 0.844, Time 0.276
+Cycle  9, K 10 (31), Loss 5.783, Prec 0.906, Time 0.213
+Cycle  9, K 11 (21), Loss 53.720, Prec 0.688, Time 0.456
+Cycle  9, K 12 (37), Loss 1.873, Prec 0.969, Time 0.265
+Cycle  9, K 13 (26), Loss 49.327, Prec 0.562, Time 0.197
+Cycle  9, K 14 ( 3), Loss 7.636, Prec 0.969, Time 0.201
+Cycle  9, K 15 ( 2), Loss 39.788, Prec 0.719, Time 0.748
+Cycle  9, K 16 (39), Loss 44.556, Prec 0.594, Time 0.247
+Cycle  9, K 17 (13), Loss 31.937, Prec 0.719, Time 0.211
+Cycle  9, K 18 (55), Loss 76.970, Prec 0.812, Time 0.290
+Cycle  9, K 19 (29), Loss 13.879, Prec 0.844, Time 0.224
+Cycle  9, K 20 (57), Loss 25.075, Prec 0.750, Time 0.240
+Cycle  9, K 21 (56), Loss 12.748, Prec 0.906, Time 0.385
+Cycle  9, K 22 (42), Loss 2.591, Prec 0.875, Time 0.317
+Cycle  9, K 23 ( 5), Loss 45.321, Prec 0.625, Time 0.243
+Cycle  9, K 24 (28), Loss 36.550, Prec 0.750, Time 0.267
+Cycle  9, K 25 (12), Loss 7.628, Prec 0.969, Time 0.241
+Cycle  9, K 26 (50), Loss 18.231, Prec 0.844, Time 0.275
+Cycle  9, K 27 (20), Loss 12.781, Prec 0.812, Time 0.429
+Cycle  9, K 28 (27), Loss 44.708, Prec 0.625, Time 0.200
+Cycle  9, K 29 ( 0), Loss 40.750, Prec 0.594, Time 0.227
+Cycle  9, K 30 (51), Loss 9.410, Prec 0.906, Time 0.350
+Cycle  9, K 31 (52), Loss 16.443, Prec 0.750, Time 0.314
+Cycle  9, K 32 (46), Loss 7.941, Prec 0.938, Time 0.195
+Cycle  9, K 33 (11), Loss 9.189, Prec 0.844, Time 0.311
+Cycle  9, K 34 (44), Loss 20.728, Prec 0.812, Time 0.329
+Cycle  9, K 35 ( 4), Loss 24.303, Prec 0.759, Time 0.290
+Cycle  9, K 36 (30), Loss 28.874, Prec 0.688, Time 0.415
+Cycle  9, K 37 (10), Loss 22.691, Prec 0.875, Time 0.276
+Cycle  9, K 38 (33), Loss 35.125, Prec 0.781, Time 0.253
+Cycle  9, K 39 (14), Loss 11.614, Prec 0.812, Time 0.310
+Cycle  9, K 40 (34), Loss 26.302, Prec 0.844, Time 0.272
+Cycle  9, K 41 (40), Loss 15.891, Prec 0.875, Time 0.263
+Cycle  9, K 42 (48), Loss 16.892, Prec 0.875, Time 0.662
+Cycle  9, K 43 (47), Loss 34.969, Prec 0.781, Time 0.383
+Cycle  9, K 44 (54), Loss 25.822, Prec 0.812, Time 0.342
+Cycle  9, K 45 (49), Loss 13.369, Prec 0.875, Time 0.223
+Cycle  9, K 46 (32), Loss 14.601, Prec 0.812, Time 0.200
+Cycle  9, K 47 (25), Loss 25.349, Prec 0.781, Time 0.416
+Cycle  9, K 48 (35), Loss 13.330, Prec 0.875, Time 0.530
+Cycle  9, K 49 (36), Loss 31.669, Prec 0.781, Time 0.271
+Cycle  9, K 50 (19), Loss 16.203, Prec 0.812, Time 0.230
+Cycle  9, K 51 ( 1), Loss 16.900, Prec 0.719, Time 0.402
+Cycle  9, K 52 (15), Loss 25.011, Prec 0.812, Time 0.273
+Cycle  9, K 53 (24), Loss 36.322, Prec 0.688, Time 0.294
+Cycle  9, K 54 ( 6), Loss 10.752, Prec 0.906, Time 0.334
+Cycle  9, K 55 (41), Loss 18.777, Prec 0.812, Time 0.241
+Cycle  9, K 56 (38), Loss 18.421, Prec 0.812, Time 0.241
+Cycle  9, K 57 ( 9), Loss 14.023, Prec 0.875, Time 0.284
+Mean Precision: 0.788
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 10 ====
+Cycle 10, K  0 (47), Loss 28.075, Prec 0.719, Time 0.527
+Cycle 10, K  1 ( 7), Loss 72.695, Prec 0.281, Time 0.241
+Cycle 10, K  2 (32), Loss 21.181, Prec 0.812, Time 0.216
+Cycle 10, K  3 (23), Loss 22.668, Prec 0.781, Time 0.224
+Cycle 10, K  4 (11), Loss 17.797, Prec 0.857, Time 0.272
+Cycle 10, K  5 ( 2), Loss 55.160, Prec 0.562, Time 0.715
+Cycle 10, K  6 (36), Loss 30.090, Prec 0.750, Time 0.272
+Cycle 10, K  7 ( 1), Loss 38.649, Prec 0.781, Time 0.372
+Cycle 10, K  8 (38), Loss 31.875, Prec 0.781, Time 0.221
+Cycle 10, K  9 (39), Loss 51.719, Prec 0.625, Time 0.272
+Cycle 10, K 10 (28), Loss 68.706, Prec 0.625, Time 0.261
+Cycle 10, K 11 (15), Loss 28.113, Prec 0.812, Time 0.277
+Cycle 10, K 12 (22), Loss 40.489, Prec 0.719, Time 0.378
+Cycle 10, K 13 (54), Loss 40.059, Prec 0.719, Time 0.359
+Cycle 10, K 14 (30), Loss 9.191, Prec 0.875, Time 0.389
+Cycle 10, K 15 (49), Loss 10.795, Prec 0.906, Time 0.219
+Cycle 10, K 16 (16), Loss 22.823, Prec 0.812, Time 0.233
+Cycle 10, K 17 (24), Loss 40.448, Prec 0.656, Time 0.248
+Cycle 10, K 18 (51), Loss 2.800, Prec 0.969, Time 0.309
+Cycle 10, K 19 (14), Loss 20.640, Prec 0.812, Time 0.299
+Cycle 10, K 20 (57), Loss 30.293, Prec 0.719, Time 0.231
+Cycle 10, K 21 (33), Loss 29.228, Prec 0.781, Time 0.244
+Cycle 10, K 22 (46), Loss 6.183, Prec 0.938, Time 0.198
+Cycle 10, K 23 (10), Loss 17.270, Prec 0.875, Time 0.259
+Cycle 10, K 24 (56), Loss 7.341, Prec 0.938, Time 0.376
+Cycle 10, K 25 (31), Loss 8.641, Prec 0.844, Time 0.206
+Cycle 10, K 26 (43), Loss 14.576, Prec 0.781, Time 0.218
+Cycle 10, K 27 ( 0), Loss 32.447, Prec 0.625, Time 0.209
+Cycle 10, K 28 (48), Loss 5.973, Prec 0.938, Time 0.547
+Cycle 10, K 29 (42), Loss 7.185, Prec 0.969, Time 0.285
+Cycle 10, K 30 (21), Loss 37.579, Prec 0.719, Time 0.544
+Cycle 10, K 31 ( 8), Loss 31.532, Prec 0.844, Time 0.240
+Cycle 10, K 32 (53), Loss 31.969, Prec 0.812, Time 0.219
+Cycle 10, K 33 ( 9), Loss 19.562, Prec 0.844, Time 0.261
+Cycle 10, K 34 (44), Loss 22.683, Prec 0.781, Time 0.349
+Cycle 10, K 35 (34), Loss 55.526, Prec 0.781, Time 0.286
+Cycle 10, K 36 (35), Loss 17.873, Prec 0.844, Time 0.589
+Cycle 10, K 37 ( 3), Loss 1.540, Prec 1.000, Time 0.220
+Cycle 10, K 38 ( 4), Loss 30.916, Prec 0.750, Time 0.301
+Cycle 10, K 39 (40), Loss 11.928, Prec 0.906, Time 0.284
+Cycle 10, K 40 (55), Loss 28.618, Prec 0.781, Time 0.300
+Cycle 10, K 41 (25), Loss 15.401, Prec 0.875, Time 0.408
+Cycle 10, K 42 (13), Loss 22.544, Prec 0.750, Time 0.222
+Cycle 10, K 43 ( 5), Loss 37.057, Prec 0.531, Time 0.260
+Cycle 10, K 44 (26), Loss 32.095, Prec 0.625, Time 0.244
+Cycle 10, K 45 (18), Loss 2.290, Prec 1.000, Time 0.310
+Cycle 10, K 46 (27), Loss 31.168, Prec 0.719, Time 0.229
+Cycle 10, K 47 (12), Loss 5.045, Prec 0.906, Time 0.259
+Cycle 10, K 48 (19), Loss 26.074, Prec 0.750, Time 0.227
+Cycle 10, K 49 (41), Loss 48.581, Prec 0.688, Time 0.262
+Cycle 10, K 50 (37), Loss 0.991, Prec 0.969, Time 0.256
+Cycle 10, K 51 (17), Loss 17.577, Prec 0.625, Time 0.225
+Cycle 10, K 52 (52), Loss 10.958, Prec 0.875, Time 0.265
+Cycle 10, K 53 (50), Loss 9.206, Prec 0.969, Time 0.306
+Cycle 10, K 54 (29), Loss 6.118, Prec 0.875, Time 0.228
+Cycle 10, K 55 (20), Loss 27.863, Prec 0.750, Time 0.459
+Cycle 10, K 56 ( 6), Loss 14.133, Prec 0.875, Time 0.349
+Cycle 10, K 57 (45), Loss 29.586, Prec 0.656, Time 0.516
+Mean Precision: 0.789
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 11 ====
+Cycle 11, K  0 (57), Loss 27.740, Prec 0.688, Time 0.408
+Cycle 11, K  1 (51), Loss 8.084, Prec 0.875, Time 0.343
+Cycle 11, K  2 (33), Loss 33.500, Prec 0.656, Time 0.251
+Cycle 11, K  3 (46), Loss 5.320, Prec 0.969, Time 0.212
+Cycle 11, K  4 (17), Loss 13.773, Prec 0.719, Time 0.237
+Cycle 11, K  5 (53), Loss 18.240, Prec 0.875, Time 0.287
+Cycle 11, K  6 (55), Loss 27.969, Prec 0.781, Time 0.299
+Cycle 11, K  7 (30), Loss 14.195, Prec 0.812, Time 0.386
+Cycle 11, K  8 ( 0), Loss 34.804, Prec 0.688, Time 0.221
+Cycle 11, K  9 (32), Loss 7.307, Prec 0.906, Time 0.251
+Cycle 11, K 10 (50), Loss 7.472, Prec 0.875, Time 0.300
+Cycle 11, K 11 (15), Loss 33.152, Prec 0.781, Time 0.308
+Cycle 11, K 12 (14), Loss 18.308, Prec 0.812, Time 0.369
+Cycle 11, K 13 (25), Loss 16.215, Prec 0.812, Time 0.424
+Cycle 11, K 14 (38), Loss 16.872, Prec 0.812, Time 0.238
+Cycle 11, K 15 (52), Loss 33.561, Prec 0.750, Time 0.270
+Cycle 11, K 16 (35), Loss 14.750, Prec 0.906, Time 0.963
+Cycle 11, K 17 (49), Loss 17.807, Prec 0.844, Time 0.263
+Cycle 11, K 18 (22), Loss 16.692, Prec 0.812, Time 0.304
+Cycle 11, K 19 (54), Loss 36.918, Prec 0.656, Time 0.389
+Cycle 11, K 20 (11), Loss 6.975, Prec 0.844, Time 0.376
+Cycle 11, K 21 (31), Loss 11.801, Prec 0.875, Time 0.237
+Cycle 11, K 22 (18), Loss 3.653, Prec 1.000, Time 0.328
+Cycle 11, K 23 ( 4), Loss 43.864, Prec 0.719, Time 0.308
+Cycle 11, K 24 (28), Loss 63.185, Prec 0.656, Time 0.277
+Cycle 11, K 25 (23), Loss 15.143, Prec 0.781, Time 0.275
+Cycle 11, K 26 (13), Loss 18.912, Prec 0.719, Time 0.214
+Cycle 11, K 27 (36), Loss 16.105, Prec 0.812, Time 0.269
+Cycle 11, K 28 (41), Loss 31.496, Prec 0.625, Time 0.264
+Cycle 11, K 29 (45), Loss 20.821, Prec 0.719, Time 0.525
+Cycle 11, K 30 (34), Loss 27.128, Prec 0.750, Time 0.400
+Cycle 11, K 31 ( 5), Loss 28.920, Prec 0.562, Time 0.231
+Cycle 11, K 32 (19), Loss 20.279, Prec 0.812, Time 0.248
+Cycle 11, K 33 (56), Loss 5.406, Prec 0.906, Time 0.356
+Cycle 11, K 34 ( 1), Loss 82.773, Prec 0.500, Time 0.383
+Cycle 11, K 35 (27), Loss 22.700, Prec 0.812, Time 0.213
+Cycle 11, K 36 (43), Loss 9.109, Prec 0.906, Time 0.241
+Cycle 11, K 37 ( 8), Loss 22.653, Prec 0.812, Time 0.251
+Cycle 11, K 38 (16), Loss 24.007, Prec 0.875, Time 0.211
+Cycle 11, K 39 ( 7), Loss 69.222, Prec 0.469, Time 0.300
+Cycle 11, K 40 (26), Loss 46.088, Prec 0.656, Time 0.239
+Cycle 11, K 41 (37), Loss 9.753, Prec 0.969, Time 0.302
+Cycle 11, K 42 (48), Loss 7.331, Prec 0.938, Time 0.822
+Cycle 11, K 43 ( 9), Loss 21.839, Prec 0.844, Time 0.344
+Cycle 11, K 44 (12), Loss 6.316, Prec 0.969, Time 0.263
+Cycle 11, K 45 (21), Loss 48.220, Prec 0.688, Time 0.500
+Cycle 11, K 46 (42), Loss 2.659, Prec 0.969, Time 0.303
+Cycle 11, K 47 (10), Loss 10.857, Prec 0.906, Time 0.266
+Cycle 11, K 48 ( 2), Loss 43.561, Prec 0.656, Time 0.725
+Cycle 11, K 49 (47), Loss 37.456, Prec 0.812, Time 0.424
+Cycle 11, K 50 (40), Loss 9.333, Prec 0.938, Time 0.265
+Cycle 11, K 51 ( 6), Loss 12.299, Prec 0.875, Time 0.307
+Cycle 11, K 52 (24), Loss 34.478, Prec 0.781, Time 0.270
+Cycle 11, K 53 ( 3), Loss 4.367, Prec 0.969, Time 0.224
+Cycle 11, K 54 (44), Loss 26.720, Prec 0.750, Time 0.408
+Cycle 11, K 55 (29), Loss 7.342, Prec 0.938, Time 0.264
+Cycle 11, K 56 (39), Loss 33.592, Prec 0.688, Time 0.247
+Cycle 11, K 57 (20), Loss 33.727, Prec 0.781, Time 0.398
+Mean Precision: 0.798
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 12 ====
+Cycle 12, K  0 (24), Loss 24.066, Prec 0.781, Time 0.424
+Cycle 12, K  1 (53), Loss 13.253, Prec 0.875, Time 0.208
+Cycle 12, K  2 (54), Loss 46.713, Prec 0.750, Time 0.337
+Cycle 12, K  3 (17), Loss 41.630, Prec 0.625, Time 0.208
+Cycle 12, K  4 ( 5), Loss 34.103, Prec 0.625, Time 0.223
+Cycle 12, K  5 ( 9), Loss 38.455, Prec 0.750, Time 0.286
+Cycle 12, K  6 (37), Loss 1.107, Prec 0.969, Time 0.250
+Cycle 12, K  7 (57), Loss 13.765, Prec 0.781, Time 0.223
+Cycle 12, K  8 ( 6), Loss 20.266, Prec 0.844, Time 0.322
+Cycle 12, K  9 (34), Loss 19.852, Prec 0.781, Time 0.232
+Cycle 12, K 10 (41), Loss 28.531, Prec 0.781, Time 0.244
+Cycle 12, K 11 (22), Loss 15.279, Prec 0.875, Time 0.323
+Cycle 12, K 12 (25), Loss 23.736, Prec 0.812, Time 0.368
+Cycle 12, K 13 (52), Loss 8.172, Prec 0.875, Time 0.249
+Cycle 12, K 14 ( 7), Loss 69.507, Prec 0.438, Time 0.237
+Cycle 12, K 15 (40), Loss 15.237, Prec 0.875, Time 0.261
+Cycle 12, K 16 (38), Loss 7.592, Prec 0.844, Time 0.249
+Cycle 12, K 17 (11), Loss 13.844, Prec 0.906, Time 0.287
+Cycle 12, K 18 (16), Loss 20.320, Prec 0.875, Time 0.208
+Cycle 12, K 19 ( 0), Loss 36.291, Prec 0.719, Time 0.211
+Cycle 12, K 20 ( 3), Loss 2.254, Prec 1.000, Time 0.202
+Cycle 12, K 21 (47), Loss 26.712, Prec 0.719, Time 0.372
+Cycle 12, K 22 (39), Loss 56.613, Prec 0.656, Time 0.255
+Cycle 12, K 23 (12), Loss 2.273, Prec 0.969, Time 0.246
+Cycle 12, K 24 (15), Loss 43.181, Prec 0.781, Time 0.282
+Cycle 12, K 25 (28), Loss 48.148, Prec 0.656, Time 0.252
+Cycle 12, K 26 (48), Loss 6.793, Prec 0.844, Time 0.959
+Cycle 12, K 27 (50), Loss 10.727, Prec 0.938, Time 0.286
+Cycle 12, K 28 ( 2), Loss 48.550, Prec 0.719, Time 0.709
+Cycle 12, K 29 (18), Loss 10.181, Prec 0.906, Time 0.321
+Cycle 12, K 30 (31), Loss 4.850, Prec 0.938, Time 0.226
+Cycle 12, K 31 (27), Loss 37.586, Prec 0.656, Time 0.181
+Cycle 12, K 32 (30), Loss 30.302, Prec 0.719, Time 0.432
+Cycle 12, K 33 (35), Loss 8.746, Prec 0.906, Time 0.609
+Cycle 12, K 34 (23), Loss 20.983, Prec 0.812, Time 0.267
+Cycle 12, K 35 (33), Loss 39.590, Prec 0.781, Time 0.257
+Cycle 12, K 36 (42), Loss 5.673, Prec 0.969, Time 0.298
+Cycle 12, K 37 ( 4), Loss 25.178, Prec 0.875, Time 0.311
+Cycle 12, K 38 (26), Loss 38.820, Prec 0.688, Time 0.236
+Cycle 12, K 39 (19), Loss 36.518, Prec 0.844, Time 0.256
+Cycle 12, K 40 (36), Loss 17.827, Prec 0.812, Time 0.296
+Cycle 12, K 41 (49), Loss 1.585, Prec 0.938, Time 0.224
+Cycle 12, K 42 (20), Loss 18.962, Prec 0.812, Time 0.398
+Cycle 12, K 43 (45), Loss 20.911, Prec 0.781, Time 0.351
+Cycle 12, K 44 (14), Loss 13.703, Prec 0.875, Time 0.307
+Cycle 12, K 45 (46), Loss 12.192, Prec 0.906, Time 0.176
+Cycle 12, K 46 (55), Loss 7.901, Prec 0.938, Time 0.309
+Cycle 12, K 47 ( 1), Loss 27.107, Prec 0.688, Time 0.347
+Cycle 12, K 48 (21), Loss 43.431, Prec 0.625, Time 0.512
+Cycle 12, K 49 ( 8), Loss 21.299, Prec 0.844, Time 0.253
+Cycle 12, K 50 (13), Loss 17.667, Prec 0.781, Time 0.209
+Cycle 12, K 51 (56), Loss 0.861, Prec 1.000, Time 0.370
+Cycle 12, K 52 (43), Loss 12.694, Prec 0.906, Time 0.222
+Cycle 12, K 53 (32), Loss 4.837, Prec 0.938, Time 0.223
+Cycle 12, K 54 (44), Loss 17.901, Prec 0.812, Time 0.335
+Cycle 12, K 55 (10), Loss 21.702, Prec 0.812, Time 0.267
+Cycle 12, K 56 (51), Loss 7.497, Prec 0.938, Time 0.324
+Cycle 12, K 57 (29), Loss 4.500, Prec 0.906, Time 0.215
+Mean Precision: 0.818
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 13 ====
+Cycle 13, K  0 (22), Loss 42.210, Prec 0.750, Time 0.474
+Cycle 13, K  1 (51), Loss 8.983, Prec 0.906, Time 0.300
+Cycle 13, K  2 (28), Loss 35.475, Prec 0.812, Time 0.268
+Cycle 13, K  3 (14), Loss 11.920, Prec 0.906, Time 0.296
+Cycle 13, K  4 ( 0), Loss 39.304, Prec 0.594, Time 0.239
+Cycle 13, K  5 (57), Loss 13.905, Prec 0.812, Time 0.225
+Cycle 13, K  6 (19), Loss 25.984, Prec 0.812, Time 0.232
+Cycle 13, K  7 (12), Loss 1.171, Prec 1.000, Time 0.264
+Cycle 13, K  8 (54), Loss 14.121, Prec 0.844, Time 0.339
+Cycle 13, K  9 (47), Loss 29.394, Prec 0.750, Time 0.396
+Cycle 13, K 10 (10), Loss 38.038, Prec 0.719, Time 0.272
+Cycle 13, K 11 (38), Loss 12.807, Prec 0.844, Time 0.243
+Cycle 13, K 12 (15), Loss 18.746, Prec 0.812, Time 0.298
+Cycle 13, K 13 (46), Loss 10.916, Prec 0.906, Time 0.203
+Cycle 13, K 14 (50), Loss 1.210, Prec 0.938, Time 0.288
+Cycle 13, K 15 (17), Loss 28.496, Prec 0.625, Time 0.213
+Cycle 13, K 16 (52), Loss 13.638, Prec 0.875, Time 0.249
+Cycle 13, K 17 (20), Loss 29.201, Prec 0.812, Time 0.420
+Cycle 13, K 18 ( 5), Loss 30.443, Prec 0.750, Time 0.237
+Cycle 13, K 19 ( 8), Loss 16.919, Prec 0.844, Time 0.255
+Cycle 13, K 20 ( 9), Loss 26.223, Prec 0.812, Time 0.285
+Cycle 13, K 21 (49), Loss 4.087, Prec 0.938, Time 0.231
+Cycle 13, K 22 (48), Loss 12.392, Prec 0.844, Time 0.529
+Cycle 13, K 23 ( 3), Loss 2.390, Prec 0.969, Time 0.227
+Cycle 13, K 24 (55), Loss 41.890, Prec 0.844, Time 0.276
+Cycle 13, K 25 (36), Loss 11.942, Prec 0.875, Time 0.259
+Cycle 13, K 26 (27), Loss 30.028, Prec 0.719, Time 0.198
+Cycle 13, K 27 (45), Loss 31.129, Prec 0.781, Time 0.476
+Cycle 13, K 28 (43), Loss 18.179, Prec 0.875, Time 0.234
+Cycle 13, K 29 ( 6), Loss 9.872, Prec 0.906, Time 0.293
+Cycle 13, K 30 ( 2), Loss 46.583, Prec 0.750, Time 0.762
+Cycle 13, K 31 (11), Loss 17.623, Prec 0.875, Time 0.399
+Cycle 13, K 32 (26), Loss 46.098, Prec 0.531, Time 0.255
+Cycle 13, K 33 (44), Loss 11.771, Prec 0.906, Time 0.313
+Cycle 13, K 34 (34), Loss 33.140, Prec 0.656, Time 0.279
+Cycle 13, K 35 (24), Loss 32.093, Prec 0.750, Time 0.250
+Cycle 13, K 36 (33), Loss 43.273, Prec 0.812, Time 0.246
+Cycle 13, K 37 ( 7), Loss 74.269, Prec 0.406, Time 0.223
+Cycle 13, K 38 (21), Loss 50.718, Prec 0.688, Time 0.539
+Cycle 13, K 39 (56), Loss 2.951, Prec 0.969, Time 0.333
+Cycle 13, K 40 (18), Loss 11.000, Prec 0.906, Time 0.290
+Cycle 13, K 41 (53), Loss 13.679, Prec 0.875, Time 0.249
+Cycle 13, K 42 (23), Loss 11.015, Prec 0.844, Time 0.228
+Cycle 13, K 43 (39), Loss 35.720, Prec 0.688, Time 0.259
+Cycle 13, K 44 (25), Loss 33.107, Prec 0.781, Time 0.412
+Cycle 13, K 45 (40), Loss 3.487, Prec 0.969, Time 0.261
+Cycle 13, K 46 (30), Loss 27.929, Prec 0.656, Time 0.392
+Cycle 13, K 47 (31), Loss 12.132, Prec 0.969, Time 0.219
+Cycle 13, K 48 (37), Loss 3.141, Prec 0.969, Time 0.264
+Cycle 13, K 49 ( 4), Loss 21.550, Prec 0.750, Time 0.313
+Cycle 13, K 50 ( 1), Loss 20.255, Prec 0.844, Time 0.369
+Cycle 13, K 51 (29), Loss 6.362, Prec 0.938, Time 0.224
+Cycle 13, K 52 (13), Loss 11.467, Prec 0.906, Time 0.211
+Cycle 13, K 53 (32), Loss 16.376, Prec 0.875, Time 0.237
+Cycle 13, K 54 (16), Loss 19.914, Prec 0.844, Time 0.221
+Cycle 13, K 55 (35), Loss 5.115, Prec 1.000, Time 0.738
+Cycle 13, K 56 (42), Loss 2.808, Prec 0.938, Time 0.312
+Cycle 13, K 57 (41), Loss 13.373, Prec 0.844, Time 0.289
+Mean Precision: 0.824
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 14 ====
+Cycle 14, K  0 (55), Loss 19.965, Prec 0.781, Time 0.446
+Cycle 14, K  1 (48), Loss 6.133, Prec 0.969, Time 0.578
+Cycle 14, K  2 (23), Loss 3.120, Prec 0.969, Time 0.236
+Cycle 14, K  3 (33), Loss 33.847, Prec 0.812, Time 0.284
+Cycle 14, K  4 (43), Loss 7.477, Prec 0.906, Time 0.258
+Cycle 14, K  5 (25), Loss 13.225, Prec 0.906, Time 0.420
+Cycle 14, K  6 ( 9), Loss 12.568, Prec 0.844, Time 0.286
+Cycle 14, K  7 (57), Loss 9.418, Prec 0.719, Time 0.258
+Cycle 14, K  8 (42), Loss 0.539, Prec 1.000, Time 0.285
+Cycle 14, K  9 ( 5), Loss 19.480, Prec 0.656, Time 0.212
+Cycle 14, K 10 (53), Loss 8.397, Prec 0.938, Time 0.252
+Cycle 14, K 11 (54), Loss 30.150, Prec 0.781, Time 0.380
+Cycle 14, K 12 (37), Loss 7.471, Prec 0.938, Time 0.343
+Cycle 14, K 13 ( 0), Loss 27.680, Prec 0.688, Time 0.221
+Cycle 14, K 14 (29), Loss 3.062, Prec 0.906, Time 0.268
+Cycle 14, K 15 (10), Loss 25.372, Prec 0.812, Time 0.288
+Cycle 14, K 16 (45), Loss 24.558, Prec 0.812, Time 0.559
+Cycle 14, K 17 (34), Loss 15.481, Prec 0.875, Time 0.254
+Cycle 14, K 18 (38), Loss 31.157, Prec 0.844, Time 0.242
+Cycle 14, K 19 ( 2), Loss 54.670, Prec 0.688, Time 0.774
+Cycle 14, K 20 (46), Loss 3.735, Prec 0.938, Time 0.202
+Cycle 14, K 21 (27), Loss 25.820, Prec 0.812, Time 0.212
+Cycle 14, K 22 (28), Loss 49.586, Prec 0.688, Time 0.278
+Cycle 14, K 23 (17), Loss 16.733, Prec 0.562, Time 0.230
+Cycle 14, K 24 (49), Loss 3.532, Prec 0.938, Time 0.266
+Cycle 14, K 25 (32), Loss 7.757, Prec 0.938, Time 0.228
+Cycle 14, K 26 (20), Loss 33.184, Prec 0.781, Time 0.495
+Cycle 14, K 27 ( 3), Loss 1.386, Prec 1.000, Time 0.219
+Cycle 14, K 28 (15), Loss 18.975, Prec 0.750, Time 0.310
+Cycle 14, K 29 (39), Loss 55.952, Prec 0.688, Time 0.263
+Cycle 14, K 30 (12), Loss 5.358, Prec 0.938, Time 0.260
+Cycle 14, K 31 (26), Loss 23.802, Prec 0.781, Time 0.232
+Cycle 14, K 32 (18), Loss 40.113, Prec 0.875, Time 0.309
+Cycle 14, K 33 (22), Loss 33.361, Prec 0.688, Time 0.314
+Cycle 14, K 34 (11), Loss 5.250, Prec 1.000, Time 0.303
+Cycle 14, K 35 (19), Loss 19.103, Prec 0.781, Time 0.241
+Cycle 14, K 36 (41), Loss 19.747, Prec 0.781, Time 0.258
+Cycle 14, K 37 (51), Loss 7.398, Prec 0.938, Time 0.325
+Cycle 14, K 38 (35), Loss 15.045, Prec 0.875, Time 0.638
+Cycle 14, K 39 (52), Loss 15.969, Prec 0.844, Time 0.232
+Cycle 14, K 40 (56), Loss 1.084, Prec 0.969, Time 0.343
+Cycle 14, K 41 ( 8), Loss 21.974, Prec 0.781, Time 0.248
+Cycle 14, K 42 ( 7), Loss 86.056, Prec 0.375, Time 0.235
+Cycle 14, K 43 (21), Loss 43.114, Prec 0.562, Time 0.549
+Cycle 14, K 44 (40), Loss 13.386, Prec 0.938, Time 0.287
+Cycle 14, K 45 (14), Loss 13.811, Prec 0.750, Time 0.323
+Cycle 14, K 46 ( 1), Loss 28.243, Prec 0.688, Time 0.349
+Cycle 14, K 47 (16), Loss 13.552, Prec 0.875, Time 0.233
+Cycle 14, K 48 (36), Loss 17.113, Prec 0.938, Time 0.306
+Cycle 14, K 49 ( 4), Loss 11.679, Prec 0.844, Time 0.283
+Cycle 14, K 50 (30), Loss 21.041, Prec 0.844, Time 0.371
+Cycle 14, K 51 (31), Loss 7.810, Prec 0.875, Time 0.205
+Cycle 14, K 52 ( 6), Loss 13.756, Prec 0.938, Time 0.274
+Cycle 14, K 53 (44), Loss 15.717, Prec 0.812, Time 0.365
+Cycle 14, K 54 (47), Loss 17.378, Prec 0.812, Time 0.390
+Cycle 14, K 55 (13), Loss 11.263, Prec 0.719, Time 0.216
+Cycle 14, K 56 (50), Loss 12.807, Prec 0.875, Time 0.297
+Cycle 14, K 57 (24), Loss 29.268, Prec 0.750, Time 0.284
+Mean Precision: 0.824
+==== Start Cycle 15 ====
+Cycle 15, K  0 (23), Loss 7.157, Prec 0.875, Time 0.248
+Cycle 15, K  1 (41), Loss 4.383, Prec 0.969, Time 0.254
+Cycle 15, K  2 (56), Loss 8.275, Prec 0.969, Time 0.352
+Cycle 15, K  3 (31), Loss 10.286, Prec 0.844, Time 0.273
+Cycle 15, K  4 (40), Loss 7.713, Prec 0.906, Time 0.255
+Cycle 15, K  5 (57), Loss 20.799, Prec 0.750, Time 0.239
+Cycle 15, K  6 (55), Loss 11.872, Prec 0.812, Time 0.280
+Cycle 15, K  7 (49), Loss 3.790, Prec 0.938, Time 0.228
+Cycle 15, K  8 ( 1), Loss 23.540, Prec 0.688, Time 0.393
+Cycle 15, K  9 (13), Loss 30.484, Prec 0.781, Time 0.209
+Cycle 15, K 10 (22), Loss 27.906, Prec 0.781, Time 0.314
+Cycle 15, K 11 (12), Loss 2.073, Prec 0.969, Time 0.241
+Cycle 15, K 12 (16), Loss 16.445, Prec 0.938, Time 0.222
+Cycle 15, K 13 (45), Loss 17.200, Prec 0.781, Time 0.536
+Cycle 15, K 14 (33), Loss 42.118, Prec 0.719, Time 0.226
+Cycle 15, K 15 (43), Loss 16.065, Prec 0.875, Time 0.205
+Cycle 15, K 16 ( 8), Loss 16.973, Prec 0.844, Time 0.246
+Cycle 15, K 17 (26), Loss 18.920, Prec 0.781, Time 0.223
+Cycle 15, K 18 ( 5), Loss 23.105, Prec 0.750, Time 0.224
+Cycle 15, K 19 (32), Loss 2.834, Prec 0.906, Time 0.225
+Cycle 15, K 20 (30), Loss 37.872, Prec 0.719, Time 0.391
+Cycle 15, K 21 (24), Loss 28.752, Prec 0.719, Time 0.294
+Cycle 15, K 22 (25), Loss 11.845, Prec 0.844, Time 0.391
+Cycle 15, K 23 (52), Loss 24.285, Prec 0.812, Time 0.223
+Cycle 15, K 24 ( 6), Loss 9.305, Prec 0.938, Time 0.303
+Cycle 15, K 25 (36), Loss 18.088, Prec 0.875, Time 0.302
+Cycle 15, K 26 ( 9), Loss 15.070, Prec 0.844, Time 0.260
+Cycle 15, K 27 (35), Loss 24.700, Prec 0.875, Time 0.653
+Cycle 15, K 28 (21), Loss 40.418, Prec 0.688, Time 0.500
+Cycle 15, K 29 (29), Loss 1.147, Prec 0.969, Time 0.220
+Cycle 15, K 30 (17), Loss 21.561, Prec 0.719, Time 0.225
+Cycle 15, K 31 (34), Loss 15.363, Prec 0.875, Time 0.252
+Cycle 15, K 32 ( 2), Loss 44.025, Prec 0.625, Time 0.630
+Cycle 15, K 33 ( 4), Loss 21.987, Prec 0.812, Time 0.303
+Cycle 15, K 34 (50), Loss 3.597, Prec 1.000, Time 0.284
+Cycle 15, K 35 (37), Loss 1.786, Prec 1.000, Time 0.238
+Cycle 15, K 36 (11), Loss 2.679, Prec 1.000, Time 0.294
+Cycle 15, K 37 (48), Loss 11.607, Prec 0.875, Time 0.616
+Cycle 15, K 38 (39), Loss 22.961, Prec 0.719, Time 0.264
+Cycle 15, K 39 (18), Loss 5.017, Prec 0.969, Time 0.313
+Cycle 15, K 40 (28), Loss 35.143, Prec 0.781, Time 0.262
+Cycle 15, K 41 (20), Loss 25.868, Prec 0.719, Time 0.381
+Cycle 15, K 42 (19), Loss 16.849, Prec 0.906, Time 0.234
+Cycle 15, K 43 (54), Loss 44.611, Prec 0.781, Time 0.349
+Cycle 15, K 44 (53), Loss 10.486, Prec 0.906, Time 0.232
+Cycle 15, K 45 (15), Loss 25.807, Prec 0.844, Time 0.280
+Cycle 15, K 46 ( 7), Loss 70.816, Prec 0.344, Time 0.218
+Cycle 15, K 47 (44), Loss 17.259, Prec 0.906, Time 0.405
+Cycle 15, K 48 (51), Loss 2.374, Prec 0.969, Time 0.318
+Cycle 15, K 49 (14), Loss 19.243, Prec 0.812, Time 0.328
+Cycle 15, K 50 (46), Loss 3.714, Prec 0.938, Time 0.200
+Cycle 15, K 51 ( 0), Loss 12.281, Prec 0.844, Time 0.221
+Cycle 15, K 52 (27), Loss 20.471, Prec 0.781, Time 0.212
+Cycle 15, K 53 (42), Loss 0.904, Prec 1.000, Time 0.339
+Cycle 15, K 54 (38), Loss 13.874, Prec 0.844, Time 0.253
+Cycle 15, K 55 (47), Loss 16.734, Prec 0.844, Time 0.375
+Cycle 15, K 56 ( 3), Loss 2.766, Prec 1.000, Time 0.222
+Cycle 15, K 57 (10), Loss 18.235, Prec 0.906, Time 0.262
+Mean Precision: 0.843
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 16 ====
+Cycle 16, K  0 (22), Loss 24.257, Prec 0.781, Time 0.483
+Cycle 16, K  1 ( 1), Loss 25.635, Prec 0.812, Time 0.373
+Cycle 16, K  2 (57), Loss 10.156, Prec 0.812, Time 0.239
+Cycle 16, K  3 (37), Loss 0.373, Prec 1.000, Time 0.242
+Cycle 16, K  4 (32), Loss 4.057, Prec 0.906, Time 0.239
+Cycle 16, K  5 (51), Loss 5.779, Prec 0.969, Time 0.338
+Cycle 16, K  6 (41), Loss 12.560, Prec 0.875, Time 0.252
+Cycle 16, K  7 ( 2), Loss 45.914, Prec 0.688, Time 0.715
+Cycle 16, K  8 (44), Loss 12.407, Prec 0.875, Time 0.348
+Cycle 16, K  9 (48), Loss 13.156, Prec 0.875, Time 0.864
+Cycle 16, K 10 (35), Loss 7.008, Prec 0.969, Time 0.601
+Cycle 16, K 11 (49), Loss 8.667, Prec 0.938, Time 0.254
+Cycle 16, K 12 (24), Loss 23.772, Prec 0.844, Time 0.282
+Cycle 16, K 13 (25), Loss 13.237, Prec 0.875, Time 0.392
+Cycle 16, K 14 ( 5), Loss 18.887, Prec 0.781, Time 0.240
+Cycle 16, K 15 (39), Loss 36.311, Prec 0.688, Time 0.282
+Cycle 16, K 16 (43), Loss 15.917, Prec 0.875, Time 0.230
+Cycle 16, K 17 (56), Loss 2.457, Prec 1.000, Time 0.347
+Cycle 16, K 18 (10), Loss 11.862, Prec 0.938, Time 0.274
+Cycle 16, K 19 (13), Loss 18.089, Prec 0.812, Time 0.221
+Cycle 16, K 20 (46), Loss 1.886, Prec 0.938, Time 0.219
+Cycle 16, K 21 (26), Loss 33.976, Prec 0.812, Time 0.235
+Cycle 16, K 22 (17), Loss 10.653, Prec 0.844, Time 0.252
+Cycle 16, K 23 (28), Loss 24.748, Prec 0.750, Time 0.259
+Cycle 16, K 24 ( 0), Loss 23.009, Prec 0.719, Time 0.228
+Cycle 16, K 25 (16), Loss 21.443, Prec 0.844, Time 0.237
+Cycle 16, K 26 (21), Loss 21.929, Prec 0.812, Time 0.388
+Cycle 16, K 27 (15), Loss 19.801, Prec 0.875, Time 0.295
+Cycle 16, K 28 (29), Loss 1.088, Prec 1.000, Time 0.225
+Cycle 16, K 29 (50), Loss 5.036, Prec 0.938, Time 0.267
+Cycle 16, K 30 (47), Loss 9.974, Prec 0.906, Time 0.387
+Cycle 16, K 31 (31), Loss 7.328, Prec 0.906, Time 0.230
+Cycle 16, K 32 ( 7), Loss 76.766, Prec 0.406, Time 0.233
+Cycle 16, K 33 (36), Loss 10.322, Prec 0.938, Time 0.254
+Cycle 16, K 34 (11), Loss 23.950, Prec 0.821, Time 0.315
+Cycle 16, K 35 (54), Loss 19.786, Prec 0.906, Time 0.345
+Cycle 16, K 36 (30), Loss 7.745, Prec 0.844, Time 0.375
+Cycle 16, K 37 (34), Loss 15.130, Prec 0.906, Time 0.293
+Cycle 16, K 38 ( 3), Loss 0.399, Prec 1.000, Time 0.219
+Cycle 16, K 39 (27), Loss 33.536, Prec 0.844, Time 0.219
+Cycle 16, K 40 (40), Loss 6.675, Prec 0.875, Time 0.267
+Cycle 16, K 41 ( 9), Loss 10.745, Prec 0.906, Time 0.285
+Cycle 16, K 42 (23), Loss 15.477, Prec 0.844, Time 0.246
+Cycle 16, K 43 (53), Loss 8.457, Prec 0.875, Time 0.237
+Cycle 16, K 44 ( 8), Loss 15.790, Prec 0.719, Time 0.252
+Cycle 16, K 45 (45), Loss 15.128, Prec 0.781, Time 0.312
+Cycle 16, K 46 (42), Loss 1.105, Prec 1.000, Time 0.279
+Cycle 16, K 47 (55), Loss 26.419, Prec 0.719, Time 0.263
+Cycle 16, K 48 (38), Loss 16.752, Prec 0.812, Time 0.249
+Cycle 16, K 49 (14), Loss 10.059, Prec 0.938, Time 0.300
+Cycle 16, K 50 (20), Loss 23.290, Prec 0.812, Time 0.432
+Cycle 16, K 51 (12), Loss 2.161, Prec 1.000, Time 0.278
+Cycle 16, K 52 (52), Loss 7.443, Prec 0.875, Time 0.236
+Cycle 16, K 53 (19), Loss 19.346, Prec 0.906, Time 0.275
+Cycle 16, K 54 ( 4), Loss 25.581, Prec 0.812, Time 0.342
+Cycle 16, K 55 (33), Loss 20.391, Prec 0.812, Time 0.265
+Cycle 16, K 56 ( 6), Loss 9.680, Prec 0.906, Time 0.289
+Cycle 16, K 57 (18), Loss 13.342, Prec 0.938, Time 0.328
+Mean Precision: 0.860
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 17 ====
+Cycle 17, K  0 (54), Loss 24.780, Prec 0.812, Time 0.495
+Cycle 17, K  1 (12), Loss 7.712, Prec 0.938, Time 0.253
+Cycle 17, K  2 ( 6), Loss 2.424, Prec 0.906, Time 0.295
+Cycle 17, K  3 (27), Loss 35.327, Prec 0.656, Time 0.227
+Cycle 17, K  4 (20), Loss 34.133, Prec 0.812, Time 0.467
+Cycle 17, K  5 (33), Loss 16.933, Prec 0.844, Time 0.246
+Cycle 17, K  6 (28), Loss 23.296, Prec 0.844, Time 0.259
+Cycle 17, K  7 ( 3), Loss 0.552, Prec 0.969, Time 0.212
+Cycle 17, K  8 (57), Loss 11.424, Prec 0.875, Time 0.215
+Cycle 17, K  9 (56), Loss 7.987, Prec 0.906, Time 0.311
+Cycle 17, K 10 (53), Loss 26.002, Prec 0.875, Time 0.238
+Cycle 17, K 11 (23), Loss 2.262, Prec 0.938, Time 0.242
+Cycle 17, K 12 (47), Loss 25.557, Prec 0.781, Time 0.365
+Cycle 17, K 13 ( 4), Loss 12.311, Prec 0.906, Time 0.313
+Cycle 17, K 14 (35), Loss 7.038, Prec 0.969, Time 0.854
+Cycle 17, K 15 (37), Loss 1.417, Prec 0.969, Time 0.289
+Cycle 17, K 16 (31), Loss 5.831, Prec 0.938, Time 0.231
+Cycle 17, K 17 (41), Loss 30.507, Prec 0.781, Time 0.265
+Cycle 17, K 18 (10), Loss 16.169, Prec 0.906, Time 0.286
+Cycle 17, K 19 (52), Loss 17.786, Prec 0.938, Time 0.228
+Cycle 17, K 20 (48), Loss 10.821, Prec 0.969, Time 0.627
+Cycle 17, K 21 (43), Loss 7.862, Prec 0.938, Time 0.245
+Cycle 17, K 22 (38), Loss 10.628, Prec 0.906, Time 0.246
+Cycle 17, K 23 (26), Loss 38.879, Prec 0.719, Time 0.229
+Cycle 17, K 24 (19), Loss 10.505, Prec 0.906, Time 0.241
+Cycle 17, K 25 (55), Loss 21.434, Prec 0.875, Time 0.272
+Cycle 17, K 26 ( 8), Loss 22.599, Prec 0.844, Time 0.271
+Cycle 17, K 27 (50), Loss 10.693, Prec 0.938, Time 0.278
+Cycle 17, K 28 (49), Loss 3.271, Prec 0.938, Time 0.243
+Cycle 17, K 29 (22), Loss 19.783, Prec 0.781, Time 0.346
+Cycle 17, K 30 ( 7), Loss 73.408, Prec 0.469, Time 0.279
+Cycle 17, K 31 (51), Loss 6.417, Prec 0.938, Time 0.321
+Cycle 17, K 32 (36), Loss 11.617, Prec 0.906, Time 0.294
+Cycle 17, K 33 (40), Loss 15.209, Prec 0.875, Time 0.264
+Cycle 17, K 34 ( 2), Loss 22.954, Prec 0.625, Time 0.790
+Cycle 17, K 35 (24), Loss 20.454, Prec 0.875, Time 0.268
+Cycle 17, K 36 (34), Loss 27.231, Prec 0.781, Time 0.263
+Cycle 17, K 37 ( 5), Loss 27.946, Prec 0.812, Time 0.231
+Cycle 17, K 38 (30), Loss 4.949, Prec 0.938, Time 0.385
+Cycle 17, K 39 ( 0), Loss 22.050, Prec 0.781, Time 0.230
+Cycle 17, K 40 (46), Loss 1.529, Prec 1.000, Time 0.220
+Cycle 17, K 41 (32), Loss 0.849, Prec 0.938, Time 0.234
+Cycle 17, K 42 (39), Loss 31.623, Prec 0.719, Time 0.285
+Cycle 17, K 43 (21), Loss 33.405, Prec 0.719, Time 0.411
+Cycle 17, K 44 (29), Loss 1.695, Prec 0.969, Time 0.226
+Cycle 17, K 45 (16), Loss 6.189, Prec 0.906, Time 0.219
+Cycle 17, K 46 (25), Loss 16.687, Prec 0.906, Time 0.426
+Cycle 17, K 47 (18), Loss 10.543, Prec 0.906, Time 0.299
+Cycle 17, K 48 (45), Loss 29.598, Prec 0.875, Time 0.497
+Cycle 17, K 49 (13), Loss 15.692, Prec 0.719, Time 0.223
+Cycle 17, K 50 (15), Loss 25.068, Prec 0.844, Time 0.263
+Cycle 17, K 51 (42), Loss 5.337, Prec 0.969, Time 0.274
+Cycle 17, K 52 ( 1), Loss 22.759, Prec 0.750, Time 0.383
+Cycle 17, K 53 ( 9), Loss 16.335, Prec 0.875, Time 0.307
+Cycle 17, K 54 (14), Loss 17.502, Prec 0.844, Time 0.301
+Cycle 17, K 55 (17), Loss 16.186, Prec 0.781, Time 0.239
+Cycle 17, K 56 (11), Loss 22.177, Prec 0.875, Time 0.312
+Cycle 17, K 57 (44), Loss 13.216, Prec 0.906, Time 0.325
+Mean Precision: 0.860
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 18 ====
+Cycle 18, K  0 (37), Loss 5.572, Prec 1.000, Time 0.422
+Cycle 18, K  1 (19), Loss 4.454, Prec 0.969, Time 0.223
+Cycle 18, K  2 ( 0), Loss 18.699, Prec 0.781, Time 0.219
+Cycle 18, K  3 (39), Loss 36.901, Prec 0.562, Time 0.271
+Cycle 18, K  4 (42), Loss 1.513, Prec 1.000, Time 0.291
+Cycle 18, K  5 (30), Loss 13.050, Prec 0.875, Time 0.393
+Cycle 18, K  6 ( 6), Loss 21.538, Prec 0.875, Time 0.269
+Cycle 18, K  7 (51), Loss 7.724, Prec 0.938, Time 0.319
+Cycle 18, K  8 ( 1), Loss 18.096, Prec 0.750, Time 0.348
+Cycle 18, K  9 (57), Loss 29.188, Prec 0.844, Time 0.254
+Cycle 18, K 10 (29), Loss 2.012, Prec 0.969, Time 0.222
+Cycle 18, K 11 (16), Loss 11.192, Prec 0.906, Time 0.237
+Cycle 18, K 12 (32), Loss 3.380, Prec 0.969, Time 0.234
+Cycle 18, K 13 (33), Loss 14.739, Prec 0.844, Time 0.250
+Cycle 18, K 14 ( 3), Loss 0.416, Prec 1.000, Time 0.205
+Cycle 18, K 15 (53), Loss 12.044, Prec 0.906, Time 0.230
+Cycle 18, K 16 (45), Loss 8.933, Prec 0.812, Time 0.296
+Cycle 18, K 17 (35), Loss 6.417, Prec 0.938, Time 0.716
+Cycle 18, K 18 (40), Loss 8.182, Prec 0.969, Time 0.253
+Cycle 18, K 19 (34), Loss 27.635, Prec 0.875, Time 0.249
+Cycle 18, K 20 (18), Loss 9.290, Prec 0.875, Time 0.312
+Cycle 18, K 21 ( 7), Loss 92.754, Prec 0.312, Time 0.226
+Cycle 18, K 22 (28), Loss 44.656, Prec 0.656, Time 0.287
+Cycle 18, K 23 (41), Loss 10.793, Prec 0.875, Time 0.269
+Cycle 18, K 24 (46), Loss 2.248, Prec 0.969, Time 0.203
+Cycle 18, K 25 ( 2), Loss 30.016, Prec 0.781, Time 0.835
+Cycle 18, K 26 (11), Loss 27.773, Prec 0.812, Time 0.307
+Cycle 18, K 27 (49), Loss 2.781, Prec 0.969, Time 0.206
+Cycle 18, K 28 (52), Loss 5.925, Prec 0.906, Time 0.221
+Cycle 18, K 29 (17), Loss 22.988, Prec 0.844, Time 0.242
+Cycle 18, K 30 (44), Loss 16.510, Prec 0.906, Time 0.367
+Cycle 18, K 31 (48), Loss 10.971, Prec 0.875, Time 0.643
+Cycle 18, K 32 (38), Loss 8.106, Prec 0.906, Time 0.275
+Cycle 18, K 33 ( 4), Loss 33.554, Prec 0.781, Time 0.299
+Cycle 18, K 34 (20), Loss 10.883, Prec 0.875, Time 0.433
+Cycle 18, K 35 (43), Loss 7.087, Prec 0.906, Time 0.229
+Cycle 18, K 36 (15), Loss 22.957, Prec 0.906, Time 0.269
+Cycle 18, K 37 ( 9), Loss 8.239, Prec 0.938, Time 0.294
+Cycle 18, K 38 (24), Loss 36.434, Prec 0.812, Time 0.242
+Cycle 18, K 39 (21), Loss 43.990, Prec 0.688, Time 0.475
+Cycle 18, K 40 (47), Loss 23.080, Prec 0.812, Time 0.328
+Cycle 18, K 41 (55), Loss 19.346, Prec 0.812, Time 0.266
+Cycle 18, K 42 (25), Loss 17.834, Prec 0.812, Time 0.400
+Cycle 18, K 43 (12), Loss 4.211, Prec 0.969, Time 0.264
+Cycle 18, K 44 (36), Loss 12.094, Prec 0.875, Time 0.242
+Cycle 18, K 45 (14), Loss 15.481, Prec 0.875, Time 0.297
+Cycle 18, K 46 (27), Loss 36.337, Prec 0.719, Time 0.212
+Cycle 18, K 47 ( 8), Loss 13.495, Prec 0.906, Time 0.246
+Cycle 18, K 48 (54), Loss 31.947, Prec 0.750, Time 0.350
+Cycle 18, K 49 ( 5), Loss 21.019, Prec 0.781, Time 0.236
+Cycle 18, K 50 (13), Loss 9.624, Prec 0.938, Time 0.292
+Cycle 18, K 51 (23), Loss 15.227, Prec 0.938, Time 0.223
+Cycle 18, K 52 (31), Loss 11.992, Prec 0.906, Time 0.239
+Cycle 18, K 53 (50), Loss 8.647, Prec 0.969, Time 0.275
+Cycle 18, K 54 (56), Loss 1.893, Prec 1.000, Time 0.331
+Cycle 18, K 55 (22), Loss 78.257, Prec 0.750, Time 0.297
+Cycle 18, K 56 (10), Loss 14.766, Prec 0.906, Time 0.273
+Cycle 18, K 57 (26), Loss 26.730, Prec 0.781, Time 0.233
+Mean Precision: 0.860
+==== Start Cycle 19 ====
+Cycle 19, K  0 (52), Loss 9.041, Prec 0.875, Time 0.218
+Cycle 19, K  1 (45), Loss 11.467, Prec 0.875, Time 0.467
+Cycle 19, K  2 ( 4), Loss 27.046, Prec 0.875, Time 0.329
+Cycle 19, K  3 ( 5), Loss 30.699, Prec 0.688, Time 0.234
+Cycle 19, K  4 (15), Loss 40.185, Prec 0.781, Time 0.240
+Cycle 19, K  5 (10), Loss 9.563, Prec 0.969, Time 0.265
+Cycle 19, K  6 (38), Loss 7.109, Prec 0.875, Time 0.257
+Cycle 19, K  7 (18), Loss 28.859, Prec 0.875, Time 0.304
+Cycle 19, K  8 (31), Loss 8.270, Prec 0.938, Time 0.215
+Cycle 19, K  9 (25), Loss 34.141, Prec 0.875, Time 0.354
+Cycle 19, K 10 (27), Loss 21.243, Prec 0.750, Time 0.210
+Cycle 19, K 11 (37), Loss 1.165, Prec 0.969, Time 0.280
+Cycle 19, K 12 (36), Loss 9.279, Prec 0.938, Time 0.282
+Cycle 19, K 13 (28), Loss 35.257, Prec 0.781, Time 0.268
+Cycle 19, K 14 (14), Loss 10.067, Prec 0.938, Time 0.311
+Cycle 19, K 15 (40), Loss 18.805, Prec 0.875, Time 0.256
+Cycle 19, K 16 (23), Loss 4.840, Prec 0.938, Time 0.260
+Cycle 19, K 17 (46), Loss 13.765, Prec 0.938, Time 0.198
+Cycle 19, K 18 (17), Loss 7.323, Prec 0.719, Time 0.246
+Cycle 19, K 19 (13), Loss 17.784, Prec 0.781, Time 0.213
+Cycle 19, K 20 (19), Loss 12.625, Prec 0.906, Time 0.234
+Cycle 19, K 21 (42), Loss 4.412, Prec 0.969, Time 0.268
+Cycle 19, K 22 (24), Loss 25.192, Prec 0.844, Time 0.249
+Cycle 19, K 23 (39), Loss 30.852, Prec 0.781, Time 0.247
+Cycle 19, K 24 ( 8), Loss 15.421, Prec 0.875, Time 0.245
+Cycle 19, K 25 (21), Loss 31.071, Prec 0.719, Time 0.428
+Cycle 19, K 26 (47), Loss 22.832, Prec 0.812, Time 0.337
+Cycle 19, K 27 (16), Loss 6.892, Prec 0.938, Time 0.224
+Cycle 19, K 28 (12), Loss 1.328, Prec 0.969, Time 0.251
+Cycle 19, K 29 ( 1), Loss 41.350, Prec 0.781, Time 0.364
+Cycle 19, K 30 (30), Loss 12.569, Prec 0.844, Time 0.553
+Cycle 19, K 31 (44), Loss 24.765, Prec 0.812, Time 0.375
+Cycle 19, K 32 (53), Loss 8.037, Prec 0.875, Time 0.241
+Cycle 19, K 33 ( 7), Loss 58.680, Prec 0.531, Time 0.250
+Cycle 19, K 34 ( 0), Loss 16.591, Prec 0.875, Time 0.214
+Cycle 19, K 35 (26), Loss 24.957, Prec 0.750, Time 0.241
+Cycle 19, K 36 (55), Loss 54.900, Prec 0.844, Time 0.267
+Cycle 19, K 37 (34), Loss 17.977, Prec 0.812, Time 0.379
+Cycle 19, K 38 (56), Loss 0.501, Prec 1.000, Time 0.365
+Cycle 19, K 39 (32), Loss 2.917, Prec 0.938, Time 0.214
+Cycle 19, K 40 (54), Loss 41.476, Prec 0.688, Time 0.354
+Cycle 19, K 41 (35), Loss 7.175, Prec 0.938, Time 0.605
+Cycle 19, K 42 (50), Loss 3.618, Prec 0.938, Time 0.283
+Cycle 19, K 43 (43), Loss 1.933, Prec 0.969, Time 0.226
+Cycle 19, K 44 (48), Loss 13.934, Prec 0.875, Time 0.701
+Cycle 19, K 45 (57), Loss 18.512, Prec 0.875, Time 0.265
+Cycle 19, K 46 (51), Loss 7.978, Prec 0.938, Time 0.325
+Cycle 19, K 47 ( 6), Loss 6.530, Prec 0.969, Time 0.275
+Cycle 19, K 48 (22), Loss 19.352, Prec 0.906, Time 0.329
+Cycle 19, K 49 (49), Loss 1.643, Prec 0.969, Time 0.230
+Cycle 19, K 50 ( 9), Loss 10.405, Prec 0.875, Time 0.285
+Cycle 19, K 51 (33), Loss 18.168, Prec 0.875, Time 0.256
+Cycle 19, K 52 ( 2), Loss 30.967, Prec 0.750, Time 0.703
+Cycle 19, K 53 (41), Loss 19.952, Prec 0.781, Time 0.269
+Cycle 19, K 54 ( 3), Loss 0.283, Prec 1.000, Time 0.217
+Cycle 19, K 55 (11), Loss 64.822, Prec 0.812, Time 0.300
+Cycle 19, K 56 (29), Loss 1.382, Prec 0.969, Time 0.242
+Cycle 19, K 57 (20), Loss 30.939, Prec 0.719, Time 0.496
+Mean Precision: 0.862
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 20 ====
+Cycle 20, K  0 (13), Loss 7.742, Prec 0.781, Time 0.376
+Cycle 20, K  1 ( 6), Loss 2.725, Prec 0.969, Time 0.276
+Cycle 20, K  2 (52), Loss 12.520, Prec 0.875, Time 0.226
+Cycle 20, K  3 (47), Loss 38.514, Prec 0.750, Time 0.348
+Cycle 20, K  4 (26), Loss 27.662, Prec 0.781, Time 0.245
+Cycle 20, K  5 (27), Loss 20.303, Prec 0.875, Time 0.233
+Cycle 20, K  6 ( 7), Loss 75.248, Prec 0.406, Time 0.209
+Cycle 20, K  7 (40), Loss 11.266, Prec 0.875, Time 0.280
+Cycle 20, K  8 (36), Loss 12.349, Prec 0.875, Time 0.276
+Cycle 20, K  9 ( 2), Loss 17.758, Prec 0.781, Time 0.775
+Cycle 20, K 10 (35), Loss 2.904, Prec 0.969, Time 0.729
+Cycle 20, K 11 (50), Loss 4.986, Prec 0.938, Time 0.236
+Cycle 20, K 12 (48), Loss 8.032, Prec 0.938, Time 0.746
+Cycle 20, K 13 (28), Loss 32.246, Prec 0.781, Time 0.292
+Cycle 20, K 14 (41), Loss 28.168, Prec 0.781, Time 0.271
+Cycle 20, K 15 (37), Loss 2.904, Prec 0.969, Time 0.275
+Cycle 20, K 16 (20), Loss 26.158, Prec 0.812, Time 0.482
+Cycle 20, K 17 (43), Loss 8.739, Prec 0.938, Time 0.298
+Cycle 20, K 18 (53), Loss 15.284, Prec 0.906, Time 0.234
+Cycle 20, K 19 (55), Loss 27.265, Prec 0.750, Time 0.254
+Cycle 20, K 20 (22), Loss 39.023, Prec 0.781, Time 0.329
+Cycle 20, K 21 (12), Loss 7.463, Prec 0.969, Time 0.251
+Cycle 20, K 22 ( 9), Loss 8.914, Prec 0.906, Time 0.333
+Cycle 20, K 23 (33), Loss 24.335, Prec 0.875, Time 0.280
+Cycle 20, K 24 (34), Loss 20.647, Prec 0.812, Time 0.274
+Cycle 20, K 25 (46), Loss 7.435, Prec 0.969, Time 0.197
+Cycle 20, K 26 (14), Loss 10.253, Prec 0.938, Time 0.327
+Cycle 20, K 27 (56), Loss 5.281, Prec 0.969, Time 0.331
+Cycle 20, K 28 (44), Loss 15.800, Prec 0.938, Time 0.373
+Cycle 20, K 29 ( 4), Loss 11.997, Prec 0.875, Time 0.294
+Cycle 20, K 30 (51), Loss 1.855, Prec 0.969, Time 0.326
+Cycle 20, K 31 (30), Loss 28.268, Prec 0.844, Time 0.388
+Cycle 20, K 32 (23), Loss 5.148, Prec 0.906, Time 0.261
+Cycle 20, K 33 (49), Loss 0.972, Prec 0.969, Time 0.222
+Cycle 20, K 34 (25), Loss 11.639, Prec 0.906, Time 0.400
+Cycle 20, K 35 ( 1), Loss 16.531, Prec 0.781, Time 0.403
+Cycle 20, K 36 (18), Loss 25.532, Prec 0.875, Time 0.337
+Cycle 20, K 37 (11), Loss 30.512, Prec 0.844, Time 0.289
+Cycle 20, K 38 (19), Loss 11.125, Prec 0.906, Time 0.243
+Cycle 20, K 39 (17), Loss 32.030, Prec 0.688, Time 0.257
+Cycle 20, K 40 ( 3), Loss 0.647, Prec 1.000, Time 0.247
+Cycle 20, K 41 (21), Loss 34.133, Prec 0.781, Time 0.589
+Cycle 20, K 42 ( 0), Loss 22.400, Prec 0.719, Time 0.233
+Cycle 20, K 43 (10), Loss 36.907, Prec 0.812, Time 0.269
+Cycle 20, K 44 (16), Loss 15.139, Prec 0.844, Time 0.237
+Cycle 20, K 45 (32), Loss 1.779, Prec 0.938, Time 0.230
+Cycle 20, K 46 (24), Loss 23.350, Prec 0.812, Time 0.284
+Cycle 20, K 47 (38), Loss 22.691, Prec 0.875, Time 0.254
+Cycle 20, K 48 (57), Loss 16.942, Prec 0.781, Time 0.236
+Cycle 20, K 49 ( 5), Loss 32.661, Prec 0.781, Time 0.263
+Cycle 20, K 50 (54), Loss 23.962, Prec 0.875, Time 0.367
+Cycle 20, K 51 (39), Loss 43.564, Prec 0.625, Time 0.290
+Cycle 20, K 52 (31), Loss 6.611, Prec 0.969, Time 0.214
+Cycle 20, K 53 (29), Loss 1.518, Prec 0.969, Time 0.241
+Cycle 20, K 54 (45), Loss 14.874, Prec 0.938, Time 0.449
+Cycle 20, K 55 (15), Loss 21.373, Prec 0.821, Time 0.252
+Cycle 20, K 56 ( 8), Loss 10.892, Prec 0.906, Time 0.267
+Cycle 20, K 57 (42), Loss 3.286, Prec 0.969, Time 0.303
+Mean Precision: 0.860
+==== Start Cycle 21 ====
+Cycle 21, K  0 (31), Loss 7.116, Prec 0.938, Time 0.190
+Cycle 21, K  1 (12), Loss 0.642, Prec 1.000, Time 0.302
+Cycle 21, K  2 (42), Loss 4.440, Prec 0.969, Time 0.294
+Cycle 21, K  3 ( 8), Loss 9.055, Prec 0.969, Time 0.250
+Cycle 21, K  4 (27), Loss 23.430, Prec 0.812, Time 0.224
+Cycle 21, K  5 (45), Loss 22.888, Prec 0.812, Time 0.438
+Cycle 21, K  6 (57), Loss 12.695, Prec 0.844, Time 0.233
+Cycle 21, K  7 (49), Loss 47.445, Prec 0.844, Time 0.232
+Cycle 21, K  8 (34), Loss 15.709, Prec 0.875, Time 0.284
+Cycle 21, K  9 (33), Loss 26.078, Prec 0.781, Time 0.291
+Cycle 21, K 10 (20), Loss 35.510, Prec 0.688, Time 0.481
+Cycle 21, K 11 (24), Loss 28.882, Prec 0.812, Time 0.247
+Cycle 21, K 12 ( 9), Loss 34.434, Prec 0.844, Time 0.294
+Cycle 21, K 13 (46), Loss 2.551, Prec 0.938, Time 0.209
+Cycle 21, K 14 (14), Loss 12.910, Prec 0.969, Time 0.329
+Cycle 21, K 15 (30), Loss 13.157, Prec 0.875, Time 0.393
+Cycle 21, K 16 (15), Loss 56.332, Prec 0.688, Time 0.262
+Cycle 21, K 17 (51), Loss 10.217, Prec 0.938, Time 0.311
+Cycle 21, K 18 (23), Loss 6.396, Prec 0.938, Time 0.223
+Cycle 21, K 19 (56), Loss 4.788, Prec 0.906, Time 0.369
+Cycle 21, K 20 (47), Loss 33.026, Prec 0.750, Time 0.352
+Cycle 21, K 21 (25), Loss 33.364, Prec 0.812, Time 0.415
+Cycle 21, K 22 (29), Loss 3.079, Prec 0.969, Time 0.228
+Cycle 21, K 23 (53), Loss 5.755, Prec 0.938, Time 0.244
+Cycle 21, K 24 (28), Loss 37.711, Prec 0.688, Time 0.284
+Cycle 21, K 25 (44), Loss 4.203, Prec 0.969, Time 0.294
+Cycle 21, K 26 (38), Loss 7.761, Prec 0.906, Time 0.240
+Cycle 21, K 27 (50), Loss 2.559, Prec 0.969, Time 0.257
+Cycle 21, K 28 (55), Loss 18.351, Prec 0.812, Time 0.261
+Cycle 21, K 29 (36), Loss 6.100, Prec 0.938, Time 0.320
+Cycle 21, K 30 (16), Loss 7.852, Prec 0.969, Time 0.230
+Cycle 21, K 31 ( 3), Loss 7.804, Prec 0.969, Time 0.206
+Cycle 21, K 32 (18), Loss 11.509, Prec 0.906, Time 0.338
+Cycle 21, K 33 (54), Loss 25.670, Prec 0.844, Time 0.387
+Cycle 21, K 34 (40), Loss 16.187, Prec 0.938, Time 0.258
+Cycle 21, K 35 (21), Loss 28.925, Prec 0.750, Time 0.451
+Cycle 21, K 36 (48), Loss 9.454, Prec 0.875, Time 0.802
+Cycle 21, K 37 (52), Loss 9.364, Prec 0.906, Time 0.218
+Cycle 21, K 38 ( 2), Loss 23.570, Prec 0.750, Time 0.725
+Cycle 21, K 39 (35), Loss 5.779, Prec 0.938, Time 0.676
+Cycle 21, K 40 ( 0), Loss 19.428, Prec 0.781, Time 0.232
+Cycle 21, K 41 (22), Loss 13.147, Prec 0.875, Time 0.350
+Cycle 21, K 42 ( 4), Loss 13.203, Prec 0.906, Time 0.302
+Cycle 21, K 43 ( 5), Loss 19.674, Prec 0.812, Time 0.250
+Cycle 21, K 44 ( 7), Loss 76.415, Prec 0.344, Time 0.205
+Cycle 21, K 45 (13), Loss 9.704, Prec 0.938, Time 0.220
+Cycle 21, K 46 ( 6), Loss 10.258, Prec 0.969, Time 0.285
+Cycle 21, K 47 (37), Loss 3.835, Prec 1.000, Time 0.263
+Cycle 21, K 48 (11), Loss 20.685, Prec 0.844, Time 0.308
+Cycle 21, K 49 (39), Loss 29.435, Prec 0.688, Time 0.277
+Cycle 21, K 50 ( 1), Loss 52.456, Prec 0.750, Time 0.331
+Cycle 21, K 51 (32), Loss 2.876, Prec 0.969, Time 0.233
+Cycle 21, K 52 (10), Loss 15.745, Prec 0.875, Time 0.278
+Cycle 21, K 53 (41), Loss 8.010, Prec 0.938, Time 0.254
+Cycle 21, K 54 (19), Loss 8.344, Prec 0.938, Time 0.236
+Cycle 21, K 55 (26), Loss 32.315, Prec 0.812, Time 0.243
+Cycle 21, K 56 (17), Loss 17.492, Prec 0.812, Time 0.238
+Cycle 21, K 57 (43), Loss 3.911, Prec 0.938, Time 0.218
+Mean Precision: 0.866
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 22 ====
+Cycle 22, K  0 (51), Loss 4.181, Prec 0.938, Time 0.464
+Cycle 22, K  1 (39), Loss 19.254, Prec 0.812, Time 0.288
+Cycle 22, K  2 (23), Loss 10.895, Prec 0.906, Time 0.264
+Cycle 22, K  3 (42), Loss 0.159, Prec 1.000, Time 0.275
+Cycle 22, K  4 (37), Loss 1.515, Prec 1.000, Time 0.277
+Cycle 22, K  5 (50), Loss 6.560, Prec 0.969, Time 0.237
+Cycle 22, K  6 (22), Loss 31.377, Prec 0.688, Time 0.356
+Cycle 22, K  7 (53), Loss 8.129, Prec 0.938, Time 0.219
+Cycle 22, K  8 (20), Loss 16.577, Prec 0.906, Time 0.403
+Cycle 22, K  9 (13), Loss 6.503, Prec 0.906, Time 0.196
+Cycle 22, K 10 ( 2), Loss 25.814, Prec 0.875, Time 0.796
+Cycle 22, K 11 (11), Loss 9.848, Prec 0.938, Time 0.302
+Cycle 22, K 12 ( 0), Loss 14.827, Prec 0.812, Time 0.215
+Cycle 22, K 13 (32), Loss 4.843, Prec 0.969, Time 0.221
+Cycle 22, K 14 (38), Loss 10.573, Prec 0.875, Time 0.230
+Cycle 22, K 15 (27), Loss 44.878, Prec 0.688, Time 0.203
+Cycle 22, K 16 (41), Loss 11.726, Prec 0.875, Time 0.246
+Cycle 22, K 17 (26), Loss 19.392, Prec 0.750, Time 0.225
+Cycle 22, K 18 (49), Loss 22.051, Prec 0.938, Time 0.235
+Cycle 22, K 19 (44), Loss 7.618, Prec 0.969, Time 0.313
+Cycle 22, K 20 (17), Loss 30.349, Prec 0.688, Time 0.247
+Cycle 22, K 21 (35), Loss 5.540, Prec 0.938, Time 0.627
+Cycle 22, K 22 (19), Loss 10.544, Prec 0.969, Time 0.224
+Cycle 22, K 23 ( 5), Loss 27.448, Prec 0.719, Time 0.247
+Cycle 22, K 24 (31), Loss 8.283, Prec 0.906, Time 0.174
+Cycle 22, K 25 (12), Loss 0.248, Prec 1.000, Time 0.245
+Cycle 22, K 26 (18), Loss 7.019, Prec 0.938, Time 0.293
+Cycle 22, K 27 ( 4), Loss 17.229, Prec 0.875, Time 0.277
+Cycle 22, K 28 (47), Loss 28.182, Prec 0.812, Time 0.326
+Cycle 22, K 29 ( 8), Loss 8.502, Prec 0.875, Time 0.249
+Cycle 22, K 30 (33), Loss 8.490, Prec 0.875, Time 0.216
+Cycle 22, K 31 (36), Loss 12.415, Prec 0.875, Time 0.312
+Cycle 22, K 32 (21), Loss 19.776, Prec 0.844, Time 0.456
+Cycle 22, K 33 (25), Loss 13.680, Prec 0.906, Time 0.397
+Cycle 22, K 34 (57), Loss 7.586, Prec 0.875, Time 0.238
+Cycle 22, K 35 (28), Loss 48.944, Prec 0.656, Time 0.258
+Cycle 22, K 36 (52), Loss 5.583, Prec 0.906, Time 0.216
+Cycle 22, K 37 (34), Loss 9.454, Prec 0.906, Time 0.273
+Cycle 22, K 38 ( 6), Loss 8.875, Prec 0.938, Time 0.271
+Cycle 22, K 39 (14), Loss 6.316, Prec 0.969, Time 0.289
+Cycle 22, K 40 ( 9), Loss 11.165, Prec 0.938, Time 0.271
+Cycle 22, K 41 (48), Loss 29.341, Prec 0.844, Time 0.654
+Cycle 22, K 42 ( 7), Loss 78.537, Prec 0.406, Time 0.195
+Cycle 22, K 43 (45), Loss 9.735, Prec 0.875, Time 0.350
+Cycle 22, K 44 (29), Loss 5.907, Prec 0.906, Time 0.218
+Cycle 22, K 45 (10), Loss 24.840, Prec 0.844, Time 0.262
+Cycle 22, K 46 (15), Loss 12.954, Prec 0.875, Time 0.247
+Cycle 22, K 47 (40), Loss 3.600, Prec 0.938, Time 0.287
+Cycle 22, K 48 ( 3), Loss 0.744, Prec 1.000, Time 0.217
+Cycle 22, K 49 (56), Loss 2.061, Prec 0.938, Time 0.308
+Cycle 22, K 50 (24), Loss 23.822, Prec 0.781, Time 0.300
+Cycle 22, K 51 (30), Loss 24.194, Prec 0.844, Time 0.347
+Cycle 22, K 52 (16), Loss 6.342, Prec 0.969, Time 0.206
+Cycle 22, K 53 ( 1), Loss 18.673, Prec 0.875, Time 0.379
+Cycle 22, K 54 (55), Loss 48.111, Prec 0.812, Time 0.264
+Cycle 22, K 55 (46), Loss 0.629, Prec 1.000, Time 0.259
+Cycle 22, K 56 (54), Loss 17.956, Prec 0.875, Time 0.355
+Cycle 22, K 57 (43), Loss 7.855, Prec 0.938, Time 0.229
+Mean Precision: 0.877
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 23 ====
+Cycle 23, K  0 ( 3), Loss 0.375, Prec 1.000, Time 0.362
+Cycle 23, K  1 (16), Loss 13.205, Prec 0.906, Time 0.226
+Cycle 23, K  2 (55), Loss 15.503, Prec 0.844, Time 0.267
+Cycle 23, K  3 (20), Loss 17.557, Prec 0.844, Time 0.400
+Cycle 23, K  4 (41), Loss 9.803, Prec 0.938, Time 0.254
+Cycle 23, K  5 (33), Loss 7.513, Prec 0.875, Time 0.272
+Cycle 23, K  6 (54), Loss 44.091, Prec 0.719, Time 0.385
+Cycle 23, K  7 (18), Loss 20.446, Prec 0.938, Time 0.319
+Cycle 23, K  8 (53), Loss 6.314, Prec 0.938, Time 0.243
+Cycle 23, K  9 (32), Loss 5.448, Prec 0.938, Time 0.219
+Cycle 23, K 10 ( 2), Loss 16.053, Prec 0.906, Time 0.711
+Cycle 23, K 11 (13), Loss 17.955, Prec 0.844, Time 0.214
+Cycle 23, K 12 (27), Loss 18.241, Prec 0.781, Time 0.267
+Cycle 23, K 13 ( 0), Loss 38.879, Prec 0.781, Time 0.219
+Cycle 23, K 14 (19), Loss 6.247, Prec 1.000, Time 0.226
+Cycle 23, K 15 (26), Loss 32.391, Prec 0.750, Time 0.228
+Cycle 23, K 16 (25), Loss 29.165, Prec 0.844, Time 0.417
+Cycle 23, K 17 ( 5), Loss 9.997, Prec 0.906, Time 0.227
+Cycle 23, K 18 ( 4), Loss 14.100, Prec 0.875, Time 0.287
+Cycle 23, K 19 (47), Loss 30.797, Prec 0.750, Time 0.356
+Cycle 23, K 20 (49), Loss 7.947, Prec 0.969, Time 0.224
+Cycle 23, K 21 (34), Loss 15.609, Prec 0.875, Time 0.325
+Cycle 23, K 22 (46), Loss 0.534, Prec 1.000, Time 0.214
+Cycle 23, K 23 (30), Loss 5.252, Prec 0.938, Time 0.401
+Cycle 23, K 24 ( 7), Loss 60.223, Prec 0.531, Time 0.249
+Cycle 23, K 25 (50), Loss 9.949, Prec 0.875, Time 0.289
+Cycle 23, K 26 (43), Loss 7.619, Prec 0.875, Time 0.244
+Cycle 23, K 27 (40), Loss 4.643, Prec 1.000, Time 0.278
+Cycle 23, K 28 (39), Loss 31.635, Prec 0.750, Time 0.280
+Cycle 23, K 29 (21), Loss 32.486, Prec 0.750, Time 0.504
+Cycle 23, K 30 (29), Loss 1.305, Prec 0.969, Time 0.236
+Cycle 23, K 31 (37), Loss 0.677, Prec 1.000, Time 0.276
+Cycle 23, K 32 (11), Loss 13.784, Prec 0.875, Time 0.321
+Cycle 23, K 33 (10), Loss 17.124, Prec 0.844, Time 0.276
+Cycle 23, K 34 (36), Loss 12.820, Prec 0.969, Time 0.289
+Cycle 23, K 35 (17), Loss 17.530, Prec 0.719, Time 0.236
+Cycle 23, K 36 ( 9), Loss 14.235, Prec 0.938, Time 0.289
+Cycle 23, K 37 (23), Loss 12.418, Prec 0.938, Time 0.232
+Cycle 23, K 38 (57), Loss 7.653, Prec 0.938, Time 0.240
+Cycle 23, K 39 ( 6), Loss 3.549, Prec 1.000, Time 0.305
+Cycle 23, K 40 (56), Loss 2.732, Prec 0.969, Time 0.383
+Cycle 23, K 41 (52), Loss 1.657, Prec 0.969, Time 0.247
+Cycle 23, K 42 (38), Loss 19.097, Prec 0.938, Time 0.281
+Cycle 23, K 43 (35), Loss 3.041, Prec 1.000, Time 0.716
+Cycle 23, K 44 (31), Loss 5.116, Prec 0.938, Time 0.202
+Cycle 23, K 45 (22), Loss 18.896, Prec 0.750, Time 0.342
+Cycle 23, K 46 ( 1), Loss 14.322, Prec 0.875, Time 0.364
+Cycle 23, K 47 (14), Loss 14.202, Prec 0.906, Time 0.349
+Cycle 23, K 48 (15), Loss 23.047, Prec 0.750, Time 0.237
+Cycle 23, K 49 ( 8), Loss 15.864, Prec 0.906, Time 0.262
+Cycle 23, K 50 (44), Loss 10.549, Prec 0.938, Time 0.379
+Cycle 23, K 51 (42), Loss 0.705, Prec 1.000, Time 0.265
+Cycle 23, K 52 (45), Loss 11.715, Prec 0.875, Time 0.397
+Cycle 23, K 53 (48), Loss 8.220, Prec 0.906, Time 0.799
+Cycle 23, K 54 (51), Loss 10.656, Prec 0.938, Time 0.332
+Cycle 23, K 55 (12), Loss 2.038, Prec 1.000, Time 0.257
+Cycle 23, K 56 (28), Loss 31.198, Prec 0.781, Time 0.275
+Cycle 23, K 57 (24), Loss 10.076, Prec 0.875, Time 0.269
+Mean Precision: 0.887
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 24 ====
+Cycle 24, K  0 ( 4), Loss 22.426, Prec 0.875, Time 0.476
+Cycle 24, K  1 (43), Loss 2.359, Prec 1.000, Time 0.230
+Cycle 24, K  2 (56), Loss 1.972, Prec 0.969, Time 0.350
+Cycle 24, K  3 ( 0), Loss 12.018, Prec 0.906, Time 0.215
+Cycle 24, K  4 (44), Loss 13.185, Prec 0.875, Time 0.346
+Cycle 24, K  5 (26), Loss 28.221, Prec 0.844, Time 0.226
+Cycle 24, K  6 (38), Loss 10.305, Prec 0.938, Time 0.253
+Cycle 24, K  7 ( 1), Loss 17.759, Prec 0.875, Time 0.389
+Cycle 24, K  8 (53), Loss 8.591, Prec 0.906, Time 0.229
+Cycle 24, K  9 (13), Loss 10.991, Prec 0.906, Time 0.241
+Cycle 24, K 10 ( 9), Loss 5.317, Prec 0.906, Time 0.294
+Cycle 24, K 11 (54), Loss 23.341, Prec 0.812, Time 0.358
+Cycle 24, K 12 (48), Loss 2.044, Prec 0.969, Time 0.601
+Cycle 24, K 13 (11), Loss 8.764, Prec 0.969, Time 0.311
+Cycle 24, K 14 (28), Loss 45.312, Prec 0.625, Time 0.284
+Cycle 24, K 15 (47), Loss 12.489, Prec 0.906, Time 0.364
+Cycle 24, K 16 (34), Loss 17.521, Prec 0.875, Time 0.294
+Cycle 24, K 17 ( 2), Loss 23.064, Prec 0.875, Time 0.705
+Cycle 24, K 18 (41), Loss 15.731, Prec 0.844, Time 0.260
+Cycle 24, K 19 (45), Loss 12.081, Prec 0.938, Time 0.365
+Cycle 24, K 20 ( 3), Loss 0.112, Prec 1.000, Time 0.218
+Cycle 24, K 21 (15), Loss 25.974, Prec 0.812, Time 0.230
+Cycle 24, K 22 (40), Loss 12.077, Prec 0.906, Time 0.246
+Cycle 24, K 23 (10), Loss 20.522, Prec 0.906, Time 0.281
+Cycle 24, K 24 (22), Loss 14.317, Prec 0.812, Time 0.321
+Cycle 24, K 25 (31), Loss 6.863, Prec 0.938, Time 0.192
+Cycle 24, K 26 (30), Loss 8.578, Prec 0.906, Time 0.409
+Cycle 24, K 27 (27), Loss 19.715, Prec 0.656, Time 0.200
+Cycle 24, K 28 ( 5), Loss 30.157, Prec 0.844, Time 0.235
+Cycle 24, K 29 (12), Loss 2.427, Prec 0.969, Time 0.259
+Cycle 24, K 30 (37), Loss 1.050, Prec 1.000, Time 0.223
+Cycle 24, K 31 (19), Loss 6.273, Prec 0.906, Time 0.916
+Cycle 24, K 32 (16), Loss 26.658, Prec 0.844, Time 0.606
+Cycle 24, K 33 (25), Loss 21.989, Prec 0.875, Time 0.817
+Cycle 24, K 34 (20), Loss 10.092, Prec 0.906, Time 0.450
+Cycle 24, K 35 ( 7), Loss 55.915, Prec 0.562, Time 0.242
+Cycle 24, K 36 ( 6), Loss 3.066, Prec 1.000, Time 0.308
+Cycle 24, K 37 (32), Loss 11.181, Prec 0.938, Time 0.233
+Cycle 24, K 38 (49), Loss 8.713, Prec 0.938, Time 0.236
+Cycle 24, K 39 (35), Loss 4.736, Prec 0.969, Time 0.766
+Cycle 24, K 40 (42), Loss 0.050, Prec 1.000, Time 0.267
+Cycle 24, K 41 (29), Loss 1.333, Prec 1.000, Time 0.260
+Cycle 24, K 42 ( 8), Loss 15.470, Prec 0.938, Time 0.259
+Cycle 24, K 43 (39), Loss 16.871, Prec 0.781, Time 0.292
+Cycle 24, K 44 (55), Loss 3.121, Prec 0.938, Time 0.252
+Cycle 24, K 45 (50), Loss 7.462, Prec 0.906, Time 0.277
+Cycle 24, K 46 (23), Loss 2.604, Prec 0.969, Time 0.240
+Cycle 24, K 47 (33), Loss 22.550, Prec 0.812, Time 0.241
+Cycle 24, K 48 (17), Loss 14.763, Prec 0.812, Time 0.246
+Cycle 24, K 49 (57), Loss 2.957, Prec 0.906, Time 0.248
+Cycle 24, K 50 (18), Loss 11.533, Prec 0.875, Time 0.312
+Cycle 24, K 51 (14), Loss 6.884, Prec 0.906, Time 0.327
+Cycle 24, K 52 (46), Loss 0.972, Prec 1.000, Time 0.205
+Cycle 24, K 53 (51), Loss 5.214, Prec 0.969, Time 0.319
+Cycle 24, K 54 (36), Loss 6.127, Prec 0.938, Time 0.292
+Cycle 24, K 55 (52), Loss 5.188, Prec 0.938, Time 0.222
+Cycle 24, K 56 (24), Loss 15.748, Prec 0.906, Time 0.240
+Cycle 24, K 57 (21), Loss 35.239, Prec 0.719, Time 0.517
+Mean Precision: 0.893
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 25 ====
+Cycle 25, K  0 (21), Loss 35.910, Prec 0.594, Time 0.495
+Cycle 25, K  1 (45), Loss 20.566, Prec 0.812, Time 0.564
+Cycle 25, K  2 (19), Loss 15.291, Prec 0.906, Time 0.260
+Cycle 25, K  3 (55), Loss 7.373, Prec 0.906, Time 0.275
+Cycle 25, K  4 (18), Loss 2.076, Prec 0.969, Time 0.298
+Cycle 25, K  5 (39), Loss 16.206, Prec 0.906, Time 0.243
+Cycle 25, K  6 (29), Loss 0.338, Prec 1.000, Time 0.223
+Cycle 25, K  7 (12), Loss 4.455, Prec 1.000, Time 0.283
+Cycle 25, K  8 ( 5), Loss 13.119, Prec 0.875, Time 0.232
+Cycle 25, K  9 (14), Loss 3.402, Prec 0.969, Time 0.326
+Cycle 25, K 10 ( 3), Loss 0.038, Prec 1.000, Time 0.219
+Cycle 25, K 11 (28), Loss 20.397, Prec 0.812, Time 0.259
+Cycle 25, K 12 (22), Loss 10.895, Prec 0.906, Time 0.314
+Cycle 25, K 13 (34), Loss 15.051, Prec 0.906, Time 0.295
+Cycle 25, K 14 (57), Loss 3.120, Prec 0.938, Time 0.230
+Cycle 25, K 15 (27), Loss 21.894, Prec 0.812, Time 0.207
+Cycle 25, K 16 (46), Loss 5.405, Prec 0.938, Time 0.204
+Cycle 25, K 17 (11), Loss 10.644, Prec 0.906, Time 0.314
+Cycle 25, K 18 (53), Loss 1.398, Prec 1.000, Time 0.207
+Cycle 25, K 19 (30), Loss 17.650, Prec 0.875, Time 0.348
+Cycle 25, K 20 (49), Loss 4.438, Prec 0.938, Time 0.223
+Cycle 25, K 21 ( 1), Loss 16.335, Prec 0.812, Time 0.342
+Cycle 25, K 22 (20), Loss 18.547, Prec 0.812, Time 0.438
+Cycle 25, K 23 (40), Loss 3.393, Prec 0.969, Time 0.268
+Cycle 25, K 24 (25), Loss 7.368, Prec 0.875, Time 0.473
+Cycle 25, K 25 ( 8), Loss 16.015, Prec 0.875, Time 0.255
+Cycle 25, K 26 (56), Loss 1.310, Prec 1.000, Time 0.326
+Cycle 25, K 27 (31), Loss 0.209, Prec 1.000, Time 0.185
+Cycle 25, K 28 (42), Loss 3.159, Prec 0.969, Time 0.268
+Cycle 25, K 29 (36), Loss 4.266, Prec 0.969, Time 0.279
+Cycle 25, K 30 (16), Loss 29.401, Prec 0.812, Time 0.227
+Cycle 25, K 31 ( 2), Loss 13.757, Prec 0.844, Time 0.682
+Cycle 25, K 32 (50), Loss 2.390, Prec 0.969, Time 0.266
+Cycle 25, K 33 (51), Loss 13.231, Prec 0.906, Time 0.288
+Cycle 25, K 34 (17), Loss 7.114, Prec 0.844, Time 0.254
+Cycle 25, K 35 (23), Loss 5.319, Prec 0.938, Time 0.273
+Cycle 25, K 36 (38), Loss 9.599, Prec 0.875, Time 0.219
+Cycle 25, K 37 (44), Loss 7.367, Prec 0.906, Time 0.369
+Cycle 25, K 38 (15), Loss 7.011, Prec 0.938, Time 0.255
+Cycle 25, K 39 ( 7), Loss 64.768, Prec 0.469, Time 0.216
+Cycle 25, K 40 (33), Loss 10.301, Prec 0.906, Time 0.215
+Cycle 25, K 41 (48), Loss 1.602, Prec 0.969, Time 0.744
+Cycle 25, K 42 ( 9), Loss 8.838, Prec 0.938, Time 0.294
+Cycle 25, K 43 (52), Loss 15.519, Prec 0.906, Time 0.245
+Cycle 25, K 44 ( 0), Loss 30.885, Prec 0.781, Time 0.219
+Cycle 25, K 45 (26), Loss 21.010, Prec 0.812, Time 0.231
+Cycle 25, K 46 (35), Loss 13.928, Prec 0.938, Time 0.653
+Cycle 25, K 47 (10), Loss 17.745, Prec 0.844, Time 0.265
+Cycle 25, K 48 (54), Loss 28.127, Prec 0.875, Time 0.372
+Cycle 25, K 49 (13), Loss 5.343, Prec 0.938, Time 0.210
+Cycle 25, K 50 (43), Loss 7.228, Prec 0.906, Time 0.217
+Cycle 25, K 51 ( 6), Loss 6.911, Prec 0.969, Time 0.315
+Cycle 25, K 52 (32), Loss 12.641, Prec 0.875, Time 0.234
+Cycle 25, K 53 ( 4), Loss 14.744, Prec 0.875, Time 0.298
+Cycle 25, K 54 (41), Loss 30.940, Prec 0.844, Time 0.249
+Cycle 25, K 55 (37), Loss 0.134, Prec 1.000, Time 0.261
+Cycle 25, K 56 (24), Loss 11.834, Prec 0.906, Time 0.255
+Cycle 25, K 57 (47), Loss 12.214, Prec 0.938, Time 0.342
+Mean Precision: 0.896
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 26 ====
+Cycle 26, K  0 (40), Loss 10.936, Prec 0.906, Time 0.451
+Cycle 26, K  1 ( 4), Loss 14.385, Prec 0.844, Time 0.301
+Cycle 26, K  2 (52), Loss 35.951, Prec 0.844, Time 0.227
+Cycle 26, K  3 (16), Loss 17.812, Prec 0.938, Time 0.228
+Cycle 26, K  4 (47), Loss 17.761, Prec 0.969, Time 0.362
+Cycle 26, K  5 (55), Loss 7.743, Prec 0.906, Time 0.281
+Cycle 26, K  6 (38), Loss 6.777, Prec 0.969, Time 0.257
+Cycle 26, K  7 (23), Loss 1.096, Prec 1.000, Time 0.229
+Cycle 26, K  8 (32), Loss 6.841, Prec 0.938, Time 0.246
+Cycle 26, K  9 (44), Loss 7.683, Prec 0.938, Time 0.245
+Cycle 26, K 10 (12), Loss 2.367, Prec 1.000, Time 0.254
+Cycle 26, K 11 (14), Loss 1.463, Prec 1.000, Time 0.309
+Cycle 26, K 12 (33), Loss 8.267, Prec 0.938, Time 0.222
+Cycle 26, K 13 (30), Loss 2.706, Prec 0.938, Time 0.326
+Cycle 26, K 14 (27), Loss 25.199, Prec 0.688, Time 0.222
+Cycle 26, K 15 (36), Loss 6.607, Prec 0.906, Time 0.241
+Cycle 26, K 16 (57), Loss 11.460, Prec 0.906, Time 0.242
+Cycle 26, K 17 (24), Loss 18.928, Prec 0.875, Time 0.291
+Cycle 26, K 18 ( 3), Loss 0.753, Prec 1.000, Time 0.201
+Cycle 26, K 19 (42), Loss 1.215, Prec 0.969, Time 0.275
+Cycle 26, K 20 (11), Loss 12.795, Prec 0.938, Time 0.307
+Cycle 26, K 21 (35), Loss 5.388, Prec 0.969, Time 0.677
+Cycle 26, K 22 (31), Loss 13.635, Prec 0.938, Time 0.206
+Cycle 26, K 23 (21), Loss 27.922, Prec 0.750, Time 0.504
+Cycle 26, K 24 (18), Loss 9.628, Prec 0.969, Time 0.308
+Cycle 26, K 25 ( 7), Loss 69.466, Prec 0.406, Time 0.203
+Cycle 26, K 26 (46), Loss 4.661, Prec 1.000, Time 0.188
+Cycle 26, K 27 ( 8), Loss 13.586, Prec 0.875, Time 0.251
+Cycle 26, K 28 (41), Loss 8.087, Prec 0.906, Time 0.265
+Cycle 26, K 29 (45), Loss 12.390, Prec 0.875, Time 0.452
+Cycle 26, K 30 (39), Loss 39.508, Prec 0.719, Time 0.281
+Cycle 26, K 31 (34), Loss 17.897, Prec 0.875, Time 0.302
+Cycle 26, K 32 (10), Loss 19.953, Prec 0.781, Time 0.296
+Cycle 26, K 33 (37), Loss 1.170, Prec 1.000, Time 0.245
+Cycle 26, K 34 (25), Loss 20.836, Prec 0.906, Time 0.406
+Cycle 26, K 35 (17), Loss 38.728, Prec 0.719, Time 0.263
+Cycle 26, K 36 (13), Loss 14.316, Prec 0.875, Time 0.223
+Cycle 26, K 37 (54), Loss 18.254, Prec 0.875, Time 0.351
+Cycle 26, K 38 (43), Loss 9.597, Prec 0.938, Time 0.224
+Cycle 26, K 39 (53), Loss 11.258, Prec 0.906, Time 0.264
+Cycle 26, K 40 (56), Loss 6.322, Prec 0.969, Time 0.351
+Cycle 26, K 41 ( 2), Loss 25.331, Prec 0.719, Time 0.721
+Cycle 26, K 42 (22), Loss 25.908, Prec 0.812, Time 0.375
+Cycle 26, K 43 (26), Loss 55.052, Prec 0.719, Time 0.223
+Cycle 26, K 44 (19), Loss 8.695, Prec 0.875, Time 0.249
+Cycle 26, K 45 (20), Loss 22.029, Prec 0.844, Time 0.480
+Cycle 26, K 46 (15), Loss 25.619, Prec 0.844, Time 0.309
+Cycle 26, K 47 (48), Loss 8.407, Prec 0.938, Time 0.623
+Cycle 26, K 48 (50), Loss 4.667, Prec 0.906, Time 0.249
+Cycle 26, K 49 (49), Loss 3.860, Prec 0.969, Time 0.291
+Cycle 26, K 50 (29), Loss 1.439, Prec 1.000, Time 0.239
+Cycle 26, K 51 (51), Loss 3.844, Prec 0.938, Time 0.305
+Cycle 26, K 52 ( 9), Loss 5.664, Prec 0.938, Time 0.280
+Cycle 26, K 53 ( 6), Loss 3.590, Prec 0.969, Time 0.310
+Cycle 26, K 54 ( 1), Loss 14.531, Prec 0.875, Time 0.377
+Cycle 26, K 55 ( 0), Loss 19.469, Prec 0.844, Time 0.239
+Cycle 26, K 56 ( 5), Loss 21.274, Prec 0.781, Time 0.219
+Cycle 26, K 57 (28), Loss 41.068, Prec 0.812, Time 0.279
+Mean Precision: 0.887
+==== Start Cycle 27 ====
+Cycle 27, K  0 ( 8), Loss 12.783, Prec 0.938, Time 0.272
+Cycle 27, K  1 ( 0), Loss 22.630, Prec 0.812, Time 0.209
+Cycle 27, K  2 (55), Loss 9.570, Prec 0.938, Time 0.292
+Cycle 27, K  3 (22), Loss 15.230, Prec 0.781, Time 0.357
+Cycle 27, K  4 (51), Loss 13.673, Prec 0.969, Time 0.316
+Cycle 27, K  5 (20), Loss 9.551, Prec 0.938, Time 0.466
+Cycle 27, K  6 (25), Loss 11.192, Prec 0.875, Time 0.418
+Cycle 27, K  7 (56), Loss 0.113, Prec 1.000, Time 0.376
+Cycle 27, K  8 (24), Loss 13.206, Prec 0.844, Time 0.282
+Cycle 27, K  9 (26), Loss 21.727, Prec 0.750, Time 0.247
+Cycle 27, K 10 (57), Loss 1.882, Prec 0.938, Time 0.227
+Cycle 27, K 11 (27), Loss 19.185, Prec 0.844, Time 0.190
+Cycle 27, K 12 (15), Loss 26.323, Prec 0.906, Time 0.270
+Cycle 27, K 13 (49), Loss 5.738, Prec 0.906, Time 0.235
+Cycle 27, K 14 (13), Loss 20.310, Prec 0.844, Time 0.223
+Cycle 27, K 15 ( 9), Loss 8.338, Prec 0.906, Time 0.296
+Cycle 27, K 16 (37), Loss 0.117, Prec 1.000, Time 0.250
+Cycle 27, K 17 (43), Loss 5.077, Prec 0.938, Time 0.236
+Cycle 27, K 18 (33), Loss 5.569, Prec 0.969, Time 0.239
+Cycle 27, K 19 (40), Loss 7.957, Prec 0.938, Time 0.294
+Cycle 27, K 20 (14), Loss 13.559, Prec 0.906, Time 0.326
+Cycle 27, K 21 (11), Loss 10.251, Prec 0.875, Time 0.319
+Cycle 27, K 22 (29), Loss 0.290, Prec 1.000, Time 0.239
+Cycle 27, K 23 (17), Loss 27.546, Prec 0.656, Time 0.229
+Cycle 27, K 24 (41), Loss 23.264, Prec 0.875, Time 0.296
+Cycle 27, K 25 (47), Loss 20.105, Prec 0.812, Time 0.388
+Cycle 27, K 26 ( 2), Loss 17.442, Prec 0.875, Time 0.763
+Cycle 27, K 27 ( 3), Loss 0.403, Prec 1.000, Time 0.237
+Cycle 27, K 28 (19), Loss 18.538, Prec 0.906, Time 0.255
+Cycle 27, K 29 (32), Loss 3.869, Prec 0.906, Time 0.251
+Cycle 27, K 30 (12), Loss 2.127, Prec 1.000, Time 0.250
+Cycle 27, K 31 (23), Loss 3.048, Prec 0.969, Time 0.248
+Cycle 27, K 32 ( 1), Loss 21.165, Prec 0.781, Time 0.353
+Cycle 27, K 33 (42), Loss 3.007, Prec 0.969, Time 0.277
+Cycle 27, K 34 (45), Loss 12.315, Prec 0.875, Time 0.610
+Cycle 27, K 35 (38), Loss 11.663, Prec 0.875, Time 0.276
+Cycle 27, K 36 (46), Loss 3.408, Prec 0.969, Time 0.218
+Cycle 27, K 37 ( 4), Loss 7.711, Prec 0.906, Time 0.319
+Cycle 27, K 38 (18), Loss 18.302, Prec 0.938, Time 0.322
+Cycle 27, K 39 ( 5), Loss 15.360, Prec 0.844, Time 0.224
+Cycle 27, K 40 (30), Loss 7.607, Prec 0.938, Time 0.384
+Cycle 27, K 41 (36), Loss 3.330, Prec 1.000, Time 0.274
+Cycle 27, K 42 ( 7), Loss 86.108, Prec 0.406, Time 0.241
+Cycle 27, K 43 (21), Loss 35.952, Prec 0.719, Time 0.538
+Cycle 27, K 44 (52), Loss 16.829, Prec 0.906, Time 0.252
+Cycle 27, K 45 (35), Loss 15.140, Prec 0.906, Time 0.655
+Cycle 27, K 46 (48), Loss 13.608, Prec 0.906, Time 0.734
+Cycle 27, K 47 ( 6), Loss 12.043, Prec 0.969, Time 0.280
+Cycle 27, K 48 (50), Loss 1.403, Prec 1.000, Time 0.268
+Cycle 27, K 49 (31), Loss 7.732, Prec 0.906, Time 0.225
+Cycle 27, K 50 (44), Loss 15.047, Prec 0.938, Time 0.393
+Cycle 27, K 51 (34), Loss 25.975, Prec 0.844, Time 0.294
+Cycle 27, K 52 (28), Loss 41.838, Prec 0.812, Time 0.268
+Cycle 27, K 53 (10), Loss 12.826, Prec 0.906, Time 0.259
+Cycle 27, K 54 (53), Loss 8.694, Prec 0.812, Time 0.273
+Cycle 27, K 55 (54), Loss 24.002, Prec 0.812, Time 0.373
+Cycle 27, K 56 (16), Loss 28.098, Prec 0.844, Time 0.232
+Cycle 27, K 57 (39), Loss 21.777, Prec 0.906, Time 0.269
+Mean Precision: 0.888
+==== Start Cycle 28 ====
+Cycle 28, K  0 (13), Loss 8.462, Prec 0.938, Time 0.206
+Cycle 28, K  1 (28), Loss 23.046, Prec 0.844, Time 0.243
+Cycle 28, K  2 (19), Loss 11.447, Prec 0.906, Time 0.247
+Cycle 28, K  3 (51), Loss 7.616, Prec 0.938, Time 0.294
+Cycle 28, K  4 (10), Loss 31.058, Prec 0.844, Time 0.278
+Cycle 28, K  5 (16), Loss 32.755, Prec 0.844, Time 0.200
+Cycle 28, K  6 (41), Loss 4.331, Prec 0.969, Time 0.282
+Cycle 28, K  7 ( 2), Loss 27.202, Prec 0.750, Time 0.785
+Cycle 28, K  8 (35), Loss 10.230, Prec 0.938, Time 0.632
+Cycle 28, K  9 ( 5), Loss 18.279, Prec 0.844, Time 0.235
+Cycle 28, K 10 (42), Loss 1.608, Prec 0.969, Time 0.284
+Cycle 28, K 11 (52), Loss 8.775, Prec 0.875, Time 0.259
+Cycle 28, K 12 (30), Loss 11.264, Prec 0.844, Time 0.395
+Cycle 28, K 13 (26), Loss 28.655, Prec 0.719, Time 0.226
+Cycle 28, K 14 (14), Loss 2.168, Prec 0.969, Time 0.331
+Cycle 28, K 15 (33), Loss 41.252, Prec 0.781, Time 0.251
+Cycle 28, K 16 ( 0), Loss 36.502, Prec 0.688, Time 0.247
+Cycle 28, K 17 (12), Loss 6.421, Prec 0.969, Time 0.291
+Cycle 28, K 18 (56), Loss 0.475, Prec 1.000, Time 0.378
+Cycle 28, K 19 (53), Loss 3.827, Prec 0.969, Time 0.248
+Cycle 28, K 20 (57), Loss 19.631, Prec 0.844, Time 0.253
+Cycle 28, K 21 (38), Loss 10.414, Prec 0.906, Time 0.250
+Cycle 28, K 22 (36), Loss 10.263, Prec 0.938, Time 0.248
+Cycle 28, K 23 (55), Loss 9.014, Prec 0.844, Time 0.292
+Cycle 28, K 24 (40), Loss 14.537, Prec 0.875, Time 0.324
+Cycle 28, K 25 (45), Loss 12.126, Prec 0.875, Time 0.414
+Cycle 28, K 26 (25), Loss 19.055, Prec 0.867, Time 0.416
+Cycle 28, K 27 (20), Loss 21.858, Prec 0.844, Time 0.416
+Cycle 28, K 28 ( 8), Loss 11.065, Prec 0.875, Time 0.264
+Cycle 28, K 29 ( 6), Loss 7.682, Prec 0.938, Time 0.271
+Cycle 28, K 30 (44), Loss 5.144, Prec 0.969, Time 0.342
+Cycle 28, K 31 (50), Loss 4.653, Prec 0.938, Time 0.244
+Cycle 28, K 32 (18), Loss 4.966, Prec 0.969, Time 0.331
+Cycle 28, K 33 ( 3), Loss 4.886, Prec 0.969, Time 0.243
+Cycle 28, K 34 (48), Loss 2.446, Prec 0.969, Time 0.625
+Cycle 28, K 35 (15), Loss 14.946, Prec 0.906, Time 0.268
+Cycle 28, K 36 (29), Loss 0.402, Prec 1.000, Time 0.237
+Cycle 28, K 37 (37), Loss 0.039, Prec 1.000, Time 0.258
+Cycle 28, K 38 (23), Loss 8.928, Prec 0.906, Time 0.252
+Cycle 28, K 39 (39), Loss 28.017, Prec 0.781, Time 0.246
+Cycle 28, K 40 (24), Loss 12.514, Prec 0.875, Time 0.270
+Cycle 28, K 41 (27), Loss 17.636, Prec 0.844, Time 0.198
+Cycle 28, K 42 (17), Loss 12.127, Prec 0.781, Time 0.249
+Cycle 28, K 43 (43), Loss 7.530, Prec 0.969, Time 0.298
+Cycle 28, K 44 (11), Loss 3.807, Prec 0.969, Time 0.318
+Cycle 28, K 45 (46), Loss 1.074, Prec 1.000, Time 0.202
+Cycle 28, K 46 ( 7), Loss 67.342, Prec 0.500, Time 0.242
+Cycle 28, K 47 (31), Loss 2.520, Prec 0.969, Time 0.257
+Cycle 28, K 48 (47), Loss 29.190, Prec 0.781, Time 0.382
+Cycle 28, K 49 (21), Loss 39.907, Prec 0.688, Time 0.512
+Cycle 28, K 50 (34), Loss 15.841, Prec 0.844, Time 0.294
+Cycle 28, K 51 (54), Loss 32.272, Prec 0.781, Time 0.416
+Cycle 28, K 52 ( 9), Loss 3.817, Prec 0.906, Time 0.272
+Cycle 28, K 53 (22), Loss 13.800, Prec 0.875, Time 0.344
+Cycle 28, K 54 ( 4), Loss 12.412, Prec 0.875, Time 0.280
+Cycle 28, K 55 ( 1), Loss 14.836, Prec 0.875, Time 0.336
+Cycle 28, K 56 (32), Loss 6.181, Prec 0.969, Time 0.216
+Cycle 28, K 57 (49), Loss 0.816, Prec 1.000, Time 0.220
+Mean Precision: 0.885
+==== Start Cycle 29 ====
+Cycle 29, K  0 (33), Loss 12.510, Prec 0.875, Time 0.232
+Cycle 29, K  1 (53), Loss 7.600, Prec 0.906, Time 0.240
+Cycle 29, K  2 (25), Loss 12.189, Prec 0.875, Time 0.368
+Cycle 29, K  3 (21), Loss 10.883, Prec 0.875, Time 0.436
+Cycle 29, K  4 (19), Loss 21.209, Prec 0.875, Time 0.238
+Cycle 29, K  5 (57), Loss 8.127, Prec 0.812, Time 0.263
+Cycle 29, K  6 (48), Loss 2.889, Prec 0.969, Time 0.762
+Cycle 29, K  7 (30), Loss 6.351, Prec 0.906, Time 0.358
+Cycle 29, K  8 (24), Loss 13.447, Prec 0.938, Time 0.276
+Cycle 29, K  9 ( 0), Loss 25.748, Prec 0.781, Time 0.234
+Cycle 29, K 10 (42), Loss 0.942, Prec 0.969, Time 0.281
+Cycle 29, K 11 (22), Loss 22.647, Prec 0.844, Time 0.324
+Cycle 29, K 12 (41), Loss 16.320, Prec 0.906, Time 0.264
+Cycle 29, K 13 (11), Loss 9.260, Prec 0.906, Time 0.336
+Cycle 29, K 14 (26), Loss 23.184, Prec 0.844, Time 0.236
+Cycle 29, K 15 (46), Loss 1.112, Prec 0.969, Time 0.227
+Cycle 29, K 16 (44), Loss 3.911, Prec 0.969, Time 0.363
+Cycle 29, K 17 ( 2), Loss 20.377, Prec 0.844, Time 0.787
+Cycle 29, K 18 ( 3), Loss 0.205, Prec 1.000, Time 0.264
+Cycle 29, K 19 (29), Loss 0.933, Prec 1.000, Time 0.221
+Cycle 29, K 20 (43), Loss 13.874, Prec 0.906, Time 0.228
+Cycle 29, K 21 (15), Loss 21.617, Prec 0.875, Time 0.267
+Cycle 29, K 22 (51), Loss 2.617, Prec 1.000, Time 0.276
+Cycle 29, K 23 (54), Loss 22.747, Prec 0.906, Time 0.351
+Cycle 29, K 24 ( 1), Loss 9.899, Prec 0.906, Time 0.396
+Cycle 29, K 25 (49), Loss 1.007, Prec 1.000, Time 0.258
+Cycle 29, K 26 ( 4), Loss 25.560, Prec 0.812, Time 0.314
+Cycle 29, K 27 (37), Loss 0.001, Prec 1.000, Time 0.270
+Cycle 29, K 28 (34), Loss 15.585, Prec 0.875, Time 0.295
+Cycle 29, K 29 ( 9), Loss 14.065, Prec 0.875, Time 0.319
+Cycle 29, K 30 (23), Loss 4.645, Prec 0.938, Time 0.223
+Cycle 29, K 31 ( 6), Loss 10.145, Prec 0.969, Time 0.292
+Cycle 29, K 32 (17), Loss 14.212, Prec 0.875, Time 0.252
+Cycle 29, K 33 (39), Loss 15.460, Prec 0.844, Time 0.298
+Cycle 29, K 34 ( 7), Loss 48.068, Prec 0.625, Time 0.249
+Cycle 29, K 35 (56), Loss 2.821, Prec 0.969, Time 0.438
+Cycle 29, K 36 (31), Loss 9.656, Prec 0.938, Time 0.200
+Cycle 29, K 37 (27), Loss 22.306, Prec 0.750, Time 0.211
+Cycle 29, K 38 (55), Loss 8.521, Prec 0.906, Time 0.290
+Cycle 29, K 39 ( 5), Loss 15.320, Prec 0.781, Time 0.260
+Cycle 29, K 40 (38), Loss 21.016, Prec 0.844, Time 0.252
+Cycle 29, K 41 (12), Loss 1.171, Prec 1.000, Time 0.314
+Cycle 29, K 42 (20), Loss 9.458, Prec 0.906, Time 0.497
+Cycle 29, K 43 (13), Loss 15.558, Prec 0.875, Time 0.203
+Cycle 29, K 44 (28), Loss 44.335, Prec 0.719, Time 0.264
+Cycle 29, K 45 (52), Loss 12.168, Prec 0.844, Time 0.238
+Cycle 29, K 46 (16), Loss 18.773, Prec 0.875, Time 0.228
+Cycle 29, K 47 (40), Loss 11.104, Prec 0.875, Time 0.261
+Cycle 29, K 48 ( 8), Loss 10.039, Prec 0.906, Time 0.285
+Cycle 29, K 49 (50), Loss 2.056, Prec 0.969, Time 0.310
+Cycle 29, K 50 (10), Loss 18.423, Prec 0.844, Time 0.275
+Cycle 29, K 51 (18), Loss 6.367, Prec 0.969, Time 0.331
+Cycle 29, K 52 (32), Loss 3.491, Prec 0.938, Time 0.227
+Cycle 29, K 53 (36), Loss 6.088, Prec 0.938, Time 0.270
+Cycle 29, K 54 (14), Loss 28.806, Prec 0.844, Time 0.292
+Cycle 29, K 55 (45), Loss 4.804, Prec 0.938, Time 0.521
+Cycle 29, K 56 (35), Loss 8.707, Prec 0.906, Time 0.576
+Cycle 29, K 57 (47), Loss 7.544, Prec 0.938, Time 0.364
+Mean Precision: 0.895
+==== Start Cycle 30 ====
+Cycle 30, K  0 (40), Loss 10.230, Prec 0.969, Time 0.285
+Cycle 30, K  1 ( 7), Loss 58.407, Prec 0.531, Time 0.247
+Cycle 30, K  2 ( 3), Loss 3.626, Prec 0.969, Time 0.241
+Cycle 30, K  3 (43), Loss 5.482, Prec 0.969, Time 0.246
+Cycle 30, K  4 (29), Loss 2.637, Prec 1.000, Time 0.213
+Cycle 30, K  5 (36), Loss 2.989, Prec 1.000, Time 0.247
+Cycle 30, K  6 (35), Loss 10.387, Prec 0.938, Time 0.590
+Cycle 30, K  7 ( 9), Loss 19.204, Prec 0.938, Time 0.273
+Cycle 30, K  8 (33), Loss 6.206, Prec 0.875, Time 0.247
+Cycle 30, K  9 (57), Loss 6.585, Prec 0.906, Time 0.244
+Cycle 30, K 10 (18), Loss 5.659, Prec 0.938, Time 0.319
+Cycle 30, K 11 (31), Loss 7.489, Prec 0.969, Time 0.217
+Cycle 30, K 12 ( 2), Loss 34.117, Prec 0.875, Time 0.720
+Cycle 30, K 13 (28), Loss 41.202, Prec 0.719, Time 0.257
+Cycle 30, K 14 (46), Loss 0.527, Prec 0.969, Time 0.190
+Cycle 30, K 15 (17), Loss 13.456, Prec 0.844, Time 0.252
+Cycle 30, K 16 (30), Loss 13.536, Prec 0.906, Time 0.355
+Cycle 30, K 17 (54), Loss 34.247, Prec 0.844, Time 0.352
+Cycle 30, K 18 (39), Loss 24.310, Prec 0.781, Time 0.240
+Cycle 30, K 19 (23), Loss 2.371, Prec 1.000, Time 0.238
+Cycle 30, K 20 (50), Loss 0.704, Prec 1.000, Time 0.309
+Cycle 30, K 21 (22), Loss 17.263, Prec 0.844, Time 0.408
+Cycle 30, K 22 (37), Loss 0.009, Prec 1.000, Time 0.273
+Cycle 30, K 23 ( 4), Loss 8.287, Prec 0.938, Time 0.299
+Cycle 30, K 24 (34), Loss 27.231, Prec 0.875, Time 0.333
+Cycle 30, K 25 (11), Loss 8.997, Prec 0.938, Time 0.319
+Cycle 30, K 26 (27), Loss 9.730, Prec 0.844, Time 0.190
+Cycle 30, K 27 (45), Loss 10.837, Prec 0.938, Time 0.513
+Cycle 30, K 28 (48), Loss 6.382, Prec 0.906, Time 0.739
+Cycle 30, K 29 (25), Loss 15.759, Prec 0.875, Time 0.407
+Cycle 30, K 30 (21), Loss 41.498, Prec 0.750, Time 0.531
+Cycle 30, K 31 (55), Loss 12.049, Prec 0.906, Time 0.292
+Cycle 30, K 32 (49), Loss 0.944, Prec 0.969, Time 0.264
+Cycle 30, K 33 ( 0), Loss 11.392, Prec 0.875, Time 0.224
+Cycle 30, K 34 ( 5), Loss 14.331, Prec 0.875, Time 0.234
+Cycle 30, K 35 (56), Loss 2.344, Prec 1.000, Time 0.394
+Cycle 30, K 36 (26), Loss 29.397, Prec 0.719, Time 0.232
+Cycle 30, K 37 (41), Loss 8.020, Prec 0.906, Time 0.236
+Cycle 30, K 38 (51), Loss 3.731, Prec 0.938, Time 0.271
+Cycle 30, K 39 (13), Loss 2.519, Prec 0.938, Time 0.195
+Cycle 30, K 40 (24), Loss 25.972, Prec 0.844, Time 0.267
+Cycle 30, K 41 (14), Loss 8.202, Prec 0.969, Time 0.302
+Cycle 30, K 42 (53), Loss 11.196, Prec 0.969, Time 0.252
+Cycle 30, K 43 (52), Loss 7.858, Prec 0.844, Time 0.237
+Cycle 30, K 44 (12), Loss 0.269, Prec 1.000, Time 0.261
+Cycle 30, K 45 (19), Loss 12.741, Prec 0.844, Time 0.252
+Cycle 30, K 46 (44), Loss 4.426, Prec 0.938, Time 0.349
+Cycle 30, K 47 (15), Loss 8.326, Prec 0.906, Time 0.240
+Cycle 30, K 48 (16), Loss 15.815, Prec 0.938, Time 0.224
+Cycle 30, K 49 (42), Loss 0.279, Prec 1.000, Time 0.254
+Cycle 30, K 50 ( 6), Loss 0.625, Prec 1.000, Time 0.283
+Cycle 30, K 51 (10), Loss 28.674, Prec 0.844, Time 0.269
+Cycle 30, K 52 ( 1), Loss 21.158, Prec 0.781, Time 0.335
+Cycle 30, K 53 ( 8), Loss 5.258, Prec 0.938, Time 0.245
+Cycle 30, K 54 (47), Loss 17.305, Prec 0.875, Time 0.348
+Cycle 30, K 55 (32), Loss 2.740, Prec 0.969, Time 0.208
+Cycle 30, K 56 (20), Loss 11.053, Prec 0.906, Time 0.409
+Cycle 30, K 57 (38), Loss 12.323, Prec 0.812, Time 0.237
+Mean Precision: 0.902
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 31 ====
+Cycle 31, K  0 (50), Loss 10.551, Prec 0.938, Time 0.273
+Cycle 31, K  1 (23), Loss 13.193, Prec 0.812, Time 0.214
+Cycle 31, K  2 (22), Loss 8.577, Prec 0.875, Time 0.290
+Cycle 31, K  3 (56), Loss 8.201, Prec 0.969, Time 0.324
+Cycle 31, K  4 ( 0), Loss 12.150, Prec 0.781, Time 0.231
+Cycle 31, K  5 ( 6), Loss 3.970, Prec 1.000, Time 0.275
+Cycle 31, K  6 ( 3), Loss 2.248, Prec 1.000, Time 0.214
+Cycle 31, K  7 (37), Loss 0.121, Prec 1.000, Time 0.252
+Cycle 31, K  8 (36), Loss 6.235, Prec 0.969, Time 0.261
+Cycle 31, K  9 (55), Loss 1.785, Prec 0.969, Time 0.288
+Cycle 31, K 10 (24), Loss 17.321, Prec 0.875, Time 0.230
+Cycle 31, K 11 (53), Loss 7.257, Prec 0.969, Time 0.224
+Cycle 31, K 12 (33), Loss 28.060, Prec 0.875, Time 0.223
+Cycle 31, K 13 (30), Loss 12.758, Prec 0.875, Time 0.372
+Cycle 31, K 14 (27), Loss 26.139, Prec 0.812, Time 0.228
+Cycle 31, K 15 (43), Loss 3.098, Prec 0.969, Time 0.197
+Cycle 31, K 16 (28), Loss 36.397, Prec 0.688, Time 0.268
+Cycle 31, K 17 (40), Loss 1.253, Prec 1.000, Time 0.264
+Cycle 31, K 18 (52), Loss 8.033, Prec 0.969, Time 0.216
+Cycle 31, K 19 (12), Loss 2.709, Prec 1.000, Time 0.264
+Cycle 31, K 20 (31), Loss 3.313, Prec 1.000, Time 0.177
+Cycle 31, K 21 (26), Loss 34.095, Prec 0.688, Time 0.211
+Cycle 31, K 22 (29), Loss 0.305, Prec 1.000, Time 0.257
+Cycle 31, K 23 (18), Loss 20.210, Prec 0.938, Time 0.321
+Cycle 31, K 24 (42), Loss 0.412, Prec 1.000, Time 0.276
+Cycle 31, K 25 (16), Loss 12.000, Prec 0.938, Time 0.214
+Cycle 31, K 26 (39), Loss 24.277, Prec 0.781, Time 0.305
+Cycle 31, K 27 (34), Loss 15.388, Prec 0.875, Time 0.266
+Cycle 31, K 28 (44), Loss 5.073, Prec 0.938, Time 0.357
+Cycle 31, K 29 (48), Loss 2.280, Prec 0.969, Time 0.604
+Cycle 31, K 30 (15), Loss 27.513, Prec 0.812, Time 0.255
+Cycle 31, K 31 ( 9), Loss 5.925, Prec 0.969, Time 0.298
+Cycle 31, K 32 (21), Loss 25.469, Prec 0.844, Time 0.463
+Cycle 31, K 33 (25), Loss 16.478, Prec 0.875, Time 0.395
+Cycle 31, K 34 (32), Loss 0.692, Prec 0.969, Time 0.211
+Cycle 31, K 35 ( 7), Loss 54.601, Prec 0.562, Time 0.197
+Cycle 31, K 36 ( 5), Loss 10.664, Prec 0.844, Time 0.210
+Cycle 31, K 37 (46), Loss 0.353, Prec 1.000, Time 0.213
+Cycle 31, K 38 (38), Loss 16.697, Prec 0.906, Time 0.245
+Cycle 31, K 39 ( 4), Loss 7.493, Prec 0.938, Time 0.285
+Cycle 31, K 40 ( 2), Loss 17.112, Prec 0.938, Time 0.713
+Cycle 31, K 41 (11), Loss 17.776, Prec 0.875, Time 0.328
+Cycle 31, K 42 (41), Loss 8.342, Prec 0.906, Time 0.259
+Cycle 31, K 43 (47), Loss 21.736, Prec 0.781, Time 0.345
+Cycle 31, K 44 (57), Loss 14.077, Prec 0.875, Time 0.244
+Cycle 31, K 45 (13), Loss 6.770, Prec 0.938, Time 0.265
+Cycle 31, K 46 (14), Loss 9.625, Prec 0.906, Time 0.308
+Cycle 31, K 47 (49), Loss 16.517, Prec 0.969, Time 0.228
+Cycle 31, K 48 ( 8), Loss 16.844, Prec 0.812, Time 0.259
+Cycle 31, K 49 (45), Loss 5.071, Prec 0.969, Time 0.434
+Cycle 31, K 50 (19), Loss 7.208, Prec 0.969, Time 0.277
+Cycle 31, K 51 (17), Loss 9.240, Prec 0.875, Time 0.223
+Cycle 31, K 52 ( 1), Loss 23.097, Prec 0.812, Time 0.362
+Cycle 31, K 53 (10), Loss 6.002, Prec 0.969, Time 0.271
+Cycle 31, K 54 (20), Loss 6.889, Prec 0.906, Time 0.361
+Cycle 31, K 55 (51), Loss 0.545, Prec 1.000, Time 0.288
+Cycle 31, K 56 (35), Loss 3.682, Prec 0.969, Time 0.462
+Cycle 31, K 57 (54), Loss 8.552, Prec 0.875, Time 0.348
+Mean Precision: 0.906
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 32 ====
+Cycle 32, K  0 (15), Loss 21.717, Prec 0.906, Time 0.373
+Cycle 32, K  1 (40), Loss 11.792, Prec 0.938, Time 0.271
+Cycle 32, K  2 (54), Loss 19.083, Prec 0.844, Time 0.358
+Cycle 32, K  3 ( 3), Loss 0.446, Prec 1.000, Time 0.226
+Cycle 32, K  4 (36), Loss 5.451, Prec 0.969, Time 0.258
+Cycle 32, K  5 (49), Loss 7.556, Prec 0.969, Time 0.223
+Cycle 32, K  6 (11), Loss 20.468, Prec 0.938, Time 0.319
+Cycle 32, K  7 (21), Loss 45.713, Prec 0.750, Time 0.431
+Cycle 32, K  8 (20), Loss 15.838, Prec 0.906, Time 0.416
+Cycle 32, K  9 ( 4), Loss 14.127, Prec 0.906, Time 0.341
+Cycle 32, K 10 (52), Loss 13.361, Prec 0.938, Time 0.226
+Cycle 32, K 11 (19), Loss 4.165, Prec 0.906, Time 0.243
+Cycle 32, K 12 (43), Loss 4.562, Prec 0.938, Time 0.223
+Cycle 32, K 13 (37), Loss 4.499, Prec 1.000, Time 0.244
+Cycle 32, K 14 (26), Loss 14.445, Prec 0.844, Time 0.243
+Cycle 32, K 15 (12), Loss 1.308, Prec 1.000, Time 0.273
+Cycle 32, K 16 ( 2), Loss 18.199, Prec 0.906, Time 0.777
+Cycle 32, K 17 (56), Loss 5.883, Prec 0.969, Time 0.323
+Cycle 32, K 18 (53), Loss 1.188, Prec 0.969, Time 0.227
+Cycle 32, K 19 (38), Loss 6.614, Prec 0.906, Time 0.248
+Cycle 32, K 20 ( 0), Loss 12.896, Prec 0.844, Time 0.303
+Cycle 32, K 21 ( 9), Loss 3.187, Prec 0.938, Time 0.272
+Cycle 32, K 22 (23), Loss 0.626, Prec 1.000, Time 0.219
+Cycle 32, K 23 ( 6), Loss 2.401, Prec 1.000, Time 0.267
+Cycle 32, K 24 ( 7), Loss 64.012, Prec 0.500, Time 0.262
+Cycle 32, K 25 (31), Loss 5.688, Prec 0.938, Time 0.203
+Cycle 32, K 26 (39), Loss 16.675, Prec 0.781, Time 0.255
+Cycle 32, K 27 (29), Loss 15.919, Prec 0.969, Time 0.197
+Cycle 32, K 28 (30), Loss 9.390, Prec 0.938, Time 0.366
+Cycle 32, K 29 (10), Loss 19.815, Prec 0.812, Time 0.267
+Cycle 32, K 30 (28), Loss 25.206, Prec 0.781, Time 0.274
+Cycle 32, K 31 (17), Loss 13.915, Prec 0.812, Time 0.225
+Cycle 32, K 32 ( 8), Loss 10.514, Prec 0.938, Time 0.255
+Cycle 32, K 33 (14), Loss 10.933, Prec 0.906, Time 0.274
+Cycle 32, K 34 ( 1), Loss 9.250, Prec 0.875, Time 0.354
+Cycle 32, K 35 (33), Loss 8.951, Prec 0.938, Time 0.226
+Cycle 32, K 36 (47), Loss 9.136, Prec 0.938, Time 0.373
+Cycle 32, K 37 (22), Loss 18.265, Prec 0.875, Time 0.332
+Cycle 32, K 38 (24), Loss 6.750, Prec 0.969, Time 0.277
+Cycle 32, K 39 (46), Loss 8.584, Prec 0.969, Time 0.214
+Cycle 32, K 40 (51), Loss 3.469, Prec 0.969, Time 0.291
+Cycle 32, K 41 (34), Loss 26.324, Prec 0.812, Time 0.246
+Cycle 32, K 42 (25), Loss 9.847, Prec 0.844, Time 0.417
+Cycle 32, K 43 (57), Loss 11.884, Prec 0.906, Time 0.251
+Cycle 32, K 44 ( 5), Loss 37.584, Prec 0.812, Time 0.215
+Cycle 32, K 45 (27), Loss 15.886, Prec 0.812, Time 0.190
+Cycle 32, K 46 (13), Loss 5.717, Prec 0.906, Time 0.211
+Cycle 32, K 47 (48), Loss 15.711, Prec 0.906, Time 0.657
+Cycle 32, K 48 (55), Loss 7.683, Prec 0.875, Time 0.263
+Cycle 32, K 49 (42), Loss 2.788, Prec 0.969, Time 0.281
+Cycle 32, K 50 (41), Loss 29.602, Prec 0.844, Time 0.257
+Cycle 32, K 51 (18), Loss 7.449, Prec 0.875, Time 0.289
+Cycle 32, K 52 (45), Loss 12.150, Prec 0.875, Time 0.470
+Cycle 32, K 53 (16), Loss 8.794, Prec 0.938, Time 0.218
+Cycle 32, K 54 (32), Loss 21.574, Prec 0.938, Time 0.230
+Cycle 32, K 55 (44), Loss 4.137, Prec 0.938, Time 0.310
+Cycle 32, K 56 (50), Loss 7.329, Prec 0.938, Time 0.261
+Cycle 32, K 57 (35), Loss 2.013, Prec 1.000, Time 0.575
+Mean Precision: 0.903
+==== Start Cycle 33 ====
+Cycle 33, K  0 (39), Loss 23.718, Prec 0.875, Time 0.275
+Cycle 33, K  1 (57), Loss 2.681, Prec 0.969, Time 0.277
+Cycle 33, K  2 (51), Loss 0.968, Prec 1.000, Time 0.285
+Cycle 33, K  3 (34), Loss 8.853, Prec 0.906, Time 0.292
+Cycle 33, K  4 (10), Loss 19.235, Prec 0.844, Time 0.271
+Cycle 33, K  5 (36), Loss 8.862, Prec 0.969, Time 0.267
+Cycle 33, K  6 (56), Loss 1.829, Prec 0.969, Time 0.298
+Cycle 33, K  7 (32), Loss 1.162, Prec 0.969, Time 0.229
+Cycle 33, K  8 (17), Loss 10.628, Prec 0.844, Time 0.238
+Cycle 33, K  9 (48), Loss 9.758, Prec 0.938, Time 0.616
+Cycle 33, K 10 ( 0), Loss 16.729, Prec 0.781, Time 0.256
+Cycle 33, K 11 (37), Loss 0.057, Prec 1.000, Time 0.251
+Cycle 33, K 12 (11), Loss 13.655, Prec 0.906, Time 0.318
+Cycle 33, K 13 ( 6), Loss 5.842, Prec 0.969, Time 0.276
+Cycle 33, K 14 (54), Loss 26.892, Prec 0.875, Time 0.367
+Cycle 33, K 15 (20), Loss 17.209, Prec 0.781, Time 0.451
+Cycle 33, K 16 (33), Loss 8.319, Prec 0.969, Time 0.229
+Cycle 33, K 17 (42), Loss 1.666, Prec 1.000, Time 0.268
+Cycle 33, K 18 ( 2), Loss 18.085, Prec 0.844, Time 0.749
+Cycle 33, K 19 (30), Loss 6.058, Prec 0.906, Time 0.387
+Cycle 33, K 20 (53), Loss 8.433, Prec 0.938, Time 0.211
+Cycle 33, K 21 (46), Loss 2.955, Prec 1.000, Time 0.218
+Cycle 33, K 22 (18), Loss 12.196, Prec 0.906, Time 0.319
+Cycle 33, K 23 (47), Loss 8.202, Prec 0.844, Time 0.343
+Cycle 33, K 24 ( 7), Loss 66.042, Prec 0.469, Time 0.222
+Cycle 33, K 25 ( 3), Loss 0.072, Prec 1.000, Time 0.222
+Cycle 33, K 26 (43), Loss 8.340, Prec 0.938, Time 0.225
+Cycle 33, K 27 (40), Loss 5.248, Prec 0.969, Time 0.299
+Cycle 33, K 28 (23), Loss 9.841, Prec 0.938, Time 0.197
+Cycle 33, K 29 (50), Loss 0.648, Prec 1.000, Time 0.268
+Cycle 33, K 30 (29), Loss 0.182, Prec 1.000, Time 0.241
+Cycle 33, K 31 (22), Loss 14.082, Prec 0.812, Time 0.330
+Cycle 33, K 32 (45), Loss 6.272, Prec 0.938, Time 0.472
+Cycle 33, K 33 ( 8), Loss 3.593, Prec 1.000, Time 0.243
+Cycle 33, K 34 (41), Loss 13.871, Prec 0.969, Time 0.282
+Cycle 33, K 35 (15), Loss 17.844, Prec 0.875, Time 0.305
+Cycle 33, K 36 ( 4), Loss 13.595, Prec 0.969, Time 0.310
+Cycle 33, K 37 (19), Loss 17.556, Prec 0.938, Time 0.228
+Cycle 33, K 38 ( 1), Loss 25.101, Prec 0.781, Time 0.457
+Cycle 33, K 39 (28), Loss 34.913, Prec 0.750, Time 0.246
+Cycle 33, K 40 (35), Loss 0.791, Prec 1.000, Time 0.718
+Cycle 33, K 41 (24), Loss 8.179, Prec 0.938, Time 0.259
+Cycle 33, K 42 (14), Loss 10.701, Prec 0.969, Time 0.321
+Cycle 33, K 43 (38), Loss 6.916, Prec 0.938, Time 0.263
+Cycle 33, K 44 (49), Loss 1.200, Prec 0.969, Time 0.244
+Cycle 33, K 45 (21), Loss 40.548, Prec 0.719, Time 0.524
+Cycle 33, K 46 (12), Loss 0.126, Prec 1.000, Time 0.278
+Cycle 33, K 47 (52), Loss 4.123, Prec 0.938, Time 0.238
+Cycle 33, K 48 (13), Loss 18.433, Prec 0.781, Time 0.214
+Cycle 33, K 49 (44), Loss 1.660, Prec 1.000, Time 0.370
+Cycle 33, K 50 (16), Loss 24.477, Prec 0.875, Time 0.232
+Cycle 33, K 51 ( 5), Loss 13.058, Prec 0.844, Time 0.195
+Cycle 33, K 52 (55), Loss 15.662, Prec 0.875, Time 0.277
+Cycle 33, K 53 (31), Loss 11.493, Prec 0.969, Time 0.208
+Cycle 33, K 54 (26), Loss 20.551, Prec 0.844, Time 0.258
+Cycle 33, K 55 ( 9), Loss 11.941, Prec 0.906, Time 0.299
+Cycle 33, K 56 (25), Loss 27.602, Prec 0.844, Time 0.441
+Cycle 33, K 57 (27), Loss 16.688, Prec 0.906, Time 0.199
+Mean Precision: 0.908
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 34 ====
+Cycle 34, K  0 (43), Loss 5.528, Prec 0.969, Time 0.184
+Cycle 34, K  1 (26), Loss 24.911, Prec 0.781, Time 0.194
+Cycle 34, K  2 (41), Loss 29.946, Prec 0.938, Time 0.273
+Cycle 34, K  3 (47), Loss 25.229, Prec 0.812, Time 0.356
+Cycle 34, K  4 (14), Loss 5.367, Prec 0.969, Time 0.311
+Cycle 34, K  5 (49), Loss 0.062, Prec 1.000, Time 0.201
+Cycle 34, K  6 ( 9), Loss 9.107, Prec 0.938, Time 0.309
+Cycle 34, K  7 (31), Loss 2.088, Prec 0.938, Time 0.204
+Cycle 34, K  8 ( 3), Loss 0.061, Prec 1.000, Time 0.234
+Cycle 34, K  9 ( 5), Loss 6.413, Prec 0.969, Time 0.197
+Cycle 34, K 10 (22), Loss 29.392, Prec 0.781, Time 0.312
+Cycle 34, K 11 (17), Loss 7.508, Prec 0.844, Time 0.242
+Cycle 34, K 12 (52), Loss 9.681, Prec 0.906, Time 0.214
+Cycle 34, K 13 (11), Loss 6.633, Prec 0.938, Time 0.290
+Cycle 34, K 14 (44), Loss 6.489, Prec 0.938, Time 0.334
+Cycle 34, K 15 (21), Loss 27.021, Prec 0.750, Time 0.457
+Cycle 34, K 16 ( 0), Loss 6.998, Prec 0.906, Time 0.219
+Cycle 34, K 17 (45), Loss 4.262, Prec 0.938, Time 0.431
+Cycle 34, K 18 (40), Loss 2.734, Prec 0.969, Time 0.261
+Cycle 34, K 19 (42), Loss 0.606, Prec 1.000, Time 0.245
+Cycle 34, K 20 (57), Loss 3.071, Prec 0.938, Time 0.273
+Cycle 34, K 21 (23), Loss 7.680, Prec 0.875, Time 0.183
+Cycle 34, K 22 (46), Loss 0.039, Prec 1.000, Time 0.219
+Cycle 34, K 23 (16), Loss 12.236, Prec 0.969, Time 0.215
+Cycle 34, K 24 ( 6), Loss 8.298, Prec 0.938, Time 0.284
+Cycle 34, K 25 (50), Loss 0.226, Prec 1.000, Time 0.268
+Cycle 34, K 26 (13), Loss 3.360, Prec 0.969, Time 0.198
+Cycle 34, K 27 (24), Loss 8.610, Prec 0.875, Time 0.327
+Cycle 34, K 28 (20), Loss 26.376, Prec 0.844, Time 0.390
+Cycle 34, K 29 (39), Loss 18.979, Prec 0.906, Time 0.279
+Cycle 34, K 30 (25), Loss 24.380, Prec 0.781, Time 0.382
+Cycle 34, K 31 (28), Loss 18.089, Prec 0.844, Time 0.262
+Cycle 34, K 32 (48), Loss 5.569, Prec 0.969, Time 0.664
+Cycle 34, K 33 (53), Loss 13.839, Prec 0.938, Time 0.180
+Cycle 34, K 34 (36), Loss 13.869, Prec 0.906, Time 0.249
+Cycle 34, K 35 (15), Loss 13.576, Prec 0.844, Time 0.271
+Cycle 34, K 36 (33), Loss 12.474, Prec 0.938, Time 0.254
+Cycle 34, K 37 (18), Loss 6.581, Prec 0.938, Time 0.291
+Cycle 34, K 38 ( 1), Loss 11.650, Prec 0.969, Time 0.342
+Cycle 34, K 39 (12), Loss 0.618, Prec 1.000, Time 0.243
+Cycle 34, K 40 (29), Loss 1.100, Prec 1.000, Time 0.245
+Cycle 34, K 41 ( 8), Loss 5.384, Prec 0.938, Time 0.241
+Cycle 34, K 42 (34), Loss 14.881, Prec 0.875, Time 0.281
+Cycle 34, K 43 (51), Loss 2.159, Prec 0.969, Time 0.284
+Cycle 34, K 44 (10), Loss 9.442, Prec 0.938, Time 0.260
+Cycle 34, K 45 (56), Loss 0.965, Prec 1.000, Time 0.307
+Cycle 34, K 46 (35), Loss 4.356, Prec 0.969, Time 0.612
+Cycle 34, K 47 ( 4), Loss 13.686, Prec 0.906, Time 0.315
+Cycle 34, K 48 (30), Loss 18.718, Prec 0.906, Time 0.360
+Cycle 34, K 49 (55), Loss 9.108, Prec 0.938, Time 0.250
+Cycle 34, K 50 (37), Loss 8.041, Prec 1.000, Time 0.232
+Cycle 34, K 51 (54), Loss 26.182, Prec 0.875, Time 0.341
+Cycle 34, K 52 (38), Loss 4.799, Prec 0.938, Time 0.264
+Cycle 34, K 53 ( 7), Loss 69.796, Prec 0.344, Time 0.212
+Cycle 34, K 54 (32), Loss 1.067, Prec 1.000, Time 0.219
+Cycle 34, K 55 ( 2), Loss 12.669, Prec 0.844, Time 0.720
+Cycle 34, K 56 (19), Loss 1.717, Prec 0.969, Time 0.246
+Cycle 34, K 57 (27), Loss 23.400, Prec 0.750, Time 0.254
+Mean Precision: 0.912
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 35 ====
+Cycle 35, K  0 (44), Loss 1.900, Prec 0.969, Time 0.460
+Cycle 35, K  1 (50), Loss 2.232, Prec 1.000, Time 0.243
+Cycle 35, K  2 (54), Loss 11.989, Prec 0.875, Time 0.344
+Cycle 35, K  3 (43), Loss 9.884, Prec 0.938, Time 0.199
+Cycle 35, K  4 (16), Loss 20.706, Prec 0.875, Time 0.207
+Cycle 35, K  5 ( 8), Loss 8.275, Prec 0.938, Time 0.247
+Cycle 35, K  6 ( 7), Loss 51.989, Prec 0.688, Time 0.228
+Cycle 35, K  7 (56), Loss 0.211, Prec 1.000, Time 0.339
+Cycle 35, K  8 (12), Loss 0.533, Prec 1.000, Time 0.256
+Cycle 35, K  9 (17), Loss 11.788, Prec 0.844, Time 0.237
+Cycle 35, K 10 ( 5), Loss 8.678, Prec 0.844, Time 0.210
+Cycle 35, K 11 ( 0), Loss 23.597, Prec 0.875, Time 0.232
+Cycle 35, K 12 (35), Loss 4.619, Prec 0.969, Time 0.559
+Cycle 35, K 13 (49), Loss 0.079, Prec 1.000, Time 0.218
+Cycle 35, K 14 (36), Loss 4.896, Prec 0.969, Time 0.281
+Cycle 35, K 15 (21), Loss 23.724, Prec 0.812, Time 0.528
+Cycle 35, K 16 ( 3), Loss 0.015, Prec 1.000, Time 0.216
+Cycle 35, K 17 (46), Loss 0.134, Prec 1.000, Time 0.199
+Cycle 35, K 18 (57), Loss 9.686, Prec 0.875, Time 0.241
+Cycle 35, K 19 (19), Loss 7.679, Prec 0.938, Time 0.250
+Cycle 35, K 20 (48), Loss 11.933, Prec 0.938, Time 0.511
+Cycle 35, K 21 (45), Loss 12.944, Prec 0.875, Time 0.456
+Cycle 35, K 22 (39), Loss 21.330, Prec 0.812, Time 0.292
+Cycle 35, K 23 (26), Loss 13.872, Prec 0.844, Time 0.208
+Cycle 35, K 24 ( 9), Loss 16.983, Prec 0.844, Time 0.257
+Cycle 35, K 25 (34), Loss 8.214, Prec 0.938, Time 0.262
+Cycle 35, K 26 (11), Loss 3.347, Prec 0.969, Time 0.320
+Cycle 35, K 27 (22), Loss 14.489, Prec 0.875, Time 0.360
+Cycle 35, K 28 (41), Loss 4.029, Prec 0.969, Time 0.252
+Cycle 35, K 29 (13), Loss 7.675, Prec 0.938, Time 0.181
+Cycle 35, K 30 (38), Loss 20.187, Prec 0.875, Time 0.260
+Cycle 35, K 31 ( 6), Loss 2.565, Prec 1.000, Time 0.288
+Cycle 35, K 32 (40), Loss 7.779, Prec 0.938, Time 0.282
+Cycle 35, K 33 (25), Loss 22.876, Prec 0.906, Time 0.431
+Cycle 35, K 34 (20), Loss 15.357, Prec 0.875, Time 0.395
+Cycle 35, K 35 (10), Loss 11.944, Prec 0.906, Time 0.289
+Cycle 35, K 36 (31), Loss 5.881, Prec 0.969, Time 0.184
+Cycle 35, K 37 (33), Loss 16.872, Prec 0.812, Time 0.208
+Cycle 35, K 38 ( 4), Loss 25.696, Prec 0.906, Time 0.313
+Cycle 35, K 39 (18), Loss 32.655, Prec 0.844, Time 0.306
+Cycle 35, K 40 (32), Loss 0.273, Prec 1.000, Time 0.219
+Cycle 35, K 41 (52), Loss 15.479, Prec 0.906, Time 0.227
+Cycle 35, K 42 (23), Loss 1.158, Prec 1.000, Time 0.221
+Cycle 35, K 43 (24), Loss 17.982, Prec 0.844, Time 0.273
+Cycle 35, K 44 (14), Loss 14.397, Prec 0.938, Time 0.299
+Cycle 35, K 45 ( 2), Loss 11.445, Prec 0.844, Time 0.726
+Cycle 35, K 46 (37), Loss 7.061, Prec 0.969, Time 0.260
+Cycle 35, K 47 (42), Loss 2.859, Prec 1.000, Time 0.263
+Cycle 35, K 48 (30), Loss 11.741, Prec 0.938, Time 0.374
+Cycle 35, K 49 ( 1), Loss 39.421, Prec 0.875, Time 0.389
+Cycle 35, K 50 (15), Loss 16.957, Prec 0.938, Time 0.267
+Cycle 35, K 51 (28), Loss 7.435, Prec 0.938, Time 0.259
+Cycle 35, K 52 (29), Loss 0.499, Prec 1.000, Time 0.212
+Cycle 35, K 53 (47), Loss 9.678, Prec 0.906, Time 0.373
+Cycle 35, K 54 (55), Loss 6.604, Prec 0.938, Time 0.273
+Cycle 35, K 55 (51), Loss 13.385, Prec 0.906, Time 0.269
+Cycle 35, K 56 (53), Loss 3.000, Prec 0.969, Time 0.211
+Cycle 35, K 57 (27), Loss 23.089, Prec 0.906, Time 0.230
+Mean Precision: 0.918
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 36 ====
+Cycle 36, K  0 (49), Loss 0.007, Prec 1.000, Time 0.403
+Cycle 36, K  1 (48), Loss 12.023, Prec 0.938, Time 0.794
+Cycle 36, K  2 (31), Loss 1.057, Prec 0.969, Time 0.217
+Cycle 36, K  3 (51), Loss 1.286, Prec 1.000, Time 0.291
+Cycle 36, K  4 (25), Loss 32.614, Prec 0.781, Time 0.379
+Cycle 36, K  5 (34), Loss 10.893, Prec 0.938, Time 0.311
+Cycle 36, K  6 ( 7), Loss 62.008, Prec 0.656, Time 0.235
+Cycle 36, K  7 (11), Loss 17.324, Prec 0.906, Time 0.375
+Cycle 36, K  8 (56), Loss 1.188, Prec 1.000, Time 0.311
+Cycle 36, K  9 (16), Loss 22.237, Prec 0.875, Time 0.225
+Cycle 36, K 10 (54), Loss 10.795, Prec 0.938, Time 0.346
+Cycle 36, K 11 (22), Loss 10.748, Prec 0.875, Time 0.329
+Cycle 36, K 12 (10), Loss 6.267, Prec 0.938, Time 0.269
+Cycle 36, K 13 (55), Loss 5.619, Prec 0.906, Time 0.248
+Cycle 36, K 14 (12), Loss 0.312, Prec 1.000, Time 0.261
+Cycle 36, K 15 ( 1), Loss 5.617, Prec 0.938, Time 0.348
+Cycle 36, K 16 ( 9), Loss 8.421, Prec 0.938, Time 0.307
+Cycle 36, K 17 (32), Loss 6.165, Prec 0.969, Time 0.213
+Cycle 36, K 18 (36), Loss 6.060, Prec 0.938, Time 0.263
+Cycle 36, K 19 (45), Loss 7.821, Prec 0.938, Time 0.285
+Cycle 36, K 20 (41), Loss 13.774, Prec 0.906, Time 0.273
+Cycle 36, K 21 (23), Loss 3.272, Prec 0.969, Time 0.203
+Cycle 36, K 22 (42), Loss 0.676, Prec 1.000, Time 0.248
+Cycle 36, K 23 (44), Loss 0.768, Prec 0.969, Time 0.299
+Cycle 36, K 24 (29), Loss 0.204, Prec 1.000, Time 0.236
+Cycle 36, K 25 (24), Loss 17.035, Prec 0.906, Time 0.304
+Cycle 36, K 26 ( 8), Loss 16.919, Prec 0.906, Time 0.260
+Cycle 36, K 27 (14), Loss 3.588, Prec 0.938, Time 0.333
+Cycle 36, K 28 (15), Loss 17.466, Prec 0.906, Time 0.275
+Cycle 36, K 29 (57), Loss 9.982, Prec 0.906, Time 0.237
+Cycle 36, K 30 (19), Loss 11.592, Prec 0.938, Time 0.234
+Cycle 36, K 31 (17), Loss 14.929, Prec 0.875, Time 0.240
+Cycle 36, K 32 (52), Loss 4.114, Prec 0.938, Time 0.223
+Cycle 36, K 33 (43), Loss 5.446, Prec 0.969, Time 0.208
+Cycle 36, K 34 (21), Loss 25.591, Prec 0.875, Time 0.467
+Cycle 36, K 35 (50), Loss 0.371, Prec 1.000, Time 0.253
+Cycle 36, K 36 (28), Loss 16.528, Prec 0.875, Time 0.274
+Cycle 36, K 37 ( 4), Loss 13.943, Prec 0.938, Time 0.294
+Cycle 36, K 38 ( 0), Loss 23.305, Prec 0.875, Time 0.227
+Cycle 36, K 39 (47), Loss 24.062, Prec 0.812, Time 0.338
+Cycle 36, K 40 (53), Loss 2.246, Prec 1.000, Time 0.204
+Cycle 36, K 41 ( 5), Loss 20.343, Prec 0.875, Time 0.206
+Cycle 36, K 42 (30), Loss 5.931, Prec 0.938, Time 0.362
+Cycle 36, K 43 (35), Loss 1.716, Prec 1.000, Time 0.608
+Cycle 36, K 44 (37), Loss 0.051, Prec 1.000, Time 0.255
+Cycle 36, K 45 ( 3), Loss 0.011, Prec 1.000, Time 0.220
+Cycle 36, K 46 (13), Loss 10.709, Prec 0.844, Time 0.194
+Cycle 36, K 47 (18), Loss 8.291, Prec 0.938, Time 0.321
+Cycle 36, K 48 (27), Loss 34.564, Prec 0.781, Time 0.211
+Cycle 36, K 49 (46), Loss 9.030, Prec 0.938, Time 0.171
+Cycle 36, K 50 (33), Loss 12.868, Prec 0.875, Time 0.233
+Cycle 36, K 51 (38), Loss 11.559, Prec 0.969, Time 0.257
+Cycle 36, K 52 (39), Loss 18.173, Prec 0.812, Time 0.274
+Cycle 36, K 53 ( 6), Loss 0.877, Prec 1.000, Time 0.284
+Cycle 36, K 54 (20), Loss 23.074, Prec 0.906, Time 0.394
+Cycle 36, K 55 (26), Loss 10.906, Prec 0.906, Time 0.200
+Cycle 36, K 56 (40), Loss 1.628, Prec 0.938, Time 0.274
+Cycle 36, K 57 ( 2), Loss 17.539, Prec 0.844, Time 0.792
+Mean Precision: 0.922
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 37 ====
+Cycle 37, K  0 (38), Loss 2.865, Prec 0.969, Time 0.371
+Cycle 37, K  1 (25), Loss 65.971, Prec 0.704, Time 0.369
+Cycle 37, K  2 (43), Loss 3.805, Prec 0.969, Time 0.222
+Cycle 37, K  3 (44), Loss 1.346, Prec 1.000, Time 0.435
+Cycle 37, K  4 (17), Loss 28.923, Prec 0.750, Time 0.242
+Cycle 37, K  5 (50), Loss 0.671, Prec 1.000, Time 0.265
+Cycle 37, K  6 (14), Loss 8.455, Prec 0.875, Time 0.332
+Cycle 37, K  7 (21), Loss 22.420, Prec 0.875, Time 0.430
+Cycle 37, K  8 (35), Loss 9.997, Prec 0.969, Time 0.513
+Cycle 37, K  9 (42), Loss 0.027, Prec 1.000, Time 0.274
+Cycle 37, K 10 (56), Loss 0.743, Prec 0.969, Time 0.335
+Cycle 37, K 11 (29), Loss 0.933, Prec 1.000, Time 0.220
+Cycle 37, K 12 ( 7), Loss 55.311, Prec 0.531, Time 0.208
+Cycle 37, K 13 (30), Loss 6.515, Prec 0.938, Time 0.388
+Cycle 37, K 14 (15), Loss 22.308, Prec 0.875, Time 0.289
+Cycle 37, K 15 ( 5), Loss 16.494, Prec 0.875, Time 0.189
+Cycle 37, K 16 (26), Loss 9.971, Prec 0.906, Time 0.208
+Cycle 37, K 17 (28), Loss 18.129, Prec 0.906, Time 0.275
+Cycle 37, K 18 (23), Loss 6.174, Prec 0.938, Time 0.209
+Cycle 37, K 19 ( 0), Loss 8.866, Prec 0.906, Time 0.267
+Cycle 37, K 20 ( 9), Loss 30.747, Prec 0.906, Time 0.273
+Cycle 37, K 21 (33), Loss 16.828, Prec 0.906, Time 0.199
+Cycle 37, K 22 (40), Loss 6.416, Prec 0.969, Time 0.247
+Cycle 37, K 23 (52), Loss 6.132, Prec 0.938, Time 0.223
+Cycle 37, K 24 (24), Loss 12.190, Prec 0.938, Time 0.247
+Cycle 37, K 25 (51), Loss 1.129, Prec 1.000, Time 0.268
+Cycle 37, K 26 (32), Loss 11.076, Prec 0.969, Time 0.232
+Cycle 37, K 27 (45), Loss 16.794, Prec 0.906, Time 0.418
+Cycle 37, K 28 ( 3), Loss 2.294, Prec 1.000, Time 0.234
+Cycle 37, K 29 (12), Loss 1.341, Prec 1.000, Time 0.263
+Cycle 37, K 30 (57), Loss 17.783, Prec 0.906, Time 0.213
+Cycle 37, K 31 (36), Loss 10.006, Prec 0.938, Time 0.263
+Cycle 37, K 32 (34), Loss 10.559, Prec 0.906, Time 0.248
+Cycle 37, K 33 (53), Loss 9.384, Prec 0.938, Time 0.203
+Cycle 37, K 34 (49), Loss 2.817, Prec 0.969, Time 0.239
+Cycle 37, K 35 (39), Loss 18.017, Prec 0.938, Time 0.263
+Cycle 37, K 36 (27), Loss 14.167, Prec 0.906, Time 0.223
+Cycle 37, K 37 (20), Loss 16.886, Prec 0.906, Time 0.364
+Cycle 37, K 38 (54), Loss 47.821, Prec 0.906, Time 0.341
+Cycle 37, K 39 (10), Loss 3.697, Prec 0.969, Time 0.264
+Cycle 37, K 40 (48), Loss 7.157, Prec 0.969, Time 0.755
+Cycle 37, K 41 ( 2), Loss 9.847, Prec 0.938, Time 0.760
+Cycle 37, K 42 (31), Loss 1.707, Prec 0.969, Time 0.207
+Cycle 37, K 43 (11), Loss 11.678, Prec 0.969, Time 0.294
+Cycle 37, K 44 (55), Loss 2.392, Prec 1.000, Time 0.251
+Cycle 37, K 45 (47), Loss 5.925, Prec 0.938, Time 0.323
+Cycle 37, K 46 (41), Loss 5.686, Prec 1.000, Time 0.265
+Cycle 37, K 47 (46), Loss 1.314, Prec 0.969, Time 0.211
+Cycle 37, K 48 ( 6), Loss 2.858, Prec 0.969, Time 0.265
+Cycle 37, K 49 (19), Loss 4.173, Prec 0.969, Time 0.234
+Cycle 37, K 50 ( 8), Loss 6.417, Prec 0.906, Time 0.252
+Cycle 37, K 51 ( 1), Loss 9.044, Prec 0.938, Time 0.327
+Cycle 37, K 52 ( 4), Loss 25.459, Prec 0.906, Time 0.277
+Cycle 37, K 53 (16), Loss 5.111, Prec 0.938, Time 0.217
+Cycle 37, K 54 (22), Loss 17.674, Prec 0.812, Time 0.352
+Cycle 37, K 55 (18), Loss 2.760, Prec 0.969, Time 0.305
+Cycle 37, K 56 (13), Loss 2.746, Prec 0.969, Time 0.195
+Cycle 37, K 57 (37), Loss 1.043, Prec 1.000, Time 0.224
+Mean Precision: 0.929
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 38 ====
+Cycle 38, K  0 ( 1), Loss 6.482, Prec 0.906, Time 0.309
+Cycle 38, K  1 (13), Loss 14.422, Prec 0.906, Time 0.192
+Cycle 38, K  2 ( 4), Loss 10.665, Prec 0.969, Time 0.284
+Cycle 38, K  3 (33), Loss 8.892, Prec 0.906, Time 0.239
+Cycle 38, K  4 (17), Loss 33.156, Prec 0.688, Time 0.234
+Cycle 38, K  5 ( 6), Loss 8.830, Prec 0.938, Time 0.275
+Cycle 38, K  6 (27), Loss 23.852, Prec 0.812, Time 0.236
+Cycle 38, K  7 ( 7), Loss 51.095, Prec 0.500, Time 0.213
+Cycle 38, K  8 (39), Loss 25.794, Prec 0.812, Time 0.276
+Cycle 38, K  9 (30), Loss 9.171, Prec 0.938, Time 0.398
+Cycle 38, K 10 (40), Loss 7.529, Prec 0.938, Time 0.275
+Cycle 38, K 11 (21), Loss 12.722, Prec 0.875, Time 0.438
+Cycle 38, K 12 (56), Loss 1.853, Prec 0.969, Time 0.306
+Cycle 38, K 13 (53), Loss 11.064, Prec 0.875, Time 0.218
+Cycle 38, K 14 (10), Loss 13.506, Prec 0.906, Time 0.287
+Cycle 38, K 15 (25), Loss 35.833, Prec 0.906, Time 0.458
+Cycle 38, K 16 (36), Loss 12.739, Prec 0.938, Time 0.251
+Cycle 38, K 17 ( 8), Loss 3.534, Prec 0.938, Time 0.249
+Cycle 38, K 18 (26), Loss 14.362, Prec 0.906, Time 0.205
+Cycle 38, K 19 (51), Loss 5.699, Prec 0.969, Time 0.286
+Cycle 38, K 20 (48), Loss 7.515, Prec 0.906, Time 0.799
+Cycle 38, K 21 (45), Loss 10.238, Prec 0.938, Time 0.483
+Cycle 38, K 22 (43), Loss 1.781, Prec 0.969, Time 0.188
+Cycle 38, K 23 (42), Loss 0.361, Prec 1.000, Time 0.333
+Cycle 38, K 24 (47), Loss 9.652, Prec 0.906, Time 0.336
+Cycle 38, K 25 (37), Loss 0.643, Prec 1.000, Time 0.223
+Cycle 38, K 26 (12), Loss 1.368, Prec 1.000, Time 0.254
+Cycle 38, K 27 (24), Loss 11.338, Prec 0.906, Time 0.259
+Cycle 38, K 28 (19), Loss 5.440, Prec 0.969, Time 0.279
+Cycle 38, K 29 (52), Loss 9.257, Prec 1.000, Time 0.211
+Cycle 38, K 30 (34), Loss 20.825, Prec 0.815, Time 0.264
+Cycle 38, K 31 (20), Loss 20.290, Prec 0.812, Time 0.374
+Cycle 38, K 32 (54), Loss 6.625, Prec 0.938, Time 0.358
+Cycle 38, K 33 (22), Loss 14.487, Prec 0.906, Time 0.310
+Cycle 38, K 34 (57), Loss 10.249, Prec 0.875, Time 0.263
+Cycle 38, K 35 (50), Loss 3.247, Prec 0.969, Time 0.262
+Cycle 38, K 36 ( 3), Loss 0.031, Prec 1.000, Time 0.236
+Cycle 38, K 37 (31), Loss 1.441, Prec 1.000, Time 0.194
+Cycle 38, K 38 ( 2), Loss 11.809, Prec 0.875, Time 0.750
+Cycle 38, K 39 ( 5), Loss 19.515, Prec 0.781, Time 0.217
+Cycle 38, K 40 (14), Loss 14.847, Prec 0.938, Time 0.324
+Cycle 38, K 41 (49), Loss 0.948, Prec 1.000, Time 0.226
+Cycle 38, K 42 (32), Loss 0.414, Prec 1.000, Time 0.249
+Cycle 38, K 43 (38), Loss 3.747, Prec 0.906, Time 0.259
+Cycle 38, K 44 ( 9), Loss 25.531, Prec 0.844, Time 0.290
+Cycle 38, K 45 (28), Loss 19.990, Prec 0.875, Time 0.257
+Cycle 38, K 46 (15), Loss 38.969, Prec 0.781, Time 0.237
+Cycle 38, K 47 (11), Loss 22.534, Prec 0.938, Time 0.295
+Cycle 38, K 48 (35), Loss 0.783, Prec 1.000, Time 0.747
+Cycle 38, K 49 (16), Loss 35.019, Prec 0.875, Time 0.215
+Cycle 38, K 50 (46), Loss 0.303, Prec 1.000, Time 0.164
+Cycle 38, K 51 (18), Loss 1.005, Prec 0.969, Time 0.303
+Cycle 38, K 52 ( 0), Loss 17.652, Prec 0.875, Time 0.240
+Cycle 38, K 53 (23), Loss 2.435, Prec 0.969, Time 0.203
+Cycle 38, K 54 (44), Loss 0.551, Prec 1.000, Time 0.381
+Cycle 38, K 55 (29), Loss 1.078, Prec 0.969, Time 0.171
+Cycle 38, K 56 (55), Loss 7.771, Prec 0.938, Time 0.243
+Cycle 38, K 57 (41), Loss 12.104, Prec 0.875, Time 0.253
+Mean Precision: 0.912
+==== Start Cycle 39 ====
+Cycle 39, K  0 (10), Loss 28.222, Prec 0.906, Time 0.263
+Cycle 39, K  1 ( 4), Loss 1.903, Prec 0.969, Time 0.298
+Cycle 39, K  2 (44), Loss 12.638, Prec 0.875, Time 0.367
+Cycle 39, K  3 (47), Loss 16.754, Prec 0.875, Time 0.332
+Cycle 39, K  4 ( 3), Loss 0.030, Prec 1.000, Time 0.216
+Cycle 39, K  5 (27), Loss 15.300, Prec 0.781, Time 0.219
+Cycle 39, K  6 (48), Loss 6.332, Prec 0.938, Time 0.819
+Cycle 39, K  7 (29), Loss 1.087, Prec 1.000, Time 0.209
+Cycle 39, K  8 (25), Loss 13.027, Prec 0.906, Time 0.421
+Cycle 39, K  9 (50), Loss 2.811, Prec 0.969, Time 0.233
+Cycle 39, K 10 (38), Loss 18.345, Prec 0.875, Time 0.218
+Cycle 39, K 11 (41), Loss 10.136, Prec 0.906, Time 0.283
+Cycle 39, K 12 (52), Loss 7.116, Prec 0.875, Time 0.209
+Cycle 39, K 13 (55), Loss 29.041, Prec 0.875, Time 0.243
+Cycle 39, K 14 (40), Loss 1.726, Prec 0.969, Time 0.253
+Cycle 39, K 15 ( 7), Loss 48.059, Prec 0.562, Time 0.229
+Cycle 39, K 16 (22), Loss 28.040, Prec 0.875, Time 0.319
+Cycle 39, K 17 (19), Loss 6.354, Prec 0.906, Time 0.222
+Cycle 39, K 18 (35), Loss 4.295, Prec 0.969, Time 0.637
+Cycle 39, K 19 (16), Loss 15.874, Prec 0.875, Time 0.219
+Cycle 39, K 20 (46), Loss 0.071, Prec 1.000, Time 0.168
+Cycle 39, K 21 (54), Loss 18.342, Prec 0.844, Time 0.392
+Cycle 39, K 22 (18), Loss 11.502, Prec 0.938, Time 0.294
+Cycle 39, K 23 (11), Loss 26.087, Prec 0.844, Time 0.282
+Cycle 39, K 24 ( 2), Loss 6.730, Prec 0.938, Time 0.773
+Cycle 39, K 25 (42), Loss 6.484, Prec 0.969, Time 0.239
+Cycle 39, K 26 (32), Loss 1.687, Prec 1.000, Time 0.194
+Cycle 39, K 27 (17), Loss 7.551, Prec 0.875, Time 0.224
+Cycle 39, K 28 (33), Loss 18.560, Prec 0.844, Time 0.212
+Cycle 39, K 29 (45), Loss 3.977, Prec 0.969, Time 0.429
+Cycle 39, K 30 (51), Loss 3.791, Prec 0.938, Time 0.281
+Cycle 39, K 31 (31), Loss 2.993, Prec 0.969, Time 0.217
+Cycle 39, K 32 (20), Loss 6.127, Prec 0.906, Time 0.417
+Cycle 39, K 33 ( 5), Loss 21.380, Prec 0.812, Time 0.184
+Cycle 39, K 34 (53), Loss 1.975, Prec 0.969, Time 0.202
+Cycle 39, K 35 (34), Loss 16.476, Prec 0.906, Time 0.290
+Cycle 39, K 36 ( 8), Loss 9.680, Prec 0.906, Time 0.244
+Cycle 39, K 37 (56), Loss 6.833, Prec 1.000, Time 0.339
+Cycle 39, K 38 (30), Loss 13.678, Prec 0.969, Time 0.349
+Cycle 39, K 39 (21), Loss 12.943, Prec 0.844, Time 0.408
+Cycle 39, K 40 (13), Loss 6.511, Prec 0.969, Time 0.173
+Cycle 39, K 41 (12), Loss 1.898, Prec 1.000, Time 0.272
+Cycle 39, K 42 ( 9), Loss 21.703, Prec 0.875, Time 0.276
+Cycle 39, K 43 (26), Loss 17.053, Prec 0.781, Time 0.181
+Cycle 39, K 44 (24), Loss 8.073, Prec 0.906, Time 0.254
+Cycle 39, K 45 (57), Loss 3.650, Prec 0.906, Time 0.254
+Cycle 39, K 46 (39), Loss 22.720, Prec 0.844, Time 0.227
+Cycle 39, K 47 ( 6), Loss 1.466, Prec 1.000, Time 0.274
+Cycle 39, K 48 ( 1), Loss 11.228, Prec 0.844, Time 0.309
+Cycle 39, K 49 (37), Loss 0.089, Prec 1.000, Time 0.250
+Cycle 39, K 50 (15), Loss 4.540, Prec 0.938, Time 0.239
+Cycle 39, K 51 (28), Loss 17.894, Prec 0.844, Time 0.244
+Cycle 39, K 52 (14), Loss 10.428, Prec 0.875, Time 0.302
+Cycle 39, K 53 ( 0), Loss 28.625, Prec 0.844, Time 0.217
+Cycle 39, K 54 (43), Loss 5.118, Prec 0.969, Time 0.198
+Cycle 39, K 55 (23), Loss 2.602, Prec 0.969, Time 0.178
+Cycle 39, K 56 (36), Loss 4.065, Prec 0.906, Time 0.253
+Cycle 39, K 57 (49), Loss 1.369, Prec 0.969, Time 0.218
+Mean Precision: 0.910
+==== Start Cycle 40 ====
+Cycle 40, K  0 (13), Loss 15.618, Prec 0.875, Time 0.208
+Cycle 40, K  1 (16), Loss 11.388, Prec 0.938, Time 0.229
+Cycle 40, K  2 (49), Loss 0.254, Prec 1.000, Time 0.214
+Cycle 40, K  3 (17), Loss 16.822, Prec 0.875, Time 0.247
+Cycle 40, K  4 (10), Loss 9.787, Prec 0.938, Time 0.274
+Cycle 40, K  5 (39), Loss 7.708, Prec 0.938, Time 0.219
+Cycle 40, K  6 ( 2), Loss 14.490, Prec 0.821, Time 0.632
+Cycle 40, K  7 (33), Loss 12.774, Prec 0.906, Time 0.216
+Cycle 40, K  8 (11), Loss 12.128, Prec 0.938, Time 0.334
+Cycle 40, K  9 (29), Loss 0.389, Prec 1.000, Time 0.199
+Cycle 40, K 10 ( 5), Loss 12.765, Prec 0.906, Time 0.209
+Cycle 40, K 11 (41), Loss 15.565, Prec 0.938, Time 0.281
+Cycle 40, K 12 (12), Loss 4.940, Prec 0.969, Time 0.270
+Cycle 40, K 13 (31), Loss 3.167, Prec 0.969, Time 0.205
+Cycle 40, K 14 ( 7), Loss 52.105, Prec 0.594, Time 0.208
+Cycle 40, K 15 (47), Loss 14.082, Prec 0.906, Time 0.361
+Cycle 40, K 16 (34), Loss 20.049, Prec 0.969, Time 0.257
+Cycle 40, K 17 ( 3), Loss 0.019, Prec 1.000, Time 0.207
+Cycle 40, K 18 (15), Loss 19.367, Prec 0.906, Time 0.239
+Cycle 40, K 19 (40), Loss 2.002, Prec 0.969, Time 0.276
+Cycle 40, K 20 (57), Loss 6.265, Prec 0.938, Time 0.231
+Cycle 40, K 21 (37), Loss 5.545, Prec 1.000, Time 0.237
+Cycle 40, K 22 (28), Loss 36.993, Prec 0.750, Time 0.264
+Cycle 40, K 23 (24), Loss 10.034, Prec 0.906, Time 0.236
+Cycle 40, K 24 (38), Loss 3.491, Prec 0.938, Time 0.237
+Cycle 40, K 25 ( 9), Loss 12.578, Prec 0.938, Time 0.281
+Cycle 40, K 26 (56), Loss 1.344, Prec 1.000, Time 0.302
+Cycle 40, K 27 (23), Loss 1.513, Prec 0.969, Time 0.213
+Cycle 40, K 28 (27), Loss 36.762, Prec 0.750, Time 0.250
+Cycle 40, K 29 (43), Loss 7.673, Prec 0.969, Time 0.190
+Cycle 40, K 30 (46), Loss 0.043, Prec 1.000, Time 0.170
+Cycle 40, K 31 (44), Loss 7.659, Prec 0.938, Time 0.395
+Cycle 40, K 32 (42), Loss 5.092, Prec 0.969, Time 0.251
+Cycle 40, K 33 (45), Loss 10.881, Prec 0.906, Time 0.414
+Cycle 40, K 34 ( 0), Loss 12.676, Prec 0.906, Time 0.219
+Cycle 40, K 35 (51), Loss 2.271, Prec 1.000, Time 0.259
+Cycle 40, K 36 (26), Loss 18.710, Prec 0.781, Time 0.188
+Cycle 40, K 37 (48), Loss 6.259, Prec 0.969, Time 0.678
+Cycle 40, K 38 (53), Loss 19.768, Prec 0.938, Time 0.172
+Cycle 40, K 39 (52), Loss 9.212, Prec 0.938, Time 0.208
+Cycle 40, K 40 (19), Loss 9.566, Prec 0.938, Time 0.238
+Cycle 40, K 41 ( 4), Loss 23.910, Prec 0.906, Time 0.262
+Cycle 40, K 42 (50), Loss 2.463, Prec 0.938, Time 0.243
+Cycle 40, K 43 (36), Loss 4.804, Prec 1.000, Time 0.287
+Cycle 40, K 44 (54), Loss 21.152, Prec 0.812, Time 0.375
+Cycle 40, K 45 (32), Loss 3.031, Prec 0.969, Time 0.207
+Cycle 40, K 46 (22), Loss 11.803, Prec 0.906, Time 0.337
+Cycle 40, K 47 ( 6), Loss 2.974, Prec 0.969, Time 0.280
+Cycle 40, K 48 (21), Loss 44.530, Prec 0.781, Time 0.533
+Cycle 40, K 49 (35), Loss 2.256, Prec 1.000, Time 0.575
+Cycle 40, K 50 (25), Loss 9.417, Prec 0.875, Time 0.421
+Cycle 40, K 51 ( 1), Loss 11.508, Prec 0.938, Time 0.298
+Cycle 40, K 52 ( 8), Loss 3.489, Prec 0.969, Time 0.250
+Cycle 40, K 53 (30), Loss 26.992, Prec 0.875, Time 0.335
+Cycle 40, K 54 (14), Loss 5.336, Prec 0.969, Time 0.311
+Cycle 40, K 55 (20), Loss 16.058, Prec 0.906, Time 0.371
+Cycle 40, K 56 (55), Loss 21.874, Prec 0.844, Time 0.243
+Cycle 40, K 57 (18), Loss 8.051, Prec 0.938, Time 0.319
+Mean Precision: 0.920
+==== Start Cycle 41 ====
+Cycle 41, K  0 (53), Loss 16.467, Prec 0.875, Time 0.197
+Cycle 41, K  1 (25), Loss 5.751, Prec 0.906, Time 0.395
+Cycle 41, K  2 (45), Loss 14.512, Prec 0.969, Time 0.413
+Cycle 41, K  3 (38), Loss 20.648, Prec 0.875, Time 0.271
+Cycle 41, K  4 (27), Loss 38.602, Prec 0.781, Time 0.198
+Cycle 41, K  5 (32), Loss 3.312, Prec 0.969, Time 0.196
+Cycle 41, K  6 (16), Loss 33.606, Prec 0.812, Time 0.240
+Cycle 41, K  7 (30), Loss 6.354, Prec 0.969, Time 0.342
+Cycle 41, K  8 (56), Loss 0.168, Prec 1.000, Time 0.311
+Cycle 41, K  9 (23), Loss 7.119, Prec 0.969, Time 0.199
+Cycle 41, K 10 (41), Loss 14.985, Prec 0.844, Time 0.232
+Cycle 41, K 11 (50), Loss 0.606, Prec 1.000, Time 0.238
+Cycle 41, K 12 (43), Loss 5.482, Prec 0.938, Time 0.211
+Cycle 41, K 13 ( 4), Loss 21.127, Prec 0.875, Time 0.316
+Cycle 41, K 14 (57), Loss 14.106, Prec 0.875, Time 0.227
+Cycle 41, K 15 (29), Loss 1.894, Prec 1.000, Time 0.197
+Cycle 41, K 16 ( 0), Loss 12.814, Prec 0.844, Time 0.222
+Cycle 41, K 17 (26), Loss 13.556, Prec 0.875, Time 0.199
+Cycle 41, K 18 (33), Loss 21.092, Prec 0.906, Time 0.213
+Cycle 41, K 19 (11), Loss 15.629, Prec 0.938, Time 0.297
+Cycle 41, K 20 (10), Loss 33.025, Prec 0.844, Time 0.279
+Cycle 41, K 21 (44), Loss 1.176, Prec 0.969, Time 0.378
+Cycle 41, K 22 (48), Loss 13.168, Prec 0.906, Time 0.685
+Cycle 41, K 23 (34), Loss 15.601, Prec 0.875, Time 0.272
+Cycle 41, K 24 ( 2), Loss 22.378, Prec 0.906, Time 0.798
+Cycle 41, K 25 (54), Loss 12.612, Prec 0.938, Time 0.355
+Cycle 41, K 26 (18), Loss 11.849, Prec 0.906, Time 0.278
+Cycle 41, K 27 (21), Loss 13.353, Prec 0.906, Time 0.462
+Cycle 41, K 28 ( 9), Loss 16.426, Prec 0.906, Time 0.281
+Cycle 41, K 29 (40), Loss 1.257, Prec 0.969, Time 0.254
+Cycle 41, K 30 (12), Loss 0.686, Prec 1.000, Time 0.246
+Cycle 41, K 31 (37), Loss 0.930, Prec 1.000, Time 0.240
+Cycle 41, K 32 ( 7), Loss 46.965, Prec 0.656, Time 0.193
+Cycle 41, K 33 (14), Loss 2.100, Prec 1.000, Time 0.294
+Cycle 41, K 34 (28), Loss 14.950, Prec 0.906, Time 0.261
+Cycle 41, K 35 (17), Loss 15.037, Prec 0.875, Time 0.221
+Cycle 41, K 36 (31), Loss 1.899, Prec 1.000, Time 0.189
+Cycle 41, K 37 (42), Loss 0.091, Prec 1.000, Time 0.246
+Cycle 41, K 38 ( 8), Loss 5.427, Prec 0.969, Time 0.244
+Cycle 41, K 39 ( 6), Loss 9.383, Prec 0.969, Time 0.262
+Cycle 41, K 40 (13), Loss 3.399, Prec 0.969, Time 0.199
+Cycle 41, K 41 (15), Loss 13.123, Prec 0.906, Time 0.233
+Cycle 41, K 42 (47), Loss 14.416, Prec 0.906, Time 0.316
+Cycle 41, K 43 ( 3), Loss 0.984, Prec 1.000, Time 0.226
+Cycle 41, K 44 (46), Loss 0.112, Prec 1.000, Time 0.162
+Cycle 41, K 45 ( 5), Loss 10.258, Prec 0.875, Time 0.203
+Cycle 41, K 46 (52), Loss 5.628, Prec 0.938, Time 0.220
+Cycle 41, K 47 (35), Loss 3.762, Prec 1.000, Time 0.492
+Cycle 41, K 48 (49), Loss 0.856, Prec 0.969, Time 0.203
+Cycle 41, K 49 (51), Loss 5.646, Prec 0.969, Time 0.266
+Cycle 41, K 50 (20), Loss 28.716, Prec 0.875, Time 0.423
+Cycle 41, K 51 ( 1), Loss 29.935, Prec 0.812, Time 0.292
+Cycle 41, K 52 (39), Loss 22.054, Prec 0.781, Time 0.227
+Cycle 41, K 53 (24), Loss 8.064, Prec 0.906, Time 0.230
+Cycle 41, K 54 (22), Loss 17.854, Prec 0.781, Time 0.337
+Cycle 41, K 55 (19), Loss 8.483, Prec 0.875, Time 0.275
+Cycle 41, K 56 (55), Loss 24.485, Prec 0.938, Time 0.242
+Cycle 41, K 57 (36), Loss 5.639, Prec 1.000, Time 0.269
+Mean Precision: 0.918
+==== Start Cycle 42 ====
+Cycle 42, K  0 (56), Loss 0.967, Prec 1.000, Time 0.316
+Cycle 42, K  1 (20), Loss 6.089, Prec 0.938, Time 0.368
+Cycle 42, K  2 (10), Loss 13.756, Prec 0.844, Time 0.283
+Cycle 42, K  3 (18), Loss 2.534, Prec 0.969, Time 0.320
+Cycle 42, K  4 (36), Loss 2.231, Prec 0.969, Time 0.245
+Cycle 42, K  5 (41), Loss 13.372, Prec 0.875, Time 0.253
+Cycle 42, K  6 ( 6), Loss 4.151, Prec 0.969, Time 0.276
+Cycle 42, K  7 ( 8), Loss 12.669, Prec 0.906, Time 0.258
+Cycle 42, K  8 (40), Loss 4.077, Prec 1.000, Time 0.292
+Cycle 42, K  9 (44), Loss 7.219, Prec 0.906, Time 0.367
+Cycle 42, K 10 (45), Loss 7.243, Prec 0.938, Time 0.425
+Cycle 42, K 11 (28), Loss 24.657, Prec 0.844, Time 0.267
+Cycle 42, K 12 ( 1), Loss 24.578, Prec 0.844, Time 0.280
+Cycle 42, K 13 (16), Loss 8.313, Prec 0.906, Time 0.204
+Cycle 42, K 14 (30), Loss 3.869, Prec 0.938, Time 0.343
+Cycle 42, K 15 (23), Loss 1.278, Prec 0.969, Time 0.184
+Cycle 42, K 16 ( 4), Loss 5.396, Prec 1.000, Time 0.295
+Cycle 42, K 17 ( 2), Loss 8.855, Prec 0.938, Time 0.708
+Cycle 42, K 18 (52), Loss 13.169, Prec 0.906, Time 0.209
+Cycle 42, K 19 (48), Loss 0.766, Prec 1.000, Time 0.677
+Cycle 42, K 20 ( 5), Loss 14.768, Prec 0.844, Time 0.201
+Cycle 42, K 21 (24), Loss 8.049, Prec 0.938, Time 0.226
+Cycle 42, K 22 ( 3), Loss 0.009, Prec 1.000, Time 0.216
+Cycle 42, K 23 (26), Loss 26.145, Prec 0.719, Time 0.218
+Cycle 42, K 24 (11), Loss 17.239, Prec 0.844, Time 0.337
+Cycle 42, K 25 (49), Loss 0.088, Prec 1.000, Time 0.213
+Cycle 42, K 26 (47), Loss 11.897, Prec 0.906, Time 0.305
+Cycle 42, K 27 (53), Loss 8.262, Prec 0.938, Time 0.205
+Cycle 42, K 28 ( 7), Loss 67.643, Prec 0.531, Time 0.222
+Cycle 42, K 29 (39), Loss 14.399, Prec 0.906, Time 0.220
+Cycle 42, K 30 ( 0), Loss 33.195, Prec 0.781, Time 0.217
+Cycle 42, K 31 (35), Loss 2.092, Prec 0.969, Time 0.717
+Cycle 42, K 32 (17), Loss 11.996, Prec 0.844, Time 0.264
+Cycle 42, K 33 (19), Loss 1.179, Prec 0.969, Time 0.247
+Cycle 42, K 34 (46), Loss 0.006, Prec 1.000, Time 0.198
+Cycle 42, K 35 (27), Loss 14.812, Prec 0.844, Time 0.204
+Cycle 42, K 36 (25), Loss 26.607, Prec 0.906, Time 0.431
+Cycle 42, K 37 ( 9), Loss 8.730, Prec 0.906, Time 0.301
+Cycle 42, K 38 (31), Loss 2.396, Prec 1.000, Time 0.221
+Cycle 42, K 39 (14), Loss 1.392, Prec 1.000, Time 0.327
+Cycle 42, K 40 (15), Loss 18.038, Prec 0.844, Time 0.260
+Cycle 42, K 41 (50), Loss 3.042, Prec 0.969, Time 0.253
+Cycle 42, K 42 (51), Loss 3.214, Prec 0.969, Time 0.309
+Cycle 42, K 43 (12), Loss 0.133, Prec 1.000, Time 0.360
+Cycle 42, K 44 (22), Loss 14.421, Prec 0.906, Time 0.328
+Cycle 42, K 45 (54), Loss 17.541, Prec 0.906, Time 0.331
+Cycle 42, K 46 (55), Loss 22.273, Prec 0.844, Time 0.247
+Cycle 42, K 47 (29), Loss 0.426, Prec 1.000, Time 0.175
+Cycle 42, K 48 (13), Loss 8.617, Prec 0.875, Time 0.181
+Cycle 42, K 49 (32), Loss 2.166, Prec 1.000, Time 0.181
+Cycle 42, K 50 (38), Loss 5.649, Prec 0.969, Time 0.225
+Cycle 42, K 51 (21), Loss 37.644, Prec 0.656, Time 0.442
+Cycle 42, K 52 (33), Loss 2.590, Prec 0.969, Time 0.226
+Cycle 42, K 53 (37), Loss 0.005, Prec 1.000, Time 0.256
+Cycle 42, K 54 (57), Loss 10.568, Prec 0.875, Time 0.242
+Cycle 42, K 55 (34), Loss 7.460, Prec 0.906, Time 0.249
+Cycle 42, K 56 (43), Loss 3.165, Prec 1.000, Time 0.201
+Cycle 42, K 57 (42), Loss 1.063, Prec 0.969, Time 0.255
+Mean Precision: 0.916
+==== Start Cycle 43 ====
+Cycle 43, K  0 ( 2), Loss 8.069, Prec 0.906, Time 0.699
+Cycle 43, K  1 (48), Loss 20.704, Prec 0.969, Time 0.541
+Cycle 43, K  2 (14), Loss 2.695, Prec 0.969, Time 0.342
+Cycle 43, K  3 (46), Loss 4.704, Prec 0.969, Time 0.181
+Cycle 43, K  4 (57), Loss 20.195, Prec 0.906, Time 0.199
+Cycle 43, K  5 (19), Loss 6.406, Prec 0.969, Time 0.221
+Cycle 43, K  6 (30), Loss 4.841, Prec 0.938, Time 0.385
+Cycle 43, K  7 (55), Loss 6.372, Prec 0.969, Time 0.248
+Cycle 43, K  8 (13), Loss 1.974, Prec 0.969, Time 0.199
+Cycle 43, K  9 (50), Loss 1.354, Prec 1.000, Time 0.242
+Cycle 43, K 10 (36), Loss 15.776, Prec 0.969, Time 0.250
+Cycle 43, K 11 (42), Loss 0.914, Prec 1.000, Time 0.222
+Cycle 43, K 12 (34), Loss 18.406, Prec 0.875, Time 0.263
+Cycle 43, K 13 (37), Loss 0.028, Prec 1.000, Time 0.224
+Cycle 43, K 14 (18), Loss 8.475, Prec 0.969, Time 0.338
+Cycle 43, K 15 (43), Loss 3.629, Prec 1.000, Time 0.180
+Cycle 43, K 16 (11), Loss 6.640, Prec 0.938, Time 0.291
+Cycle 43, K 17 (27), Loss 9.562, Prec 0.906, Time 0.214
+Cycle 43, K 18 (49), Loss 2.385, Prec 1.000, Time 0.192
+Cycle 43, K 19 (21), Loss 17.099, Prec 0.750, Time 0.451
+Cycle 43, K 20 ( 8), Loss 7.853, Prec 0.969, Time 0.245
+Cycle 43, K 21 (52), Loss 4.948, Prec 0.969, Time 0.222
+Cycle 43, K 22 (39), Loss 17.991, Prec 0.969, Time 0.293
+Cycle 43, K 23 (23), Loss 16.278, Prec 0.938, Time 0.222
+Cycle 43, K 24 (33), Loss 10.699, Prec 0.906, Time 0.230
+Cycle 43, K 25 ( 5), Loss 17.014, Prec 0.844, Time 0.207
+Cycle 43, K 26 (15), Loss 15.290, Prec 0.812, Time 0.235
+Cycle 43, K 27 ( 7), Loss 50.781, Prec 0.594, Time 0.207
+Cycle 43, K 28 (20), Loss 7.586, Prec 0.969, Time 0.342
+Cycle 43, K 29 (53), Loss 8.551, Prec 0.875, Time 0.190
+Cycle 43, K 30 (41), Loss 6.577, Prec 0.906, Time 0.253
+Cycle 43, K 31 (32), Loss 2.160, Prec 0.969, Time 0.216
+Cycle 43, K 32 (28), Loss 26.991, Prec 0.875, Time 0.266
+Cycle 43, K 33 ( 0), Loss 18.848, Prec 0.812, Time 0.198
+Cycle 43, K 34 (16), Loss 20.455, Prec 0.844, Time 0.219
+Cycle 43, K 35 (51), Loss 1.836, Prec 1.000, Time 0.288
+Cycle 43, K 36 (40), Loss 6.387, Prec 0.938, Time 0.242
+Cycle 43, K 37 (10), Loss 8.894, Prec 0.938, Time 0.265
+Cycle 43, K 38 ( 1), Loss 5.449, Prec 0.938, Time 0.353
+Cycle 43, K 39 (31), Loss 18.597, Prec 0.906, Time 0.175
+Cycle 43, K 40 (29), Loss 4.394, Prec 1.000, Time 0.182
+Cycle 43, K 41 (56), Loss 0.583, Prec 1.000, Time 0.352
+Cycle 43, K 42 (45), Loss 4.461, Prec 0.969, Time 0.356
+Cycle 43, K 43 ( 3), Loss 0.078, Prec 1.000, Time 0.222
+Cycle 43, K 44 (17), Loss 12.448, Prec 0.812, Time 0.246
+Cycle 43, K 45 (22), Loss 7.758, Prec 0.938, Time 0.337
+Cycle 43, K 46 (26), Loss 14.773, Prec 0.906, Time 0.178
+Cycle 43, K 47 (25), Loss 13.319, Prec 0.906, Time 0.396
+Cycle 43, K 48 (47), Loss 16.640, Prec 0.906, Time 0.335
+Cycle 43, K 49 ( 9), Loss 12.621, Prec 0.938, Time 0.286
+Cycle 43, K 50 (12), Loss 3.017, Prec 0.969, Time 0.260
+Cycle 43, K 51 (38), Loss 5.594, Prec 0.938, Time 0.241
+Cycle 43, K 52 (54), Loss 38.045, Prec 0.781, Time 0.302
+Cycle 43, K 53 (35), Loss 6.024, Prec 0.969, Time 0.435
+Cycle 43, K 54 ( 4), Loss 4.434, Prec 0.969, Time 0.305
+Cycle 43, K 55 (24), Loss 7.352, Prec 0.938, Time 0.229
+Cycle 43, K 56 (44), Loss 8.360, Prec 0.938, Time 0.325
+Cycle 43, K 57 ( 6), Loss 5.324, Prec 0.938, Time 0.262
+Mean Precision: 0.927
+==== Start Cycle 44 ====
+Cycle 44, K  0 (42), Loss 2.730, Prec 1.000, Time 0.239
+Cycle 44, K  1 (12), Loss 6.487, Prec 0.969, Time 0.237
+Cycle 44, K  2 (30), Loss 6.421, Prec 0.938, Time 0.371
+Cycle 44, K  3 (16), Loss 7.985, Prec 0.938, Time 0.210
+Cycle 44, K  4 (27), Loss 22.918, Prec 0.844, Time 0.188
+Cycle 44, K  5 (53), Loss 5.560, Prec 0.969, Time 0.185
+Cycle 44, K  6 (41), Loss 6.444, Prec 0.969, Time 0.245
+Cycle 44, K  7 (21), Loss 23.906, Prec 0.875, Time 0.449
+Cycle 44, K  8 (44), Loss 0.503, Prec 1.000, Time 0.302
+Cycle 44, K  9 (25), Loss 9.479, Prec 0.929, Time 0.357
+Cycle 44, K 10 (34), Loss 11.372, Prec 0.906, Time 0.240
+Cycle 44, K 11 (55), Loss 5.925, Prec 0.938, Time 0.241
+Cycle 44, K 12 ( 5), Loss 13.440, Prec 0.875, Time 0.207
+Cycle 44, K 13 (40), Loss 3.912, Prec 0.969, Time 0.267
+Cycle 44, K 14 (43), Loss 0.746, Prec 0.969, Time 0.177
+Cycle 44, K 15 (26), Loss 12.585, Prec 0.875, Time 0.188
+Cycle 44, K 16 (56), Loss 4.192, Prec 1.000, Time 0.312
+Cycle 44, K 17 (14), Loss 5.619, Prec 0.969, Time 0.332
+Cycle 44, K 18 ( 3), Loss 0.032, Prec 1.000, Time 0.225
+Cycle 44, K 19 (23), Loss 5.163, Prec 0.938, Time 0.197
+Cycle 44, K 20 (10), Loss 15.690, Prec 0.906, Time 0.268
+Cycle 44, K 21 (31), Loss 0.473, Prec 1.000, Time 0.176
+Cycle 44, K 22 (35), Loss 5.544, Prec 0.969, Time 0.592
+Cycle 44, K 23 (22), Loss 13.593, Prec 0.875, Time 0.328
+Cycle 44, K 24 (29), Loss 4.326, Prec 0.969, Time 0.199
+Cycle 44, K 25 (51), Loss 2.412, Prec 0.969, Time 0.288
+Cycle 44, K 26 (36), Loss 11.716, Prec 0.906, Time 0.249
+Cycle 44, K 27 (19), Loss 3.968, Prec 0.969, Time 0.206
+Cycle 44, K 28 (13), Loss 3.600, Prec 0.969, Time 0.176
+Cycle 44, K 29 (46), Loss 17.454, Prec 0.969, Time 0.193
+Cycle 44, K 30 (47), Loss 13.031, Prec 0.875, Time 0.348
+Cycle 44, K 31 ( 6), Loss 6.073, Prec 0.938, Time 0.268
+Cycle 44, K 32 ( 0), Loss 11.429, Prec 0.875, Time 0.235
+Cycle 44, K 33 (15), Loss 12.708, Prec 0.875, Time 0.223
+Cycle 44, K 34 (18), Loss 9.952, Prec 0.969, Time 0.300
+Cycle 44, K 35 ( 9), Loss 13.371, Prec 0.906, Time 0.283
+Cycle 44, K 36 (32), Loss 3.868, Prec 0.969, Time 0.200
+Cycle 44, K 37 (20), Loss 10.049, Prec 0.938, Time 0.363
+Cycle 44, K 38 ( 7), Loss 54.606, Prec 0.562, Time 0.192
+Cycle 44, K 39 (11), Loss 4.597, Prec 0.938, Time 0.292
+Cycle 44, K 40 ( 8), Loss 7.182, Prec 0.938, Time 0.259
+Cycle 44, K 41 ( 1), Loss 11.734, Prec 0.875, Time 0.336
+Cycle 44, K 42 (24), Loss 10.842, Prec 0.938, Time 0.197
+Cycle 44, K 43 (33), Loss 12.756, Prec 0.844, Time 0.209
+Cycle 44, K 44 ( 4), Loss 10.556, Prec 0.938, Time 0.295
+Cycle 44, K 45 (28), Loss 22.885, Prec 0.812, Time 0.264
+Cycle 44, K 46 (17), Loss 23.478, Prec 0.812, Time 0.251
+Cycle 44, K 47 (52), Loss 5.776, Prec 0.938, Time 0.212
+Cycle 44, K 48 (54), Loss 16.817, Prec 0.812, Time 0.308
+Cycle 44, K 49 (50), Loss 2.807, Prec 0.938, Time 0.227
+Cycle 44, K 50 (57), Loss 1.314, Prec 0.938, Time 0.222
+Cycle 44, K 51 (49), Loss 0.155, Prec 1.000, Time 0.208
+Cycle 44, K 52 ( 2), Loss 13.753, Prec 0.812, Time 0.680
+Cycle 44, K 53 (37), Loss 0.701, Prec 1.000, Time 0.251
+Cycle 44, K 54 (45), Loss 9.365, Prec 0.906, Time 0.459
+Cycle 44, K 55 (38), Loss 2.381, Prec 1.000, Time 0.229
+Cycle 44, K 56 (48), Loss 2.058, Prec 0.969, Time 0.734
+Cycle 44, K 57 (39), Loss 15.777, Prec 0.875, Time 0.215
+Mean Precision: 0.923
+==== Start Cycle 45 ====
+Cycle 45, K  0 (38), Loss 8.406, Prec 0.906, Time 0.201
+Cycle 45, K  1 (35), Loss 2.750, Prec 0.969, Time 0.519
+Cycle 45, K  2 (23), Loss 6.708, Prec 0.969, Time 0.209
+Cycle 45, K  3 (40), Loss 3.340, Prec 0.969, Time 0.237
+Cycle 45, K  4 (41), Loss 9.050, Prec 0.875, Time 0.230
+Cycle 45, K  5 (25), Loss 3.153, Prec 1.000, Time 0.395
+Cycle 45, K  6 (57), Loss 7.424, Prec 0.906, Time 0.233
+Cycle 45, K  7 (27), Loss 19.626, Prec 0.906, Time 0.188
+Cycle 45, K  8 ( 0), Loss 38.074, Prec 0.750, Time 0.242
+Cycle 45, K  9 ( 3), Loss 0.019, Prec 1.000, Time 0.237
+Cycle 45, K 10 (17), Loss 23.527, Prec 0.844, Time 0.222
+Cycle 45, K 11 (24), Loss 11.188, Prec 0.938, Time 0.239
+Cycle 45, K 12 ( 5), Loss 5.185, Prec 0.969, Time 0.197
+Cycle 45, K 13 (42), Loss 0.087, Prec 1.000, Time 0.276
+Cycle 45, K 14 ( 8), Loss 5.288, Prec 0.938, Time 0.245
+Cycle 45, K 15 (10), Loss 15.902, Prec 0.906, Time 0.277
+Cycle 45, K 16 (37), Loss 1.926, Prec 1.000, Time 0.267
+Cycle 45, K 17 (29), Loss 0.433, Prec 1.000, Time 0.256
+Cycle 45, K 18 (31), Loss 4.210, Prec 1.000, Time 0.181
+Cycle 45, K 19 (36), Loss 10.057, Prec 0.938, Time 0.253
+Cycle 45, K 20 (43), Loss 6.384, Prec 0.938, Time 0.207
+Cycle 45, K 21 (46), Loss 0.409, Prec 1.000, Time 0.201
+Cycle 45, K 22 (21), Loss 26.258, Prec 0.812, Time 0.465
+Cycle 45, K 23 (48), Loss 1.522, Prec 1.000, Time 0.509
+Cycle 45, K 24 (19), Loss 27.658, Prec 0.875, Time 0.236
+Cycle 45, K 25 (47), Loss 11.832, Prec 0.844, Time 0.346
+Cycle 45, K 26 (20), Loss 15.397, Prec 0.906, Time 0.448
+Cycle 45, K 27 (56), Loss 0.507, Prec 0.969, Time 0.378
+Cycle 45, K 28 (14), Loss 12.220, Prec 0.938, Time 0.342
+Cycle 45, K 29 (28), Loss 25.185, Prec 0.812, Time 0.268
+Cycle 45, K 30 (34), Loss 12.397, Prec 0.875, Time 0.260
+Cycle 45, K 31 ( 7), Loss 66.221, Prec 0.375, Time 0.209
+Cycle 45, K 32 (12), Loss 0.161, Prec 1.000, Time 0.254
+Cycle 45, K 33 (18), Loss 6.789, Prec 0.938, Time 0.293
+Cycle 45, K 34 (49), Loss 5.581, Prec 0.969, Time 0.223
+Cycle 45, K 35 (13), Loss 5.718, Prec 0.875, Time 0.180
+Cycle 45, K 36 (15), Loss 17.806, Prec 0.875, Time 0.244
+Cycle 45, K 37 ( 1), Loss 7.967, Prec 0.938, Time 0.365
+Cycle 45, K 38 (52), Loss 7.121, Prec 0.938, Time 0.224
+Cycle 45, K 39 (55), Loss 12.864, Prec 0.938, Time 0.267
+Cycle 45, K 40 (26), Loss 14.888, Prec 0.906, Time 0.224
+Cycle 45, K 41 (33), Loss 13.600, Prec 0.938, Time 0.203
+Cycle 45, K 42 (51), Loss 9.685, Prec 0.938, Time 0.304
+Cycle 45, K 43 (11), Loss 4.631, Prec 0.938, Time 0.320
+Cycle 45, K 44 ( 9), Loss 9.068, Prec 0.906, Time 0.295
+Cycle 45, K 45 (53), Loss 10.414, Prec 0.906, Time 0.190
+Cycle 45, K 46 (45), Loss 23.589, Prec 0.875, Time 0.545
+Cycle 45, K 47 (50), Loss 0.572, Prec 1.000, Time 0.242
+Cycle 45, K 48 ( 2), Loss 4.820, Prec 0.938, Time 0.824
+Cycle 45, K 49 (22), Loss 17.841, Prec 0.875, Time 0.319
+Cycle 45, K 50 (30), Loss 9.760, Prec 0.875, Time 0.349
+Cycle 45, K 51 ( 6), Loss 5.481, Prec 0.938, Time 0.269
+Cycle 45, K 52 (16), Loss 9.941, Prec 0.938, Time 0.204
+Cycle 45, K 53 (39), Loss 13.577, Prec 0.875, Time 0.219
+Cycle 45, K 54 (54), Loss 15.891, Prec 0.906, Time 0.292
+Cycle 45, K 55 (44), Loss 2.988, Prec 0.969, Time 0.316
+Cycle 45, K 56 (32), Loss 0.485, Prec 1.000, Time 0.183
+Cycle 45, K 57 ( 4), Loss 16.364, Prec 0.906, Time 0.275
+Mean Precision: 0.918
+==== Start Cycle 46 ====
+Cycle 46, K  0 (50), Loss 1.043, Prec 0.969, Time 0.226
+Cycle 46, K  1 ( 7), Loss 61.146, Prec 0.500, Time 0.198
+Cycle 46, K  2 (49), Loss 26.694, Prec 0.906, Time 0.222
+Cycle 46, K  3 (30), Loss 14.384, Prec 0.906, Time 0.355
+Cycle 46, K  4 (56), Loss 6.014, Prec 0.969, Time 0.340
+Cycle 46, K  5 (41), Loss 1.192, Prec 1.000, Time 0.189
+Cycle 46, K  6 (10), Loss 16.932, Prec 0.906, Time 0.250
+Cycle 46, K  7 ( 6), Loss 5.401, Prec 1.000, Time 0.258
+Cycle 46, K  8 (25), Loss 7.361, Prec 0.938, Time 0.365
+Cycle 46, K  9 (16), Loss 7.563, Prec 0.938, Time 0.191
+Cycle 46, K 10 (53), Loss 2.944, Prec 0.969, Time 0.196
+Cycle 46, K 11 (29), Loss 2.846, Prec 0.938, Time 0.174
+Cycle 46, K 12 (37), Loss 0.151, Prec 1.000, Time 0.248
+Cycle 46, K 13 (38), Loss 7.921, Prec 0.906, Time 0.232
+Cycle 46, K 14 (28), Loss 22.113, Prec 0.844, Time 0.251
+Cycle 46, K 15 (13), Loss 7.921, Prec 0.938, Time 0.199
+Cycle 46, K 16 (46), Loss 3.268, Prec 0.969, Time 0.179
+Cycle 46, K 17 (40), Loss 8.654, Prec 0.938, Time 0.250
+Cycle 46, K 18 (39), Loss 14.039, Prec 0.906, Time 0.241
+Cycle 46, K 19 (52), Loss 9.307, Prec 0.969, Time 0.219
+Cycle 46, K 20 (20), Loss 13.509, Prec 0.875, Time 0.432
+Cycle 46, K 21 (32), Loss 0.298, Prec 0.969, Time 0.199
+Cycle 46, K 22 (57), Loss 12.337, Prec 0.938, Time 0.219
+Cycle 46, K 23 (24), Loss 10.047, Prec 0.906, Time 0.202
+Cycle 46, K 24 (45), Loss 5.152, Prec 0.938, Time 0.345
+Cycle 46, K 25 (51), Loss 3.999, Prec 0.969, Time 0.264
+Cycle 46, K 26 ( 2), Loss 12.519, Prec 0.844, Time 0.699
+Cycle 46, K 27 (23), Loss 2.114, Prec 0.969, Time 0.199
+Cycle 46, K 28 (43), Loss 4.491, Prec 0.969, Time 0.190
+Cycle 46, K 29 (44), Loss 8.614, Prec 0.938, Time 0.334
+Cycle 46, K 30 (42), Loss 0.835, Prec 1.000, Time 0.224
+Cycle 46, K 31 (31), Loss 4.876, Prec 0.938, Time 0.188
+Cycle 46, K 32 (17), Loss 9.651, Prec 0.875, Time 0.228
+Cycle 46, K 33 (15), Loss 6.505, Prec 0.969, Time 0.228
+Cycle 46, K 34 (11), Loss 19.907, Prec 0.938, Time 0.313
+Cycle 46, K 35 ( 1), Loss 15.454, Prec 0.906, Time 0.321
+Cycle 46, K 36 (27), Loss 13.891, Prec 0.875, Time 0.206
+Cycle 46, K 37 (14), Loss 1.439, Prec 0.969, Time 0.290
+Cycle 46, K 38 (33), Loss 9.743, Prec 0.938, Time 0.212
+Cycle 46, K 39 (48), Loss 8.813, Prec 0.969, Time 0.615
+Cycle 46, K 40 (36), Loss 6.376, Prec 0.969, Time 0.257
+Cycle 46, K 41 ( 8), Loss 5.834, Prec 0.969, Time 0.248
+Cycle 46, K 42 ( 9), Loss 13.945, Prec 0.906, Time 0.305
+Cycle 46, K 43 (19), Loss 7.224, Prec 0.969, Time 0.192
+Cycle 46, K 44 (54), Loss 6.999, Prec 0.906, Time 0.312
+Cycle 46, K 45 (22), Loss 13.186, Prec 0.875, Time 0.303
+Cycle 46, K 46 (47), Loss 12.969, Prec 0.844, Time 0.323
+Cycle 46, K 47 (35), Loss 2.968, Prec 1.000, Time 0.591
+Cycle 46, K 48 ( 0), Loss 37.038, Prec 0.719, Time 0.236
+Cycle 46, K 49 (55), Loss 17.667, Prec 0.875, Time 0.245
+Cycle 46, K 50 (12), Loss 0.112, Prec 1.000, Time 0.261
+Cycle 46, K 51 (18), Loss 8.711, Prec 0.969, Time 0.302
+Cycle 46, K 52 ( 5), Loss 15.321, Prec 0.812, Time 0.187
+Cycle 46, K 53 ( 4), Loss 3.921, Prec 0.969, Time 0.284
+Cycle 46, K 54 (21), Loss 19.382, Prec 0.812, Time 0.511
+Cycle 46, K 55 ( 3), Loss 1.017, Prec 1.000, Time 0.205
+Cycle 46, K 56 (34), Loss 14.760, Prec 0.938, Time 0.211
+Cycle 46, K 57 (26), Loss 11.592, Prec 0.938, Time 0.198
+Mean Precision: 0.923
+==== Start Cycle 47 ====
+Cycle 47, K  0 (56), Loss 0.063, Prec 1.000, Time 0.349
+Cycle 47, K  1 (42), Loss 1.585, Prec 0.969, Time 0.235
+Cycle 47, K  2 (37), Loss 0.516, Prec 1.000, Time 0.258
+Cycle 47, K  3 (54), Loss 11.592, Prec 0.969, Time 0.294
+Cycle 47, K  4 (48), Loss 9.005, Prec 0.906, Time 0.725
+Cycle 47, K  5 (44), Loss 2.103, Prec 0.969, Time 0.296
+Cycle 47, K  6 (36), Loss 19.614, Prec 0.906, Time 0.256
+Cycle 47, K  7 (13), Loss 18.150, Prec 0.875, Time 0.223
+Cycle 47, K  8 (24), Loss 17.706, Prec 0.906, Time 0.226
+Cycle 47, K  9 (35), Loss 2.521, Prec 0.969, Time 0.583
+Cycle 47, K 10 ( 0), Loss 11.490, Prec 0.906, Time 0.218
+Cycle 47, K 11 (29), Loss 0.340, Prec 1.000, Time 0.171
+Cycle 47, K 12 (12), Loss 1.970, Prec 1.000, Time 0.203
+Cycle 47, K 13 (38), Loss 9.875, Prec 0.938, Time 0.232
+Cycle 47, K 14 (11), Loss 22.839, Prec 0.938, Time 0.323
+Cycle 47, K 15 (27), Loss 12.006, Prec 0.875, Time 0.187
+Cycle 47, K 16 ( 9), Loss 11.916, Prec 0.906, Time 0.265
+Cycle 47, K 17 (28), Loss 32.355, Prec 0.844, Time 0.285
+Cycle 47, K 18 (21), Loss 17.588, Prec 0.906, Time 0.457
+Cycle 47, K 19 (43), Loss 0.980, Prec 1.000, Time 0.184
+Cycle 47, K 20 (50), Loss 1.473, Prec 1.000, Time 0.227
+Cycle 47, K 21 (46), Loss 1.524, Prec 1.000, Time 0.188
+Cycle 47, K 22 (31), Loss 4.083, Prec 0.969, Time 0.174
+Cycle 47, K 23 (22), Loss 24.488, Prec 0.875, Time 0.327
+Cycle 47, K 24 ( 7), Loss 51.761, Prec 0.562, Time 0.194
+Cycle 47, K 25 (23), Loss 5.604, Prec 0.969, Time 0.188
+Cycle 47, K 26 (39), Loss 21.139, Prec 0.906, Time 0.224
+Cycle 47, K 27 (10), Loss 8.646, Prec 0.875, Time 0.265
+Cycle 47, K 28 ( 1), Loss 6.574, Prec 0.969, Time 0.364
+Cycle 47, K 29 (30), Loss 12.126, Prec 0.906, Time 0.343
+Cycle 47, K 30 (16), Loss 3.000, Prec 1.000, Time 0.185
+Cycle 47, K 31 (34), Loss 12.396, Prec 0.906, Time 0.256
+Cycle 47, K 32 (41), Loss 9.422, Prec 0.875, Time 0.200
+Cycle 47, K 33 (57), Loss 4.059, Prec 0.969, Time 0.256
+Cycle 47, K 34 ( 4), Loss 16.084, Prec 0.906, Time 0.292
+Cycle 47, K 35 ( 5), Loss 13.034, Prec 0.938, Time 0.220
+Cycle 47, K 36 (33), Loss 10.620, Prec 0.938, Time 0.220
+Cycle 47, K 37 ( 6), Loss 4.322, Prec 0.969, Time 0.284
+Cycle 47, K 38 ( 2), Loss 6.280, Prec 0.938, Time 0.686
+Cycle 47, K 39 (52), Loss 5.877, Prec 0.969, Time 0.229
+Cycle 47, K 40 (19), Loss 5.158, Prec 1.000, Time 0.221
+Cycle 47, K 41 ( 3), Loss 0.127, Prec 1.000, Time 0.227
+Cycle 47, K 42 (25), Loss 17.772, Prec 0.969, Time 0.407
+Cycle 47, K 43 (15), Loss 8.556, Prec 0.938, Time 0.238
+Cycle 47, K 44 (53), Loss 4.358, Prec 0.938, Time 0.192
+Cycle 47, K 45 (55), Loss 11.773, Prec 0.938, Time 0.261
+Cycle 47, K 46 (32), Loss 3.694, Prec 1.000, Time 0.211
+Cycle 47, K 47 (51), Loss 0.994, Prec 1.000, Time 0.319
+Cycle 47, K 48 (40), Loss 7.511, Prec 0.938, Time 0.260
+Cycle 47, K 49 (18), Loss 2.187, Prec 1.000, Time 0.314
+Cycle 47, K 50 (45), Loss 3.328, Prec 0.969, Time 0.439
+Cycle 47, K 51 (20), Loss 7.364, Prec 0.906, Time 0.473
+Cycle 47, K 52 (17), Loss 4.487, Prec 0.938, Time 0.230
+Cycle 47, K 53 (26), Loss 21.248, Prec 0.750, Time 0.174
+Cycle 47, K 54 (47), Loss 21.695, Prec 0.906, Time 0.318
+Cycle 47, K 55 ( 8), Loss 8.838, Prec 0.938, Time 0.245
+Cycle 47, K 56 (14), Loss 8.236, Prec 0.938, Time 0.286
+Cycle 47, K 57 (49), Loss 0.098, Prec 1.000, Time 0.199
+Mean Precision: 0.936
+Save model to ../models/mdnet_vot-otb_new.pth
+==== Start Cycle 48 ====
+Cycle 48, K  0 (51), Loss 0.266, Prec 1.000, Time 0.273
+Cycle 48, K  1 (33), Loss 6.823, Prec 0.906, Time 0.220
+Cycle 48, K  2 (14), Loss 0.493, Prec 1.000, Time 0.323
+Cycle 48, K  3 (22), Loss 16.104, Prec 0.906, Time 0.361
+Cycle 48, K  4 (31), Loss 2.616, Prec 0.969, Time 0.181
+Cycle 48, K  5 ( 3), Loss 0.102, Prec 1.000, Time 0.225
+Cycle 48, K  6 (57), Loss 5.576, Prec 0.969, Time 0.248
+Cycle 48, K  7 (44), Loss 6.987, Prec 0.906, Time 0.341
+Cycle 48, K  8 (30), Loss 15.452, Prec 0.875, Time 0.375
+Cycle 48, K  9 ( 6), Loss 0.880, Prec 0.969, Time 0.274
+Cycle 48, K 10 (55), Loss 5.080, Prec 0.969, Time 0.244
+Cycle 48, K 11 (50), Loss 2.269, Prec 1.000, Time 0.236
+Cycle 48, K 12 (47), Loss 19.634, Prec 0.875, Time 0.326
+Cycle 48, K 13 (24), Loss 9.777, Prec 0.938, Time 0.231
+Cycle 48, K 14 (16), Loss 10.641, Prec 0.969, Time 0.204
+Cycle 48, K 15 (34), Loss 6.370, Prec 0.906, Time 0.271
+Cycle 48, K 16 (56), Loss 8.849, Prec 0.969, Time 0.347
+Cycle 48, K 17 ( 9), Loss 4.555, Prec 0.906, Time 0.308
+Cycle 48, K 18 ( 1), Loss 6.532, Prec 0.906, Time 0.294
+Cycle 48, K 19 (23), Loss 3.774, Prec 0.969, Time 0.187
+Cycle 48, K 20 (11), Loss 8.336, Prec 0.906, Time 0.320
+Cycle 48, K 21 (42), Loss 5.819, Prec 1.000, Time 0.300
+Cycle 48, K 22 (25), Loss 25.631, Prec 0.906, Time 0.389
+Cycle 48, K 23 (40), Loss 3.749, Prec 0.969, Time 0.273
+Cycle 48, K 24 (46), Loss 0.721, Prec 1.000, Time 0.193
+Cycle 48, K 25 (19), Loss 4.075, Prec 0.969, Time 0.237
+Cycle 48, K 26 (15), Loss 4.148, Prec 0.969, Time 0.246
+Cycle 48, K 27 (18), Loss 0.757, Prec 0.969, Time 0.312
+Cycle 48, K 28 (45), Loss 15.722, Prec 0.938, Time 0.395
+Cycle 48, K 29 ( 0), Loss 9.626, Prec 0.875, Time 0.271
+Cycle 48, K 30 (36), Loss 5.320, Prec 0.938, Time 0.242
+Cycle 48, K 31 (10), Loss 10.327, Prec 0.938, Time 0.287
+Cycle 48, K 32 (35), Loss 4.377, Prec 0.969, Time 0.571
+Cycle 48, K 33 ( 2), Loss 9.884, Prec 0.938, Time 0.835
+Cycle 48, K 34 (29), Loss 0.117, Prec 1.000, Time 0.208
+Cycle 48, K 35 (38), Loss 28.529, Prec 0.875, Time 0.255
+Cycle 48, K 36 ( 5), Loss 4.938, Prec 0.938, Time 0.212
+Cycle 48, K 37 (53), Loss 13.534, Prec 0.906, Time 0.194
+Cycle 48, K 38 (39), Loss 14.082, Prec 0.812, Time 0.253
+Cycle 48, K 39 (52), Loss 4.731, Prec 0.938, Time 0.231
+Cycle 48, K 40 (48), Loss 1.751, Prec 1.000, Time 0.507
+Cycle 48, K 41 (32), Loss 2.189, Prec 0.969, Time 0.203
+Cycle 48, K 42 (26), Loss 19.729, Prec 0.875, Time 0.192
+Cycle 48, K 43 (13), Loss 7.219, Prec 0.906, Time 0.197
+Cycle 48, K 44 (41), Loss 10.401, Prec 0.938, Time 0.228
+Cycle 48, K 45 (17), Loss 4.634, Prec 0.969, Time 0.239
+Cycle 48, K 46 (27), Loss 21.102, Prec 0.875, Time 0.177
+Cycle 48, K 47 ( 7), Loss 48.019, Prec 0.594, Time 0.208
+Cycle 48, K 48 ( 8), Loss 6.700, Prec 0.969, Time 0.250
+Cycle 48, K 49 (21), Loss 12.924, Prec 0.875, Time 0.526
+Cycle 48, K 50 (37), Loss 0.851, Prec 0.969, Time 0.258
+Cycle 48, K 51 (49), Loss 0.053, Prec 1.000, Time 0.219
+Cycle 48, K 52 (54), Loss 12.590, Prec 0.844, Time 0.313
+Cycle 48, K 53 (12), Loss 2.330, Prec 1.000, Time 0.250
+Cycle 48, K 54 (43), Loss 1.646, Prec 1.000, Time 0.215
+Cycle 48, K 55 ( 4), Loss 25.662, Prec 0.906, Time 0.294
+Cycle 48, K 56 (20), Loss 17.154, Prec 0.844, Time 0.439
+Cycle 48, K 57 (28), Loss 37.298, Prec 0.875, Time 0.278
+Mean Precision: 0.932
+==== Start Cycle 49 ====
+Cycle 49, K  0 (32), Loss 1.248, Prec 1.000, Time 0.204
+Cycle 49, K  1 (50), Loss 1.163, Prec 1.000, Time 0.257
+Cycle 49, K  2 (42), Loss 4.250, Prec 0.969, Time 0.282
+Cycle 49, K  3 (30), Loss 15.180, Prec 0.906, Time 0.395
+Cycle 49, K  4 (53), Loss 8.065, Prec 0.969, Time 0.218
+Cycle 49, K  5 (31), Loss 6.481, Prec 0.969, Time 0.198
+Cycle 49, K  6 ( 7), Loss 42.040, Prec 0.656, Time 0.205
+Cycle 49, K  7 (54), Loss 19.140, Prec 0.875, Time 0.312
+Cycle 49, K  8 (16), Loss 3.557, Prec 0.969, Time 0.223
+Cycle 49, K  9 (57), Loss 14.126, Prec 0.938, Time 0.253
+Cycle 49, K 10 (25), Loss 12.335, Prec 0.906, Time 0.416
+Cycle 49, K 11 (56), Loss 0.146, Prec 1.000, Time 0.318
+Cycle 49, K 12 ( 0), Loss 8.558, Prec 0.938, Time 0.245
+Cycle 49, K 13 (52), Loss 15.196, Prec 0.906, Time 0.232
+Cycle 49, K 14 (28), Loss 16.524, Prec 0.875, Time 0.265
+Cycle 49, K 15 (49), Loss 6.205, Prec 1.000, Time 0.228
+Cycle 49, K 16 (37), Loss 0.552, Prec 1.000, Time 0.270
+Cycle 49, K 17 ( 5), Loss 20.991, Prec 0.875, Time 0.201
+Cycle 49, K 18 (43), Loss 4.902, Prec 0.969, Time 0.211
+Cycle 49, K 19 (21), Loss 14.164, Prec 0.906, Time 0.496
+Cycle 49, K 20 (45), Loss 7.097, Prec 0.938, Time 0.346
+Cycle 49, K 21 (41), Loss 11.932, Prec 0.938, Time 0.216
+Cycle 49, K 22 ( 9), Loss 5.814, Prec 0.875, Time 0.273
+Cycle 49, K 23 ( 2), Loss 7.383, Prec 0.938, Time 0.794
+Cycle 49, K 24 (10), Loss 12.058, Prec 0.906, Time 0.300
+Cycle 49, K 25 (26), Loss 34.423, Prec 0.812, Time 0.193
+Cycle 49, K 26 (33), Loss 9.486, Prec 0.938, Time 0.218
+Cycle 49, K 27 (13), Loss 1.737, Prec 0.938, Time 0.259
+Cycle 49, K 28 (29), Loss 3.986, Prec 1.000, Time 0.180
+Cycle 49, K 29 (55), Loss 28.259, Prec 0.844, Time 0.260
+Cycle 49, K 30 (17), Loss 12.275, Prec 0.938, Time 0.269
+Cycle 49, K 31 (47), Loss 6.451, Prec 0.875, Time 0.345
+Cycle 49, K 32 (20), Loss 7.043, Prec 0.938, Time 0.357
+Cycle 49, K 33 (46), Loss 0.124, Prec 1.000, Time 0.209
+Cycle 49, K 34 (34), Loss 14.864, Prec 0.875, Time 0.293
+Cycle 49, K 35 (15), Loss 3.182, Prec 0.969, Time 0.271
+Cycle 49, K 36 ( 1), Loss 7.795, Prec 0.875, Time 0.338
+Cycle 49, K 37 (14), Loss 5.404, Prec 0.969, Time 0.340
+Cycle 49, K 38 (22), Loss 17.483, Prec 0.875, Time 0.338
+Cycle 49, K 39 (51), Loss 0.823, Prec 1.000, Time 0.265
+Cycle 49, K 40 (44), Loss 2.385, Prec 0.969, Time 0.336
+Cycle 49, K 41 ( 8), Loss 2.716, Prec 0.969, Time 0.252
+Cycle 49, K 42 (23), Loss 1.394, Prec 0.969, Time 0.208
+Cycle 49, K 43 (11), Loss 19.080, Prec 0.844, Time 0.304
+Cycle 49, K 44 (19), Loss 3.949, Prec 0.938, Time 0.221
+Cycle 49, K 45 (40), Loss 7.754, Prec 0.969, Time 0.250
+Cycle 49, K 46 (39), Loss 20.192, Prec 0.875, Time 0.213
+Cycle 49, K 47 (27), Loss 21.723, Prec 0.875, Time 0.192
+Cycle 49, K 48 (38), Loss 2.531, Prec 0.969, Time 0.244
+Cycle 49, K 49 (24), Loss 12.763, Prec 0.938, Time 0.240
+Cycle 49, K 50 (48), Loss 1.828, Prec 0.969, Time 0.570
+Cycle 49, K 51 ( 4), Loss 14.319, Prec 0.906, Time 0.269
+Cycle 49, K 52 (18), Loss 3.734, Prec 0.969, Time 0.312
+Cycle 49, K 53 ( 3), Loss 0.104, Prec 1.000, Time 0.249
+Cycle 49, K 54 (12), Loss 0.099, Prec 1.000, Time 0.214
+Cycle 49, K 55 (36), Loss 1.912, Prec 0.969, Time 0.279
+Cycle 49, K 56 ( 6), Loss 4.793, Prec 1.000, Time 0.273
+Cycle 49, K 57 (35), Loss 2.911, Prec 0.969, Time 0.653
+Mean Precision: 0.934
+
+Process finished with exit code 0
+
