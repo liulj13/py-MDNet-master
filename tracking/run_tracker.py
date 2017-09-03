@@ -21,11 +21,6 @@ from bbreg import *
 from options import *
 from gen_config import *
 
-np.random.seed(123)
-torch.manual_seed(456)
-torch.cuda.manual_seed(789)
-
-
 def forward_samples(model, image, samples, out_layer='conv3'):
     model.eval()  # Sets the module in evaluation mode. This has any effect only on modules such as Dropout or BatchNorm
 
@@ -120,6 +115,10 @@ def train(model, criterion, optimizer, pos_feats, neg_feats, maxiter, in_layer='
 
 
 def run_mdnet(img_list, init_bbox, gt=None, savefig_dir='', display=False):
+
+    np.random.seed(123)
+    torch.manual_seed(456)
+    torch.cuda.manual_seed(789)
 
     # Init bbox
     target_bbox = np.array(init_bbox)

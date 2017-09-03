@@ -1,5 +1,6 @@
 *.zip
 *.jpg
+*.pth
 result
 result_fig
 models/tmp

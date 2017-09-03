@@ -3,7 +3,7 @@ from collections import OrderedDict
 opts = OrderedDict() # OrderedDict will sort the element based on the order of the time it was put in
 opts['use_gpu'] = True
 
-opts['model_path'] = '../models/mdnet_vot-otb.pth'
+opts['model_path'] = '../models/mdnet_vot-otb_new-50-epoch.pth'
 
 opts['img_size'] = 107
 opts['padding'] = 16
