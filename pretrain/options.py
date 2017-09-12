@@ -4,7 +4,7 @@ opts = OrderedDict()
 opts['use_gpu'] = True
 
 opts['init_model_path'] = '../models/imagenet-vgg-m.mat'
-opts['model_path'] = '../models/mdnet_vot-otb_new-50-epoch.pth'
+opts['model_path'] = '../models/mdnet_vot-otb_new-200-epoch-2.pth'
 
 opts['batch_frames'] = 8
 opts['batch_pos'] = 32
@@ -22,4 +22,4 @@ opts['momentum'] = 0.9
 opts['grad_clip'] = 10
 opts['ft_layers'] = ['conv','fc']
 opts['lr_mult'] = {'fc':10}
-opts['n_cycles'] = 50
+opts['n_cycles'] = 300

@@ -239,9 +239,9 @@ def run_mdnet(img_list, init_bbox, gt=None, savefig_dir='', display=False):
             bbreg_bbox = target_bbox
         
         # Copy previous result at failure
-        if not success:
-            target_bbox = result[i-1]
-            bbreg_bbox = result_bb[i-1]
+        # if not success:
+        #     target_bbox = result[i-1]
+        #     bbreg_bbox = result_bb[i-1]
         
         # Save result
         result[i] = target_bbox
